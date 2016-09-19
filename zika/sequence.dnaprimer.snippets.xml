@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSnippetsTree>
+ <snippetsTree>
+  <snippets file="zika/PMC4654492/results/sequence/dnaprimer/results.xml">
+   <result pre=" the sodium channel voltage dependent gene (Nav). Primers used to amplify this fragment were AaNaA " exact="5’-ACAATGTGGATCGCTTCCC-3’" post="and AaNaB 5’-TGGACAAAAGCAAGGCTAAG-3’(8). The primers amplify a fragment of approximately 472 bp whi" xpath="/html[1]/body[1]/article[1]/div[6]/div[5]/p[1]" name="dnaprimer"/>
+   <result pre="nt gene (Nav). Primers used to amplify this fragment were AaNaA 5’-ACAATGTGGATCGCTTCCC-3’and AaNaB " exact="5’-TGGACAAAAGCAAGGCTAAG-3’" post="(8). The primers amplify a fragment of approximately 472 bp which includes an intron of approximate" name="dnaprimer"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="zika/PMC4671560/results/sequence/dnaprimer/results.xml">
+   <result pre="enetic diversity we observed at the COI gene. This was achieved with the 18SFHIN and CP16 primers (" exact="5’-GTAAGCTTCCTTTGTACACACCGCCCGT-3’" post=" and 5’-GCGGGTACCATGCTTAAATTTAGGGGGTA-3’, respectively) [ 46 ], as used by Mukwaya et al. [ 27" xpath="/html[1]/body[1]/article[1]/div[6]/div[2]/p[7]" name="dnaprimer"/>
+   <result pre=" gene. This was achieved with the 18SFHIN and CP16 primers (5’-GTAAGCTTCCTTTGTACACACCGCCCGT-3’ and " exact="5’-GCGGGTACCATGCTTAAATTTAGGGGGTA-3’" post=", respectively) [ 46 ], as used by Mukwaya et al. [ 27 ]. To generate PCR products, 1 unit of" xpath="/html[1]/body[1]/article[1]/div[6]/div[2]/p[7]" name="dnaprimer"/>
+   <result pre="reened and colonies with inserts stored in TE buffer for PCR amplification. Universal M13 primers (" exact="5’-TGTAAAACGACGGCCAGT-3’" post=" and 5’-CAGGAAACAGCTATGAC-3’) [ 48 ] were used to amplify cloned ITS products in the following 1" xpath="/html[1]/body[1]/article[1]/div[6]/div[2]/p[7]" name="dnaprimer"/>
+   <result pre="rts stored in TE buffer for PCR amplification. Universal M13 primers (5’-TGTAAAACGACGGCCAGT-3’ and " exact="5’-CAGGAAACAGCTATGAC-3’" post=") [ 48 ] were used to amplify cloned ITS products in the following 13μl reaction; 1.25 units of " xpath="/html[1]/body[1]/article[1]/div[6]/div[2]/p[7]" name="dnaprimer"/>
+   <result pre="nd reverse primer. Primers developed for amplification of 591 bp in Ae. bromeliae only were BRO-F (" exact="5’-CCTGGCCAGTGGCCA-3’" post=") and BRO-R (5’-GTGCACACCACTGA-3’). Amplification was achieved with a touchdown PCR protocol; initi" xpath="/html[1]/body[1]/article[1]/div[6]/div[2]/p[7]" name="dnaprimer"/>
+   <result pre="ed for amplification of 591 bp in Ae. bromeliae only were BRO-F (5’-CCTGGCCAGTGGCCA-3’) and BRO-R (" exact="5’-GTGCACACCACTGA-3’" post="). Amplification was achieved with a touchdown PCR protocol; initialisation step of 95°C for 3 minu" name="dnaprimer"/>
+  </snippets>
+ </snippetsTree>
+</projectSnippetsTree>
