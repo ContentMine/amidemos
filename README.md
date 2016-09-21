@@ -32,17 +32,47 @@ The tables are created with columns corresponding to:
  * a summary of the most frequent words (with stop words ("the, of, etc.") omitted)
 
 ### table display
-The display uses the DataTables JS package enhancement which adds table management (e.g. chunking the display, search etc.). This is automatically downloaded from the web. It won't display directly from the github site. Without the DataTables the display is a well-formed HTML table, just not interactive
+The display uses the DataTables JS package enhancement which adds table management (e.g. chunking the display, search etc.). This library is automatically downloaded from the web. It won't display directly from the github site. Without the DataTables the display is a well-formed HTML table, just not interactive, so to get the full feel download the table and display it in your browser.
 
 ## Examples
 
 ### aardvark
 
+We retrieve all papers in EuPMC about Aardvarks, using the common name.
+
 ```
 getpapers -q aardvark -o aardvark -x -p
 ```
+This creates a `cProject` in a directory called `aardvark` 
+The command 
+```
+cmine aardvark 
+```
+will then run the default `norma` `ami` commands 
 
-The headings are:
+
+we display the tables in browser as:
+
+https://rawgit.com/ContentMine/amidemos/master/aardvark/full.dataTables.html 
+
+and downloadable as
+https://github.com/ContentMine/amidemos/master/aardvark/full.dataTables.html 
+
+
+
+
+
+### zika
+
+We have done the same for "Zika" with a slightly different set of columns
+
+```
+getpapers -q zika -o zika -x -p
+```
+https://rawgit.com/ContentMine/amidemos/master/git/full.dataTables.html 
+
+
+
 
 
 
