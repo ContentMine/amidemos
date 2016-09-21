@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="328">cancer</result>
+ <result title="frequency" count="81">leukemia</result>
+ <result title="frequency" count="35">breast cancer</result>
+ <result title="frequency" count="33">tuberculosis</result>
+ <result title="frequency" count="26">suppression</result>
+ <result title="frequency" count="23">colon cancer</result>
+ <result title="frequency" count="19">hepatocellular carcinoma</result>
+ <result title="frequency" count="19">autism</result>
+ <result title="frequency" count="17">pancreatic cancer</result>
+ <result title="frequency" count="13">toxoplasmosis</result>
+ <result title="frequency" count="12">neurodegeneration</result>
+ <result title="frequency" count="12">prostate cancer</result>
+ <result title="frequency" count="10">obesity</result>
+ <result title="frequency" count="10">leishmaniasis</result>
+ <result title="frequency" count="9">neuroblastoma</result>
+ <result title="frequency" count="9">lung cancer</result>
+ <result title="frequency" count="9">hypersensitivity</result>
+ <result title="frequency" count="8">lymphoblastic leukemia</result>
+ <result title="frequency" count="8">lymphoma</result>
+ <result title="frequency" count="8">osteosarcoma</result>
+ <result title="frequency" count="7">colorectal cancer</result>
+ <result title="frequency" count="7">epilepsy</result>
+ <result title="frequency" count="6">chikungunya</result>
+ <result title="frequency" count="6">sarcoma</result>
+ <result title="frequency" count="6">diarrhea</result>
+ <result title="frequency" count="6">dental caries</result>
+ <result title="frequency" count="5">infertility</result>
+ <result title="frequency" count="5">dental caries.</result>
+ <result title="frequency" count="5">cirrhosis</result>
+ <result title="frequency" count="5">cutaneous leishmaniasis</result>
+ <result title="frequency" count="5">stomach cancer</result>
+ <result title="frequency" count="5">liver cancer</result>
+ <result title="frequency" count="4">dementia</result>
+ <result title="frequency" count="4">hepatitis</result>
+ <result title="frequency" count="4">arthritis</result>
+ <result title="frequency" count="4">influenza</result>
+ <result title="frequency" count="4">glioblastoma multiforme</result>
+ <result title="frequency" count="4">anorexia nervosa.</result>
+ <result title="frequency" count="4">candidiasis</result>
+ <result title="frequency" count="4">fibrosarcoma</result>
+ <result title="frequency" count="3">bladder cancer</result>
+ <result title="frequency" count="3">ovarian cancer</result>
+ <result title="frequency" count="3">asthma</result>
+ <result title="frequency" count="3">conjunctivitis</result>
+ <result title="frequency" count="3">eating disorder</result>
+ <result title="frequency" count="3">glioma</result>
+ <result title="frequency" count="3">lung carcinoma</result>
+ <result title="frequency" count="3">multiple myeloma</result>
+ <result title="frequency" count="3">liver disease</result>
+ <result title="frequency" count="3">neuropathy</result>
+ <result title="frequency" count="3">mastocytoma</result>
+ <result title="frequency" count="3">malaria</result>
+ <result title="frequency" count="3">pneumonia</result>
+ <result title="frequency" count="3">nephropathy</result>
+ <result title="frequency" count="2">frontotemporal dementia</result>
+ <result title="frequency" count="2">pancreatic cancer.</result>
+ <result title="frequency" count="2">hepatocellular carcinoma.</result>
+ <result title="frequency" count="2">rheumatoid arthritis</result>
+ <result title="frequency" count="2">common cold,</result>
+ <result title="frequency" count="2">liver cancer.</result>
+ <result title="frequency" count="2">obsessive-compulsive disorder,</result>
+ <result title="frequency" count="2">acute lymphoblastic leukemia</result>
+ <result title="frequency" count="2">colitis</result>
+ <result title="frequency" count="2">osteoporosis</result>
+ <result title="frequency" count="2">cervical cancer</result>
+ <result title="frequency" count="2">anorexia nervosa,</result>
+ <result title="frequency" count="2">diabetes mellitus</result>
+ <result title="frequency" count="2">anorexia nervosa</result>
+ <result title="frequency" count="2">diphtheria</result>
+ <result title="frequency" count="2">head and neck cancer</result>
+ <result title="frequency" count="2">amelanotic melanoma</result>
+ <result title="frequency" count="2">infectious disease</result>
+ <result title="frequency" count="1">liver disease,</result>
+ <result title="frequency" count="1">bulimia nervosa,</result>
+ <result title="frequency" count="1">bulimia nervosa.</result>
+ <result title="frequency" count="1">blepharitis</result>
+ <result title="frequency" count="1">motion sickness</result>
+ <result title="frequency" count="1">periodontal disease</result>
+ <result title="frequency" count="1">tetanus</result>
+ <result title="frequency" count="1">arteriosclerosis</result>
+ <result title="frequency" count="1">hepatocellular carcinoma,</result>
+ <result title="frequency" count="1">cutaneous leishmaniasis.</result>
+ <result title="frequency" count="1">schistosomiasis</result>
+ <result title="frequency" count="1">encephalomyelitis</result>
+ <result title="frequency" count="1">leprosy</result>
+ <result title="frequency" count="1">constipation</result>
+ <result title="frequency" count="1">bulimia nervosa</result>
+ <result title="frequency" count="1">myelofibrosis</result>
+ <result title="frequency" count="1">cardiovascular disease.</result>
+ <result title="frequency" count="1">bulimia nervosa;</result>
+ <result title="frequency" count="1">pancreatitis</result>
+ <result title="frequency" count="1">yellow fever,</result>
+ <result title="frequency" count="1">familial adenomatous polyposis</result>
+ <result title="frequency" count="1">myeloid leukemia</result>
+ <result title="frequency" count="1">eating disorder,</result>
+ <result title="frequency" count="1">metabolic syndrome;</result>
+ <result title="frequency" count="1">hypothyroidism</result>
+ <result title="frequency" count="1">osteoarthritis</result>
+ <result title="frequency" count="1">bacterial disease</result>
+ <result title="frequency" count="1">astrocytoma</result>
+ <result title="frequency" count="1">hypoglycemia</result>
+ <result title="frequency" count="1">lymphoblastic leukemia,</result>
+ <result title="frequency" count="1">allergic rhinitis,</result>
+ <result title="frequency" count="1">choriocarcinoma</result>
+ <result title="frequency" count="1">liver cancer,</result>
+ <result title="frequency" count="1">cataract</result>
+ <result title="frequency" count="1">obsessive-compulsive disorder.</result>
+ <result title="frequency" count="1">major depressive disorder</result>
+ <result title="frequency" count="1">skin melanoma</result>
+ <result title="frequency" count="1">viral hepatitis,</result>
+ <result title="frequency" count="1">gastroenteritis</result>
+ <result title="frequency" count="1">acute pancreatitis</result>
+ <result title="frequency" count="1">erectile dysfunction,</result>
+ <result title="frequency" count="1">schizophrenia</result>
+ <result title="frequency" count="1">leukopenia</result>
+ <result title="frequency" count="1">aids</result>
+ <result title="frequency" count="1">gastritis</result>
+ <result title="frequency" count="1">oral cancer</result>
+ <result title="frequency" count="1">acute lymphoblastic leukemia,</result>
+ <result title="frequency" count="1">neurological disorder</result>
+ <result title="frequency" count="1">diabetic neuropathy</result>
+ <result title="frequency" count="1">ptosis</result>
+ <result title="frequency" count="1">metabolic syndrome</result>
+ <result title="frequency" count="1">colon cancer.</result>
+ <result title="frequency" count="1">dyspepsia</result>
+ <result title="frequency" count="1">allergic rhinitis</result>
+ <result title="frequency" count="1">rhinitis</result>
+ <result title="frequency" count="1">gastric ulcer</result>
+ <result title="frequency" count="1">acute myeloid leukemia</result>
+ <result title="frequency" count="1">anorexia nervosa;</result>
+ <result title="frequency" count="1">hyperinsulinemia</result>
+ <result title="frequency" count="1">meningitis</result>
+ <result title="frequency" count="1">pervasive developmental disorder</result>
+ <result title="frequency" count="1">heart disease,</result>
+ <result title="frequency" count="1">hernia</result>
+ <result title="frequency" count="1">lung cancer,</result>
+ <result title="frequency" count="1">urinary tract infection</result>
+</results>

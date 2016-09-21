@@ -1,0 +1,5405 @@
+article,chemical,count,dbName,dbId
+PMC3915084,"monoterpenes",17,,35187
+PMC3915084,"terpenes",10,,35186
+PMC3915084,"citral",10,,23316
+PMC3915084,"pinene",10,,17187
+PMC3915084,"sesquiterpenes",8,,35189
+PMC3915084,"Limonene",7,,15384
+PMC3915084,"monoterpenoids",6,,25409
+PMC3915084,"Tween 80",5,,53426
+PMC3915084,"water",5,,15377
+PMC3915084,"terpenoides",4,,26873
+PMC3915084,"trans-geraniol",4,,17447
+PMC3915084,"myrcene",3,,17221
+PMC3915084,"carvone",3,,38265
+PMC3915084,"1-terpinen-4-ol",3,,78884
+PMC3915084,"hydrocinnamic acid",3,,28631
+PMC3915084,"caryophyllene",2,,10357
+PMC3915084,"farnesol",2,,42680
+PMC3915084,"isopropyl",2,,30353
+PMC3915084,"myristate",2,,30807
+PMC3915084,"trans-citral",2,,16980
+PMC3915084,"Glucose",1,,42758
+PMC3915084,"dimethylpolysiloxane",1,,61468
+PMC3915084,"Helium",1,,33681
+PMC3915084,"dichloromethane",1,,15767
+PMC3915084,"pinocarveol",1,,26137
+PMC3915084,"fatty acid ester",1,,35748
+PMC3920264,"trichothecene",16,,55517
+PMC3920264,"Deoxynivalenol",12,,10022
+PMC3920264,"methanol",12,,44520
+PMC3920264,"acetyl",7,,46887
+PMC3920264,"hydroxyl groups",5,,43176
+PMC3920264,"oxygen",5,,25805
+PMC3920264,"carbonyl",5,,23019
+PMC3920264,"hydride",3,,29239
+PMC3920264,"(+)-carvone",3,,15399
+PMC3920264,"epoxy group",3,,30721
+PMC3920264,"(+)-cis-carveol",3,,232
+PMC3920264,"nivalenol",2,,7599
+PMC3920264,"ketones",2,,17087
+PMC3920264,"cerium",2,,33369
+PMC3920264,"acetyl groups",2,,40574
+PMC3920264,"carvone",2,,38265
+PMC3920264,"silica",2,,30563
+PMC3920264,"dichloromethane",2,,15767
+PMC3920264,"hexane",2,,29021
+PMC3920264,"ester",1,,35701
+PMC3920264,"alcohols",1,,30879
+PMC3920264,"chloride",1,,17996
+PMC3920264,"pyran ring",1,,52848
+PMC3920264,"borohydride",1,,30157
+PMC3920264,"hydrogen",1,,49637
+PMC3920264,"methyl",1,,32875
+PMC3920264,"ammonium",1,,28938
+PMC3920264,"molybdate",1,,36264
+PMC3920264,"ethanol",1,,44730
+PMC3920264,"sulfuric acid",1,,26836
+PMC3920264,"Flash",1,,52107
+PMC3920264,"Pyridine",1,,16227
+PMC3920264,"acetic anhydride",1,,36610
+PMC3953398,"Arecoline",46,,2814
+PMC3953398,"copolymers",6,,60804
+PMC3953398,"hydrobromide",6,,48367
+PMC3953398,"terpenes",5,,35186
+PMC3953398,"limonene",4,,15384
+PMC3953398,"cineole",4,,27961
+PMC3953398,"carvone",4,,38265
+PMC3953398,"polyvinylpyrrolidone",3,,53248
+PMC3953398,"polyethylene glycols",3,,46793
+PMC3953398,"ethanol",3,,44730
+PMC3953398,"aluminum",2,,49470
+PMC3953398,"teflon",2,,53251
+PMC3953398,"methyl",1,,32875
+PMC3953398,"1,2,5,6-tetrahydropyridine",1,,47860
+PMC3953398,"carbonic acid",1,,28976
+PMC3953398,"methyl ester",1,,25248
+PMC3953398,"alkaloid",1,,22315
+PMC3953398,"ether",1,,35702
+PMC3953398,"citric acid",1,,30769
+PMC3953398,"dichloromethane",1,,15767
+PMC3953398,"isopropyl alcohol",1,,17824
+PMC3953398,"polyethylene",1,,60034
+PMC3953398,"water",1,,15377
+PMC3953398,"sodium",1,,29101
+PMC3953398,"phosphoric acid",1,,26078
+PMC3953398,"methanol",1,,44520
+PMC3953398,"glycerin",1,,17754
+PMC3953398,"sorbitol",1,,30911
+PMC3953398,"isoprene",1,,35194
+PMC3953398,"alfuzosin",1,,51141
+PMC3953398,"bufalin",1,,517248
+PMC3953398,"meloxicam",1,,6741
+PMC3953398,"propranolol",1,,8499
+PMC3953398,"tamoxifen",1,,41774
+PMC3953398,"hydroxyl group",1,,43176
+PMC3953398,"hydrogen",1,,49637
+PMC3953398,"lipid",1,,18059
+PMC3954529,"Radical",23,,26519
+PMC3954529,"Alkaloids",16,,22315
+PMC3954529,"Aminyl",14,,29318
+PMC3954529,"enone",10,,51689
+PMC3954529,"olefin",8,,33641
+PMC3954529,"lactone",5,,25000
+PMC3954529,"hydrogen atom",5,,49637
+PMC3954529,"carvone",3,,38265
+PMC3954529,"toluene",3,,17578
+PMC3954529,"tertiary amine",2,,32876
+PMC3954529,"alkyne",2,,22339
+PMC3954529,"amine",2,,32952
+PMC3954529,"nitrogen",2,,25555
+PMC3954529,"carbonyl",2,,23019
+PMC3954529,"pyrrolidine",2,,33135
+PMC3954529,"benzyl",2,,22744
+PMC3954529,"tributyltin",2,,27086
+PMC3954529,"hydride",2,,29239
+PMC3954529,"chloride",2,,17996
+PMC3954529,"squalene",1,,15440
+PMC3954529,"carbon",1,,33415
+PMC3954529,"fulvene",1,,51999
+PMC3954529,"amino",1,,46882
+PMC3954529,"cyclohexanone",1,,17854
+PMC3954529,"lactol",1,,38131
+PMC3954529,"amino alcohol",1,,22478
+PMC3954529,"methylene chloride",1,,15767
+PMC3954529,"vinyl",1,,37603
+PMC3954529,"amidyl",1,,48373
+PMC3954529,"benzothiazole",1,,45993
+PMC3954529,"vinyl chloride",1,,28509
+PMC3954529,"benzene",1,,16716
+PMC3961117,"carvone",17,,38265
+PMC3961117,"methicillin",7,,6827
+PMC3961117,"gentamicin",3,,17833
+PMC3961117,"monoterpenes",2,,35187
+PMC3961117,"water",1,,15377
+PMC3961117,"lactam",1,,24995
+PMC3961117,"hydroxymethyl",1,,24712
+PMC3961117,"aminomethane",1,,16830
+PMC3961117,"sodium azide",1,,278547
+PMC3961117,"peptidoglycan",1,,8005
+PMC3961117,"Triton",1,,29234
+PMC3961117,"dicyclohexylcarbodiimide",1,,53090
+PMC3961117,"lipopolysaccharide",1,,16412
+PMC3961117,"glycerol",1,,17754
+PMC3961117,"cation",1,,36916
+PMC3961117,"aminoglycoside antibiotic",1,,22507
+PMC3961117,"monoterpenoids",1,,25409
+PMC3977348,"proteins",18,,16541
+PMC3977348,"mineral",9,,46662
+PMC3977348,"octanal",9,,17935
+PMC3977348,"(-) carvone",9,,15400
+PMC3977348,"acetophenone",7,,27632
+PMC3977348,"(+) carvone",7,,15399
+PMC3977348,"water",5,,15377
+PMC3977348,"and p",5,,73329
+PMC3977348,"Cy3",3,,37990
+PMC3977348,"Hoechst 33258",3,,52082
+PMC3977348,"butyl",2,,41264
+PMC3977348,"butyrate",2,,17968
+PMC3977348,"(+) limonene",2,,15382
+PMC3977348,"digoxigenin",1,,42098
+PMC3977348,"Bromodeoxyuridine",1,,472552
+PMC3977348,"paraformaldehyde",1,,61538
+PMC3977348,"diethyl pyrocarbonate",1,,59051
+PMC3977348,"sucrose",1,,17992
+PMC3977348,"sodium borate",1,,75227
+PMC3977348,"tetramethylrhodamine",1,,52282
+PMC3977348,"isothiocyanate",1,,52221
+PMC3977348,"Delta",1,,36375
+PMC3977348,"kynurenic acid",1,,18344
+PMC3977348,"bore",1,,27560
+PMC3977348,"Triton",1,,29234
+PMC3977348,"salt",1,,26710
+PMC3977348,"penicillin",1,,51356
+PMC3977348,"streptomycin",1,,58007
+PMC3977348,"oligonucleotides",1,,7754
+PMC3977348,"2-glycerophosphate",1,,17270
+PMC3977348,"nitrocellulose",1,,53325
+PMC3977348,"neomycin",1,,7507
+PMC3977348,"G418",1,,42768
+PMC4005389,"fenchone",4,,4999
+PMC4005389,"eugenol",3,,4917
+PMC4005389,"limonene",3,,15384
+PMC4005389,"sodium",2,,29101
+PMC4005389,"isoamylacetate",2,,31725
+PMC4005389,"anethole",2,,35616
+PMC4005389,"carvone",2,,38265
+PMC4005389,"aldehyde",2,,17478
+PMC4005389,"acetaldehyde",2,,43923
+PMC4005389,"citronellal",2,,47856
+PMC4005389,"ethanol",2,,44730
+PMC4005389,"cation",1,,36916
+PMC4005389,"biotin",1,,57586
+PMC4005389,"2-phenyl ethanol",1,,49000
+PMC4005389,"(+)carvone",1,,15399
+PMC4005389,"linalool",1,,17580
+PMC4005389,"eucalyptol",1,,27961
+PMC4005389,"Teflon",1,,53251
+PMC4005389,"bicarbonate",1,,17544
+PMC4005389,"a primary alcohol",1,,15734
+PMC4005389,"Ca2+",1,,29108
+PMC4005389,"n-butanol",1,,28885
+PMC4005389,"phenyl",1,,30396
+PMC4005389,"ethyl",1,,62801
+PMC4005389,"terpineol",1,,26876
+PMC4005389,"benzaldehyde",1,,17169
+PMC4005389,"toluene",1,,17578
+PMC4005389,"capsaicin",1,,3374
+PMC4005389,"nucleotides",1,,36976
+PMC4007251,"ammonium acetate",9,,62947
+PMC4007251,"acetonitrile",9,,38472
+PMC4007251,"water",9,,15377
+PMC4007251,"methanol",8,,44520
+PMC4007251,"trans cinnamaldehyde",5,,16731
+PMC4007251,"eugenol",5,,4917
+PMC4007251,"benzaldehyde",5,,17169
+PMC4007251,"terpineol",3,,26876
+PMC4007251,"linalool",3,,17580
+PMC4007251,"myrcene",3,,17221
+PMC4007251,"pinene",3,,17187
+PMC4007251,"acetate",3,,47622
+PMC4007251,"terpenoids",2,,26873
+PMC4007251,"cinnamyl alcohol",2,,17177
+PMC4007251,"benzyl benzoate",2,,41237
+PMC4007251,"caryophyllene",2,,10357
+PMC4007251,"limonene",2,,15384
+PMC4007251,"trans cinnamic acid",2,,35697
+PMC4007251,"carvone",2,,38265
+PMC4007251,"carveol",2,,23046
+PMC4007251,"terpinen-4-ol",2,,78884
+PMC4007251,"geraniol",2,,17447
+PMC4007251,"methyl eugenol",2,,4918
+PMC4007251,"cinnamyl acetate",1,,31402
+PMC4007251,"1,8-cineole",1,,27961
+PMC4007251,"linalyl acetate",1,,6469
+PMC4007251,"nerol",1,,29452
+PMC4007251,"benzoic acid",1,,30746
+PMC4007251,"coumarin",1,,28794
+PMC4007251,"D(+)",1,,29233
+PMC4007251,"(+) dihydrocarvone",1,,154
+PMC4007251,"safrole",1,,8994
+PMC4007251,"(+)-limonene",1,,15382
+PMC4007251,"carbonyl compounds",1,,36586
+PMC4007251,"esters",1,,35701
+PMC4007251,"lactones",1,,25000
+PMC4007251,"cyclic hydrocarbons",1,,33663
+PMC4007251,"phenols",1,,15882
+PMC4007251,"acetic acid",1,,15366
+PMC4007251,"Sodium",1,,29101
+PMC4007251,"aldehyde",1,,17478
+PMC4007251,"oxygen",1,,25805
+PMC4007251,"glyoxal",1,,34779
+PMC4011571,"allyl",37,,30361
+PMC4011571,"ketoester",29,,51847
+PMC4011571,"ketones",14,,17087
+PMC4011571,"Palladium",7,,33363
+PMC4011571,"Trimethylsilyl",6,,51088
+PMC4011571,"lactams",5,,24995
+PMC4011571,"ethyl",4,,62801
+PMC4011571,"carboxylate",4,,35757
+PMC4011571,"fluoride",4,,29228
+PMC4011571,"ester",4,,35701
+PMC4011571,"ethyl Ester",2,,23990
+PMC4011571,"silyl enol ethers",2,,47986
+PMC4011571,"enol",2,,33823
+PMC4011571,"oxocyclohexane",2,,17854
+PMC4011571,"methyl carbonate",2,,36596
+PMC4011571,"benzyl",2,,22744
+PMC4011571,"amino",2,,46882
+PMC4011571,"silyl",1,,30560
+PMC4011571,"ketene",1,,48003
+PMC4011571,"acetals",1,,59769
+PMC4011571,"oxygen",1,,25805
+PMC4011571,"methyl",1,,32875
+PMC4011571,"methyl iodide",1,,39282
+PMC4011571,"bromide",1,,15858
+PMC4011571,"tetrabutylammonium",1,,45825
+PMC4011571,"toluene",1,,17578
+PMC4011571,"sulfonates",1,,33543
+PMC4011571,"acetates",1,,47622
+PMC4011571,"tridecane",1,,35998
+PMC4011571,"carbonyl",1,,23019
+PMC4011571,"fluoro",1,,42645
+PMC4011571,"methyl ester",1,,25248
+PMC4011571,"aryl groups",1,,33338
+PMC4011571,"carvone",1,,38265
+PMC4011571,"chloro",1,,47853
+PMC4011571,"enone",1,,51689
+PMC4011571,"diastereomeric mixture",1,,60915
+PMC4015331,"limonene",7,,15384
+PMC4015331,"pinene",6,,17187
+PMC4015331,"carvone",6,,38265
+PMC4015331,"(+)-limonene",3,,15382
+PMC4015331,"terpinen-4-ol",3,,78884
+PMC4015331,"p-menthane",2,,25826
+PMC4015331,"vanillin",2,,18346
+PMC4015331,"rubber",2,,60185
+PMC4015331,"2,3-butanediol",2,,62064
+PMC4015331,"1-phenylethanol",2,,669
+PMC4015331,"3-carene",2,,35661
+PMC4015331,"carveol",2,,23046
+PMC4015331,"menthone",2,,36503
+PMC4015331,"borneol",2,,28093
+PMC4015331,"linalool",2,,17580
+PMC4015331,"citronellol",2,,50462
+PMC4015331,"trans-caryophyllene",2,,10357
+PMC4015331,"2-butanol",2,,45475
+PMC4015331,"camphene",2,,3830
+PMC4015331,"thujone",2,,9577
+PMC4015331,"fenchone",2,,4999
+PMC4015331,"menthyl acetate",2,,104
+PMC4015331,"1-phenylethylamine",2,,670
+PMC4015331,"terpineol",2,,26876
+PMC4015331,"ibuprofen",2,,5855
+PMC4015331,"Teflon",2,,53251
+PMC4015331,"polyimide",1,,61484
+PMC4015331,"polydimethylsiloxane",1,,61468
+PMC4015331,"(+)-carvone",1,,15399
+PMC4017146,"hept",39,,43060
+PMC4017146,"water",9,,15377
+PMC4017146,"carvone",4,,38265
+PMC4017146,"limonene",4,,15384
+PMC4017146,"methyl benzoate",2,,72775
+PMC4017146,"isoamyl acetate",2,,31725
+PMC4017146,"cumene",2,,34656
+PMC4017146,"ethyl",1,,62801
+PMC4017146,"benzoate",1,,16150
+PMC4017146,"magenta",1,,82336
+PMC4065700,"Nisin",27,,71629
+PMC4065700,"water",17,,15377
+PMC4065700,"nanofibers",13,,52518
+PMC4065700,"chitosan",11,,16261
+PMC4065700,"Thymol",10,,27607
+PMC4065700,"carvacrol",9,,3440
+PMC4065700,"lipid",8,,18059
+PMC4065700,"Eugenol",6,,4917
+PMC4065700,"proteins",6,,16541
+PMC4065700,"cinnamaldehyde",5,,16731
+PMC4065700,"lecithin",5,,73002
+PMC4065700,"cellulose",5,,18246
+PMC4065700,"Tween 80",4,,53426
+PMC4065700,"alginate",4,,58187
+PMC4065700,"limonene",3,,15384
+PMC4065700,"surfactin",3,,29681
+PMC4065700,"sodium",3,,29101
+PMC4065700,"anethole",3,,35616
+PMC4065700,"carvone",3,,38265
+PMC4065700,"phospholipids",3,,16247
+PMC4065700,"poloxamers",2,,53515
+PMC4065700,"peptide",2,,16670
+PMC4065700,"polysaccharide",2,,18154
+PMC4065700,"nanostructures",1,,50795
+PMC4065700,"polyelectrolytes",1,,61446
+PMC4065700,"esters",1,,35701
+PMC4065700,"glycerol",1,,17754
+PMC4065700,"estragole",1,,4867
+PMC4065700,"molds",1,,59963
+PMC4065700,"streptomycin",1,,58007
+PMC4065700,"benzoate",1,,16150
+PMC4065700,"iron",1,,18248
+PMC4065700,"poly(vinyl alcohol)",1,,60030
+PMC4065700,"acetate",1,,47622
+PMC4065700,"hydrochloride",1,,36807
+PMC4065700,"carrageenan",1,,3435
+PMC4065700,"zinc",1,,30185
+PMC4065700,"calcium",1,,29320
+PMC4065700,"hydrocarbon",1,,24632
+PMC4065700,"hydroxypropyl methylcellulose",1,,30618
+PMC4065700,"hydroxyethyl cellulose",1,,85249
+PMC4065700,"dimethyl",1,,42266
+PMC4065700,"ammonium chloride",1,,31206
+PMC4065700,"copolymer",1,,60804
+PMC4065700,"chitin",1,,17029
+PMC4065700,"quaternary ammonium",1,,35267
+PMC4065700,"vinyl",1,,37603
+PMC4065700,"pyrrolidone",1,,36592
+PMC4065700,"polylysine",1,,61488
+PMC4065700,"Biopolymers",1,,33694
+PMC4079982,"sucrose",43,,17992
+PMC4079982,"water",36,,15377
+PMC4079982,"carvone",28,,38265
+PMC4079982,"suc",11,,37952
+PMC4079982,"Geraniol",9,,17447
+PMC4079982,"eugenol",9,,4917
+PMC4079982,"limonene",8,,15384
+PMC4079982,"saccharin",6,,32111
+PMC4079982,"mineral",3,,46662
+PMC4079982,"Plexiglas",2,,61369
+PMC4079982,"lithium chloride",1,,48607
+PMC4079982,"polypropylene",1,,53550
+PMC4097962,"monoterpene",60,,35187
+PMC4097962,"pinene",31,,17187
+PMC4097962,"limonene",29,,15384
+PMC4097962,"hydroxy",26,,43176
+PMC4097962,"Water",24,,15377
+PMC4097962,"carbon",20,,33415
+PMC4097962,"oxygen",17,,25805
+PMC4097962,"1,8-cineole",16,,27961
+PMC4097962,"geraniol",13,,17447
+PMC4097962,"linalool",12,,17580
+PMC4097962,"terpineol",12,,26876
+PMC4097962,"p-cymene",11,,28768
+PMC4097962,"acetyl",10,,46887
+PMC4097962,"perillyl alcohol",10,,15420
+PMC4097962,"methyl",10,,32875
+PMC4097962,"Isoprene",9,,35194
+PMC4097962,"myrcene",9,,17221
+PMC4097962,"carveol",9,,23046
+PMC4097962,"lactone",9,,25000
+PMC4097962,"citronellol",7,,50462
+PMC4097962,"Limonene 1,2-diol",7,,17219
+PMC4097962,"carvone",7,,38265
+PMC4097962,"p-cumate",7,,25822
+PMC4097962,"hydrocarbons",6,,24632
+PMC4097962,"molecular oxygen",6,,15379
+PMC4097962,"(+)-linalool",5,,98
+PMC4097962,"Acetate",5,,47622
+PMC4097962,"(+)-camphor",4,,15396
+PMC4097962,"camphor",4,,36773
+PMC4097962,"Geranial",4,,16980
+PMC4097962,"p-cumic alcohol",4,,27628
+PMC4097962,"2,3-dihydroxy-p-cumate",4,,36647
+PMC4097962,"carboxy",4,,46883
+PMC4097962,"2-hydroxy-6-oxo-7-methylocta-2,4-dienoate",4,,79380
+PMC4097962,"Acetaldehyde",4,,43923
+PMC4097962,"isopropenyl",4,,30354
+PMC4097962,"monoterpenoids",3,,25409
+PMC4097962,"dimethyl",3,,42266
+PMC4097962,"Diphosphate",3,,33019
+PMC4097962,"Cis-2,3-dihydroxy-2,3-dihydro-p-cumate",3,,58420
+PMC4097962,"2-hydroxypenta-2,4-dienoate",3,,37319
+PMC4097962,"citronellal",3,,47856
+PMC4097962,"thioester",3,,51277
+PMC4097962,"pinocarveol",3,,26137
+PMC4097962,"toluene",3,,17578
+PMC4097962,"perillic acid",3,,36999
+PMC4097962,"carbon dioxide",2,,16526
+PMC4097962,"methane",2,,16183
+PMC4097962,"terpenes",2,,35186
+PMC4097962,"alcohols",2,,30879
+PMC4097962,"esters",2,,35701
+PMC4097962,"propan-2-yl",2,,30353
+PMC4097962,"oxepan-2-one",2,,17915
+PMC4097962,"heptanoate",2,,32362
+PMC4097962,"Geranic acid",2,,67264
+PMC4097962,"p-cumic aldehyde",2,,28671
+PMC4097962,"Isobutyrate",2,,48944
+PMC4097962,"pentanoate",2,,31011
+PMC4097962,"Pyruvate",2,,15361
+PMC4097962,"citronellate",2,,80507
+PMC4097962,"Bicarbonate",2,,17544
+PMC4097962,"2,5-diketocamphane",2,,36775
+PMC4097962,"glucose",2,,42758
+PMC4097962,"6-oxocineole",2,,16123
+PMC4097962,"ketone",2,,17087
+PMC4097962,"diol",2,,8387
+PMC4097962,"(+)-limonene",2,,15382
+PMC4097962,"tertiary alcohol",2,,26878
+PMC4097962,"terpenoid",2,,26873
+PMC4097962,"organic compounds",1,,50860
+PMC4097962,"sesquiterpenes",1,,35189
+PMC4097962,"isoprenoids",1,,24913
+PMC4097962,"ozone",1,,25812
+PMC4097962,"hydroxyl radicals",1,,29191
+PMC4097962,"chlorine atoms",1,,23116
+PMC4097962,"carbonyls",1,,23019
+PMC4097962,"halogenated hydrocarbons",1,,24472
+PMC4097962,"peroxynitrates",1,,29270
+PMC4097962,"lipids",1,,18059
+PMC4097962,"nitrate",1,,48107
+PMC4097962,"5-hydroxycamphor",1,,20570
+PMC4097962,"protein",1,,16541
+PMC4097962,"methylidene",1,,29358
+PMC4097962,"hept-2-enal",1,,61724
+PMC4097962,"menthone",1,,36503
+PMC4097962,"epoxy",1,,30721
+PMC4097962,"(+)-dihydrocarvone",1,,154
+PMC4097962,"(+)-trans-carveol",1,,15388
+PMC4097962,"(+)-carvone",1,,15399
+PMC4097962,"1,2-epoxy-p-menth-8-ene",1,,16431
+PMC4097962,"p-cumic acid",1,,28122
+PMC4097962,"penta-2,4-dienoate",1,,37322
+PMC4097962,"(-)-camphor",1,,15397
+PMC4097962,"(+)-5-oxo-1,2-campholide",1,,66896
+PMC4097962,"5-oxo-1,2-campholide",1,,66953
+PMC4097962,"pyran",1,,35594
+PMC4097962,"5-exo-hydroxycamphor",1,,15398
+PMC4097962,"diketone",1,,46640
+PMC4097962,"acetic acid",1,,15366
+PMC4097962,"nitrogen",1,,25555
+PMC4097962,"lactone ring",1,,52938
+PMC4097962,"4,5-dihydrofuran",1,,51662
+PMC4097962,"limonene-1,2-epoxide",1,,35672
+PMC4097962,"dihydrocarvone",1,,23733
+PMC4097962,"oxygen atom",1,,29194
+PMC4097962,"perillyl aldehyde",1,,15421
+PMC4097962,"ether",1,,35702
+PMC4097962,"carboxylic acid",1,,33575
+PMC4097962,"citrate",1,,50744
+PMC4097962,"enone",1,,51689
+PMC4097962,"octyl",1,,25657
+PMC4097962,"nerol",1,,29452
+PMC4097962,"enoyl",1,,23916
+PMC4097962,"molybdenum",1,,49446
+PMC4097962,"primary alcohol",1,,15734
+PMC4097962,"copper",1,,30052
+PMC4097962,"organic molecules",1,,72695
+PMC4097962,"diterpene",1,,35190
+PMC4097962,"3-carene",1,,35661
+PMC4097962,"cyclic compounds",1,,33595
+PMC4097962,"lignin",1,,6457
+PMC4115348,"mefenamic acid",15,,6717
+PMC4115348,"calcium",5,,29320
+PMC4115348,"starch",2,,28017
+PMC4115348,"prostanoids",2,,26347
+PMC4115348,"tannin",2,,26848
+PMC4115348,"prostaglandins",1,,26333
+PMC4115348,"chamomile",1,,18388
+PMC4115348,"carveol",1,,23046
+PMC4115348,"d-Carvone",1,,15399
+PMC4115348,"dihydrocarvone",1,,23733
+PMC4115348,"limonene",1,,15384
+PMC4115348,"carvacrol",1,,3440
+PMC4115348,"thymol",1,,27607
+PMC4115348,"acetylcholine",1,,15355
+PMC4156257,"alkene",9,,32878
+PMC4156257,"tetrafluoroborates",8,,38899
+PMC4156257,"1,3-butadiene",7,,39478
+PMC4156257,"phenylboronic acid",6,,44923
+PMC4156257,"salts",4,,26710
+PMC4156257,"Phenyl",4,,30396
+PMC4156257,"Palladium",3,,33363
+PMC4156257,"triflates",3,,48547
+PMC4156257,"boronic acids",3,,38269
+PMC4156257,"phenyldiazonium",3,,64466
+PMC4156257,"boronic acid",3,,38267
+PMC4156257,"aryl groups",2,,33338
+PMC4156257,"allyl",2,,30361
+PMC4156257,"1,4-dioxane",2,,47032
+PMC4156257,"dodecane",2,,28817
+PMC4156257,"1-butene",2,,48362
+PMC4156257,"trifluoromethyl",2,,50127
+PMC4156257,"allenes",1,,37602
+PMC4156257,"carbon",1,,33415
+PMC4156257,"hydride",1,,29239
+PMC4156257,"dimethylacetamide",1,,84254
+PMC4156257,"methanol",1,,44520
+PMC4156257,"alcohols",1,,30879
+PMC4156257,"4-nitrophenyldiazonium",1,,64469
+PMC4156257,"methylphenyl ether",1,,16579
+PMC4156257,"phenylacetamide",1,,16562
+PMC4156257,"fluoro",1,,42645
+PMC4156257,"nitro",1,,29785
+PMC4156257,"a ketone",1,,17087
+PMC4156257,"aryl bromide",1,,37148
+PMC4156257,"aryl iodide",1,,50891
+PMC4156257,"ortho-tolyl group",1,,52554
+PMC4156257,"phosphines",1,,35883
+PMC4156257,"phosphoramidites",1,,59751
+PMC4156257,"carbenes",1,,51363
+PMC4156257,"amines",1,,32952
+PMC4156257,"carvone",1,,38265
+PMC4156257,"phellandrene",1,,50034
+PMC4156257,"1,2-dichloroethane",1,,27789
+PMC4157029,"Diazinon",49,,34682
+PMC4157029,"Chlorpyrifos",31,,34631
+PMC4157029,"organophosphates",6,,37592
+PMC4157029,"organophosphorus pesticides",3,,39093
+PMC4157029,"water",2,,15377
+PMC4157029,"Sodium chloride",2,,26710
+PMC4157029,"Carvon",2,,38265
+PMC4157029,"thymol",2,,27607
+PMC4157029,"carvacrol",2,,3440
+PMC4157029,"Helium",2,,33681
+PMC4157029,"malathion",2,,6651
+PMC4157029,"profenofos",2,,38845
+PMC4157029,"chlordane",2,,34623
+PMC4157029,"dieldrin",2,,34696
+PMC4157029,"lindane",2,,32888
+PMC4157029,"endosulfan",2,,4791
+PMC4157029,"acetyl",1,,46887
+PMC4157029,"acetylcholine",1,,15355
+PMC4157029,"calcium",1,,29320
+PMC4157029,"methanol",1,,44520
+PMC4157029,"sodium hydroxide",1,,32145
+PMC4157029,"hydrochloric acid",1,,17883
+PMC4157029,"polydimethylsiloxane",1,,61468
+PMC4157029,"sodium bicarbonate",1,,32139
+PMC4157029,"limonene",1,,15384
+PMC4157029,"bicarbonate",1,,17544
+PMC4157029,"sodium",1,,29101
+PMC4157029,"anthraquinones",1,,22580
+PMC4157029,"sennosides",1,,84154
+PMC4157029,"mucilage",1,,74969
+PMC4157029,"Hydrogen",1,,49637
+PMC4157029,"dimethoate",1,,34714
+PMC4157029,"chamomile",1,,18388
+PMC4157029,"Aldrin",1,,2564
+PMC4157029,"parathion",1,,27928
+PMC4157029,"organochlorine pesticide",1,,38656
+PMC4157029,"tetradifon",1,,39330
+PMC4157029,"chlorothalonil",1,,3639
+PMC4157029,"tecnazene",1,,82044
+PMC4161876,"Ca2+",16,,29108
+PMC4161876,"carvone",11,,38265
+PMC4161876,"proteins",10,,16541
+PMC4161876,"oligonucleotides",3,,7754
+PMC4161876,"decanoic acid",2,,30813
+PMC4161876,"menthone",2,,36503
+PMC4161876,"eugenol",2,,4917
+PMC4161876,"(-)-carvone",2,,15400
+PMC4161876,"(+)-carvone",2,,15399
+PMC4161876,"nonanoic acid",2,,29019
+PMC4161876,"propionic acid",2,,30768
+PMC4161876,"delta",2,,36375
+PMC4161876,"dopamine",1,,59905
+PMC4161876,"zinc",1,,30185
+PMC4161876,"cyclic nucleotide",1,,23447
+PMC4161876,"monoterpene",1,,35187
+PMC4161876,"butyl",1,,41264
+PMC4161876,"water",1,,15377
+PMC4161876,"biotin",1,,57586
+PMC4161876,"dextrose",1,,42758
+PMC4161876,"nitrocellulose",1,,53325
+PMC4161876,"paraformaldehyde",1,,61538
+PMC4161876,"Alexa Fluor-488",1,,52661
+PMC4161876,"Calcium",1,,29320
+PMC4161876,"Pluronic",1,,53514
+PMC4161876,"geraniol",1,,17447
+PMC4161876,"acetophenone",1,,27632
+PMC4161876,"benzyl alcohol",1,,17987
+PMC4161876,"heptanoic acid",1,,45571
+PMC4161876,"Lipid",1,,18059
+PMC4202545,"Phenobarbital",7,,8069
+PMC4202545,"Flavonoids",5,,72544
+PMC4202545,"Pentylenetetrazol",4,,34910
+PMC4202545,"carvon",2,,38265
+PMC4202545,"linalool",2,,17580
+PMC4202545,"water",2,,15377
+PMC4202545,"monoterpenes",2,,35187
+PMC4202545,"d- limonene",1,,15382
+PMC4202545,"pinene",1,,17187
+PMC4202545,"ethanol",1,,44730
+PMC4202545,"limonene",1,,15384
+PMC4202545,"methyl",1,,32875
+PMC4202545,"aspartate",1,,72314
+PMC4202545,"calcium",1,,29320
+PMC4204956,"geranial",7,,16980
+PMC4204956,"neral",7,,29020
+PMC4204956,"carvone",7,,38265
+PMC4204956,"limonene",6,,15384
+PMC4204956,"homoserine lactones",5,,58093
+PMC4204956,"caryophyllene",4,,10357
+PMC4204956,"geraniol",3,,17447
+PMC4204956,"Linalool",3,,17580
+PMC4204956,"protein",2,,16541
+PMC4204956,"piperitenone",2,,17304
+PMC4204956,"citral",2,,23316
+PMC4204956,"monoterpenes",2,,35187
+PMC4204956,"lactones",1,,25000
+PMC4204956,"peptide antibiotics",1,,25903
+PMC4204956,"oligopeptides",1,,25676
+PMC4204956,"ursolic acid",1,,9908
+PMC4204956,"naringenin",1,,50202
+PMC4204956,"cinnamaldehyde",1,,16731
+PMC4204956,"salicylic acid",1,,16914
+PMC4204956,"methyl eugenol",1,,4918
+PMC4204956,"glycerol",1,,17754
+PMC4204956,"aluminum",1,,49470
+PMC4204956,"1-butanol",1,,28885
+PMC4204956,"water",1,,15377
+PMC4204956,"phenyl",1,,30396
+PMC4204956,"Helium",1,,33681
+PMC4204956,"6-Methyl-5-hepten-2-one",1,,16310
+PMC4204956,"1041",1,,31050
+PMC4204956,"Piperitone",1,,48933
+PMC4204956,"Geranyl acetate",1,,5331
+PMC4204956,"Farnesene",1,,39237
+PMC4204956,"chamomile",1,,18388
+PMC4204956,"ketones",1,,17087
+PMC4204956,"myrcene",1,,17221
+PMC4204956,"camphor",1,,36773
+PMC4204956,"cineole",1,,27961
+PMC4204956,"estragole",1,,4867
+PMC4204956,"sesquiterpenes",1,,35189
+PMC4204956,"oxygen",1,,25805
+PMC4204956,"aldehydes",1,,17478
+PMC4204956,"alcohols",1,,30879
+PMC4206695,"nitrene",13,,29339
+PMC4206695,"alkyl chloride",12,,23128
+PMC4206695,"carbamate",8,,5015
+PMC4206695,"Isothiocyanate",4,,52221
+PMC4206695,"vinyl group",4,,37603
+PMC4206695,"chloride",4,,17996
+PMC4206695,"oxazolidinone",4,,55374
+PMC4206695,"nitrogen",3,,25555
+PMC4206695,"indole",2,,35581
+PMC4206695,"ketone",2,,17087
+PMC4206695,"indole alkaloids",1,,38958
+PMC4206695,"arena",1,,82044
+PMC4206695,"olefin",1,,33641
+PMC4206695,"carvone",1,,38265
+PMC4206695,"oxindole",1,,38459
+PMC4206695,"acetyl chloride",1,,37580
+PMC4206695,"alkene",1,,32878
+PMC4206695,"aldehyde",1,,17478
+PMC4206695,"silyl ether",1,,47988
+PMC4206695,"an alcohol",1,,30879
+PMC4206695,"bathophenanthroline",1,,77995
+PMC4206695,"phenols",1,,15882
+PMC4206695,"formyl group",1,,42485
+PMC4209970,"sec",13,,32746
+PMC4209970,"methyl salicylate",6,,31832
+PMC4209970,"p-cymene",5,,28768
+PMC4209970,"acetophenone",5,,27632
+PMC4209970,"acetic acid",5,,15366
+PMC4209970,"myrcene",4,,17221
+PMC4209970,"ethyl",4,,62801
+PMC4209970,"butyrate",4,,17968
+PMC4209970,"nonanal",3,,84268
+PMC4209970,"octanal",3,,17935
+PMC4209970,"propionic acid",2,,30768
+PMC4209970,"caryophyllene",2,,10357
+PMC4209970,"and p",2,,73329
+PMC4209970,"sulfur",1,,26833
+PMC4209970,"humulene",1,,5768
+PMC4209970,"isobutyl acetate",1,,50569
+PMC4209970,"(+)-carvone",1,,15399
+PMC4209970,"carvone",1,,38265
+PMC4209970,"methyl",1,,32875
+PMC4209970,"butanoate",1,,30772
+PMC4209970,"polypropylene",1,,53550
+PMC4220615,"Perillyl Alcohol",45,,15420
+PMC4220615,"Monoterpenes",28,,35187
+PMC4220615,"Carvacrol",22,,3440
+PMC4220615,"limonene",21,,15384
+PMC4220615,"proteins",20,,16541
+PMC4220615,"thymol",15,,27607
+PMC4220615,"doxorubicin",11,,64816
+PMC4220615,"Geraniol",11,,17447
+PMC4220615,"carvone",10,,38265
+PMC4220615,"Linalool",8,,17580
+PMC4220615,"Alpha-Terpineol",7,,22469
+PMC4220615,"cisplatin",7,,27899
+PMC4220615,"1,8-Cineole",7,,27961
+PMC4220615,"terpinen-4-ol",6,,78884
+PMC4220615,"myrcene",6,,17221
+PMC4220615,"gemcitabine",6,,175901
+PMC4220615,"Borneol",5,,28093
+PMC4220615,"Radical",5,,26519
+PMC4220615,"p-cymene",4,,28768
+PMC4220615,"citral",4,,23316
+PMC4220615,"d-limonene",4,,15382
+PMC4220615,"aflatoxin B1",4,,2504
+PMC4220615,"aflatoxin",4,,22271
+PMC4220615,"Perillic Acid",4,,36999
+PMC4220615,"Beta-Pinene",4,,50025
+PMC4220615,"alpha-pinene",4,,36740
+PMC4220615,"citronellol",3,,50462
+PMC4220615,"Linalyl Acetate",3,,6469
+PMC4220615,"Camphor",3,,36773
+PMC4220615,"Ascaridole",3,,2866
+PMC4220615,"carveol",3,,23046
+PMC4220615,"isopulegol",3,,70479
+PMC4220615,"dien",3,,30629
+PMC4220615,"aldehyde",3,,17478
+PMC4220615,"selenocystine",2,,28553
+PMC4220615,"anthracene",2,,35298
+PMC4220615,"triol",2,,27136
+PMC4220615,"ifosfamide",2,,5864
+PMC4220615,"oxaliplatin",2,,31941
+PMC4220615,"quinone",2,,36141
+PMC4220615,"glutathione",2,,57925
+PMC4220615,"uridine",2,,16704
+PMC4220615,"and p",2,,73329
+PMC4220615,"diol",2,,8387
+PMC4220615,"acetate",2,,47622
+PMC4220615,"5-Fluorouracil",2,,46345
+PMC4220615,"cholesterol",2,,16113
+PMC4220615,"mevalonate",2,,25350
+PMC4220615,"Camphene",2,,3830
+PMC4220615,"Terpinolene",2,,9457
+PMC4220615,"uridine diphosphate",2,,17659
+PMC4220615,"eugenol",1,,4917
+PMC4220615,"myristicin",1,,68234
+PMC4220615,"Gamma-Thujaplicin",1,,10578
+PMC4220615,"4-nitro-o-phenylenediamine",1,,67116
+PMC4220615,"methanol",1,,44520
+PMC4220615,"butylated hydroxytoluene",1,,34247
+PMC4220615,"butylated hydroxyanisole",1,,76359
+PMC4220615,"selenium",1,,27568
+PMC4220615,"copper",1,,30052
+PMC4220615,"diosgenin",1,,4629
+PMC4220615,"terpene",1,,35186
+PMC4220615,"4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone",1,,32692
+PMC4220615,"monoterpenoid",1,,25409
+PMC4220615,"pyrene",1,,39106
+PMC4220615,"ubiquinone",1,,46245
+PMC4220615,"farnesyl",1,,42362
+PMC4220615,"beta-carotene",1,,17579
+PMC4220615,"linoleic acid",1,,17351
+PMC4220615,"Polo",1,,39299
+PMC4220615,"humulene",1,,5768
+PMC4220615,"20-methylcholanthrene",1,,34342
+PMC4220615,"water",1,,15377
+PMC4220615,"9,10-Dimethylbenz(a)anthracene",1,,254496
+PMC4220615,"lathosterol",1,,17168
+PMC4220615,"radio",1,,33325
+PMC4224956,"testosterone",17,,17347
+PMC4224956,"hematoxylin",5,,5601
+PMC4224956,"water",4,,15377
+PMC4224956,"Amin",1,,32952
+PMC4224956,"carvone",1,,38265
+PMC4224956,"limonene",1,,15384
+PMC4224956,"luteinizing hormone",1,,81568
+PMC4224956,"ethanol",1,,44730
+PMC4224956,"diethyl ether",1,,35702
+PMC4224956,"formalin",1,,16842
+PMC4224956,"and p",1,,73329
+PMC4224956,"fructose",1,,28757
+PMC4224956,"citrate",1,,50744
+PMC4224956,"inositol",1,,24848
+PMC4224956,"prostaglandins",1,,26333
+PMC4232691,"proteins",22,,16541
+PMC4232691,"terpene",19,,35186
+PMC4232691,"limonene",16,,15384
+PMC4232691,"monoterpenes",13,,35187
+PMC4232691,"sesquiterpenes",12,,35189
+PMC4232691,"carvone",9,,38265
+PMC4232691,"caryophyllene",8,,10357
+PMC4232691,"carbon",5,,33415
+PMC4232691,"farnesene",5,,39237
+PMC4232691,"copaene",5,,10221
+PMC4232691,"methyl",4,,32875
+PMC4232691,"glutathione",4,,57925
+PMC4232691,"cytochrome",3,,4056
+PMC4232691,"lipid",3,,18059
+PMC4232691,"nitrogen",3,,25555
+PMC4232691,"sucrose",3,,17992
+PMC4232691,"erythritol",3,,17113
+PMC4232691,"isopentenyl diphosphate",3,,16584
+PMC4232691,"Delta",3,,36375
+PMC4232691,"Oxylipins",3,,61121
+PMC4232691,"linalool",3,,17580
+PMC4232691,"pentose phosphate",2,,84055
+PMC4232691,"hexose phosphates",2,,47878
+PMC4232691,"mevalonate",2,,25350
+PMC4232691,"xylulose-5-phosphate",2,,27354
+PMC4232691,"cytidine",2,,17562
+PMC4232691,"1-hydroxy-2-methyl-2-butenyl 4-diphosphate",2,,15664
+PMC4232691,"geranyl diphosphate",2,,58057
+PMC4232691,"farnesyl diphosphate",2,,50277
+PMC4232691,"Germacrene",2,,36743
+PMC4232691,"flavonoids",2,,72544
+PMC4232691,"phenylpropanoid",2,,26004
+PMC4232691,"allene",2,,37601
+PMC4232691,"water",2,,15377
+PMC4232691,"Sepharose",2,,2511
+PMC4232691,"glycerol",2,,17754
+PMC4232691,"acetosyringone",2,,2404
+PMC4232691,"glucose",1,,42758
+PMC4232691,"phosphoenolpyruvate",1,,58702
+PMC4232691,"terpenoid",1,,26873
+PMC4232691,"dimethylallyl diphosphate",1,,57623
+PMC4232691,"pyruvate",1,,15361
+PMC4232691,"glyceraldehyde 3 phosphates",1,,58027
+PMC4232691,"triterpenes",1,,35191
+PMC4232691,"isopiperitenol",1,,24911
+PMC4232691,"carveol",1,,23046
+PMC4232691,"isopiperitenone",1,,6041
+PMC4232691,"menthone",1,,36503
+PMC4232691,"Humulene",1,,5768
+PMC4232691,"bicyclogermacrene",1,,63709
+PMC4232691,"methyl ketones",1,,51867
+PMC4232691,"cinnamate",1,,23248
+PMC4232691,"ferulic acids",1,,24031
+PMC4232691,"Caffeate",1,,17395
+PMC4232691,"caffeic acid",1,,36281
+PMC4232691,"ferulic acid",1,,17620
+PMC4232691,"Chalcone",1,,27618
+PMC4232691,"flavanone",1,,5070
+PMC4232691,"fatty acid-derivatives",1,,61697
+PMC4232691,"hydroperoxides",1,,79974
+PMC4232691,"sec",1,,32746
+PMC4232691,"isopropyl",1,,30353
+PMC4232691,"thio",1,,29830
+PMC4232691,"mercaptoethanol",1,,41218
+PMC4232691,"phenylmethylsulfonyl fluoride",1,,8102
+PMC4232691,"hexane",1,,29021
+PMC4232691,"ethyl acetate",1,,27750
+PMC4232691,"camphor",1,,36773
+PMC4232691,"1,8-cineole",1,,27961
+PMC4232691,"(+)-bornyl diphosphate",1,,15395
+PMC4232691,"(+)-sabinene",1,,50029
+PMC4232691,"myrcene",1,,17221
+PMC4232691,"nerolidol",1,,7524
+PMC4232691,"pinene",1,,17187
+PMC4232691,"terpinolene",1,,9457
+PMC4232691,"bisabolene",1,,49237
+PMC4232691,"pyrophosphate",1,,29888
+PMC4232691,"chlorophyll",1,,28966
+PMC4242925,"hydrocarbons",8,,24632
+PMC4242925,"monoterpenes",6,,35187
+PMC4242925,"sesquiterpene",5,,35189
+PMC4242925,"cadinene",4,,22976
+PMC4242925,"Germacrene",3,,36743
+PMC4242925,"bicyclogermacrene",3,,63709
+PMC4242925,"limonene",2,,15384
+PMC4242925,"copaene",2,,10221
+PMC4242925,"caryophyllene",2,,10357
+PMC4242925,"lipid",1,,18059
+PMC4242925,"saponin",1,,26605
+PMC4242925,"sodium sulfate",1,,32149
+PMC4242925,"fused- silica",1,,46729
+PMC4242925,"Helium",1,,33681
+PMC4242925,"alkanes",1,,18310
+PMC4242925,"palmidrol",1,,71464
+PMC4242925,"d-carvone",1,,15399
+PMC4242925,"carbonyl compounds",1,,36586
+PMC4242925,"pentacosane",1,,32938
+PMC4242925,"acetone",1,,15347
+PMC4242925,"dibutyl phthalate",1,,34687
+PMC4242925,"nonanal",1,,84268
+PMC4242925,"pinene",1,,17187
+PMC4242925,"sabinene",1,,50027
+PMC4242925,"n-decane",1,,41808
+PMC4242925,"1,8-cineole",1,,27961
+PMC4242925,"thujone",1,,9577
+PMC4242925,"borneol",1,,28093
+PMC4242925,"terpinene-4-ol",1,,78884
+PMC4242925,"terpineol",1,,26876
+PMC4242925,"n-dodecane",1,,28817
+PMC4242925,"carvone",1,,38265
+PMC4242925,"bornylacetate",1,,3151
+PMC4242925,"n-tetradecane",1,,41253
+PMC4242925,"cis-muurola -3,5 - diene",1,,61687
+PMC4242925,"ionone",1,,49248
+PMC4242925,"ledol",1,,6401
+PMC4242925,"valeranone",1,,80748
+PMC4242925,"heptadecane",1,,16148
+PMC4242925,"octadecane",1,,32926
+PMC4293675,"hydroxy",28,,43176
+PMC4293675,"artemisinin",18,,223316
+PMC4293675,"ent-kaur-16-ene",15,,15415
+PMC4293675,"panaxosides",15,,74978
+PMC4293675,"protopanaxatriol",11,,75951
+PMC4293675,"alkaloid",7,,22315
+PMC4293675,"cinobufagin",7,,80805
+PMC4293675,"Taxol",5,,45863
+PMC4293675,"epoxy",4,,30721
+PMC4293675,"ginsenoside Rg3",4,,67991
+PMC4293675,"bufalin",4,,517248
+PMC4293675,"acetyl",4,,46887
+PMC4293675,"methyl",3,,32875
+PMC4293675,"turmerone",3,,81132
+PMC4293675,"triol",3,,27136
+PMC4293675,"protopanaxadiol",3,,76238
+PMC4293675,"Evodiamine",3,,4948
+PMC4293675,"thebaine",3,,9519
+PMC4293675,"protein",2,,16541
+PMC4293675,"diol",2,,8387
+PMC4293675,"(+)-neodihydrocarveol",2,,152
+PMC4293675,"Sesquiterpenes",2,,35189
+PMC4293675,"carboxy",2,,46883
+PMC4293675,"isonicotinate",2,,38186
+PMC4293675,"sesquiterpene lactones",2,,37667
+PMC4293675,"eremantholide",2,,4816
+PMC4293675,"Diterpenes",2,,35190
+PMC4293675,"ent-kaurane",2,,36540
+PMC4293675,"Triterpenes",2,,35191
+PMC4293675,"oleanolic acid",2,,37659
+PMC4293675,"cephalomannine",2,,3536
+PMC4293675,"ginsenoside Rd",2,,67988
+PMC4293675,"bufadienolides",2,,83967
+PMC4293675,"mevalonic acid",1,,25351
+PMC4293675,"chemical substances",1,,59999
+PMC4293675,"terpene",1,,35186
+PMC4293675,"Monoterpenes",1,,35187
+PMC4293675,"monoterpenoids",1,,25409
+PMC4293675,"isopropyl group",1,,30353
+PMC4293675,"cyclic monoterpene ketone",1,,23446
+PMC4293675,"carvone",1,,38265
+PMC4293675,"dihydrocarvone",1,,23733
+PMC4293675,"phenols",1,,15882
+PMC4293675,"sesquiterpenoid",1,,26658
+PMC4293675,"phenyl",1,,30396
+PMC4293675,"pentanoicacid",1,,17418
+PMC4293675,"chloride",1,,17996
+PMC4293675,"esters",1,,35701
+PMC4293675,"(+)-costunolide",1,,3900
+PMC4293675,"cnicin",1,,3768
+PMC4293675,"salonitenolide",1,,9013
+PMC4293675,"dehydrocostuslactone",1,,244418
+PMC4293675,"hemiketal",1,,59772
+PMC4293675,"epoxide",1,,32955
+PMC4293675,"Sodium borohydride",1,,50985
+PMC4293675,"ar-curcumene",1,,62757
+PMC4293675,"pyran-4-one",1,,37966
+PMC4293675,"nigranoic acid",1,,66626
+PMC4293675,"diosgenin",1,,4629
+PMC4293675,"tetrol",1,,33573
+PMC4293675,"lactone",1,,25000
+PMC4293675,"ferrous sulfate",1,,75832
+PMC4293675,"acetonitrile",1,,38472
+PMC4293675,"water",1,,15377
+PMC4293675,"hydroxyacetyl",1,,30884
+PMC4293675,"ginsenoside Rg1",1,,67987
+PMC4293675,"rhamnoside",1,,26547
+PMC4293675,"ginsenoside F2",1,,77145
+PMC4293675,"indole alkaloid",1,,38958
+PMC4293675,"codeine",1,,57871
+PMC4293675,"bufotalin",1,,80799
+PMC4309438,"protein",37,,16541
+PMC4309438,"carvone",29,,38265
+PMC4309438,"water",28,,15377
+PMC4309438,"(+)-carvone",16,,15399
+PMC4309438,"2-phenylethanol",5,,49000
+PMC4309438,"thiophene",1,,30856
+PMC4309438,"magenta",1,,82336
+PMC4309438,"ampicillin",1,,28971
+PMC4309438,"galactoside",1,,24163
+PMC4309438,"sodium phosphate",1,,37586
+PMC4309438,"quartz",1,,46727
+PMC4309438,"methanol",1,,44520
+PMC4309438,"phenyl",1,,30396
+PMC4309438,"1-naphthylamine",1,,50450
+PMC4309438,"1,2-dichlorobenzene",1,,35290
+PMC4309438,"chloroform",1,,35255
+PMC4309438,"3-mercaptopropionic acid",1,,44111
+PMC4309438,"ethanol",1,,44730
+PMC4309438,"acetic acid",1,,15366
+PMC4309438,"oxygen",1,,25805
+PMC4309438,"ethyl",1,,62801
+PMC4309438,"hydrochloride",1,,36807
+PMC4309438,"nitrogen",1,,25555
+PMC4309438,"sulfur",1,,26833
+PMC4311404,"azide",14,,40910
+PMC4311404,"iron",13,,18248
+PMC4311404,"radical",8,,26519
+PMC4311404,"nitrogen",5,,25555
+PMC4311404,"azides",5,,22680
+PMC4311404,"hydrocarbons",4,,24632
+PMC4311404,"gibberellic acid",4,,28833
+PMC4311404,"peroxide",4,,44785
+PMC4311404,"ketone",3,,17087
+PMC4311404,"carbon",3,,33415
+PMC4311404,"dihydropinene",3,,35710
+PMC4311404,"Podocarpic acid",3,,8277
+PMC4311404,"trans- decalin",3,,38863
+PMC4311404,"heterocycles",3,,5686
+PMC4311404,"alcohols",2,,30879
+PMC4311404,"nitrogen-containing groups",2,,51144
+PMC4311404,"nitrogen atom",2,,29351
+PMC4311404,"iodine",2,,24859
+PMC4311404,"porphyrins",2,,8337
+PMC4311404,"alkane",2,,18310
+PMC4311404,"water",2,,15377
+PMC4311404,"carboxylic acid",2,,33575
+PMC4311404,"amide",2,,32988
+PMC4311404,"benzoyl-peroxide",2,,82405
+PMC4311404,"ethylbenzene",2,,16101
+PMC4311404,"alkyne",2,,22339
+PMC4311404,"azido",2,,36825
+PMC4311404,"erythromycin",1,,48923
+PMC4311404,"azithromycin",1,,2955
+PMC4311404,"alkyl group",1,,22323
+PMC4311404,"manganese",1,,35154
+PMC4311404,"sodium azide",1,,278547
+PMC4311404,"cis-decalin",1,,38860
+PMC4311404,"oxazoline",1,,38327
+PMC4311404,"ethyl acetate",1,,27750
+PMC4311404,"acetonitrile",1,,38472
+PMC4311404,"acetoxy",1,,48076
+PMC4311404,"bromide",1,,15858
+PMC4311404,"a nitrile",1,,18379
+PMC4311404,"ester",1,,35701
+PMC4311404,"Cyclic ketones",1,,3992
+PMC4311404,"carvone",1,,38265
+PMC4311404,"epoxides",1,,32955
+PMC4311404,"aziridines",1,,30969
+PMC4311404,"cyclopropanes",1,,30365
+PMC4311404,"propyl",1,,26308
+PMC4311404,"isopropyl",1,,30353
+PMC4311404,"nitrenes",1,,29339
+PMC4311404,"carbenes",1,,51363
+PMC4311404,"estrone",1,,17263
+PMC4311404,"diterpene",1,,35190
+PMC4311404,"decalin",1,,38853
+PMC4311404,"organic radical",1,,36872
+PMC4311404,"primary amine",1,,32877
+PMC4311404,"carbon atom",1,,27594
+PMC4311404,"tetrazole",1,,35598
+PMC4311404,"biotin",1,,57586
+PMC4311404,"hydroxyl group",1,,43176
+PMC4311404,"rhodium",1,,33359
+PMC4311427,"proteins",20,,16541
+PMC4311427,"sec",6,,32746
+PMC4311427,"benzaldehyde",5,,17169
+PMC4311427,"acetophenone",4,,27632
+PMC4311427,"lipids",2,,18059
+PMC4311427,"chitosan",2,,16261
+PMC4311427,"hexenal",2,,24578
+PMC4311427,"citral",2,,23316
+PMC4311427,"d-carvone",2,,15399
+PMC4311427,"Tech",2,,17042
+PMC4311427,"berberine",1,,16118
+PMC4311427,"papaverine",1,,28241
+PMC4311427,"coumarin",1,,28794
+PMC4311427,"2-ethylpyrazine",1,,73232
+PMC4311427,"organic compounds",1,,50860
+PMC4311427,"benzoyl",1,,22733
+PMC4311427,"nitrogen",1,,25555
+PMC4319901,"water",7,,15377
+PMC4319901,"Ethylene glycol",3,,30742
+PMC4319901,"butyl",3,,41264
+PMC4319901,"Benzyl",2,,22744
+PMC4319901,"Oxazepam",2,,7823
+PMC4319901,"Acrylonitrile",2,,28217
+PMC4319901,"Dimethyl",2,,42266
+PMC4319901,"chlorine",2,,29310
+PMC4319901,"Furosemide",1,,47426
+PMC4319901,"Hydrochlorothiazide",1,,5778
+PMC4319901,"8-Methoxypsoralen",1,,18358
+PMC4319901,"Hexachloroethane",1,,39227
+PMC4319901,"Pentaerythritol tetranitrate",1,,31976
+PMC4319901,"Hydroquinone",1,,17594
+PMC4319901,"Phenylbutazone",1,,48574
+PMC4319901,"Nalidixic acid",1,,100147
+PMC4319901,"alpha-Methylbenzyl alcohol",1,,669
+PMC4319901,"Succinic anhydride",1,,36595
+PMC4319901,"Carvone",1,,38265
+PMC4319901,"1-Amino-2,4-dibromoanthraquinone",1,,82304
+PMC4319901,"1,2,3-Trichloropropane",1,,34036
+PMC4319901,"amphetamine sulfate",1,,51063
+PMC4319901,"Sodium azide",1,,278547
+PMC4319901,"2-Chloroethyl",1,,47553
+PMC4319901,"Sodium fluoride",1,,28741
+PMC4319901,"Acetaminophen",1,,46195
+PMC4319901,"Probenecid",1,,8426
+PMC4319901,"Monochloroacetic acid",1,,27869
+PMC4319901,"Titanocene",1,,50950
+PMC4319901,"Furan",1,,35559
+PMC4319901,"Resorcinol",1,,27810
+PMC4319901,"phenytoin",1,,8107
+PMC4319901,"gamma-Butyrolactone",1,,42639
+PMC4319901,"Mercuric chloride",1,,31823
+PMC4319901,"Quercetin",1,,57694
+PMC4319901,"salt",1,,26710
+PMC4319901,"Polysorbate 80",1,,53426
+PMC4319901,"o-Nitroanisole",1,,48722
+PMC4319901,"p-Nitroaniline",1,,17064
+PMC4319901,"Triamterene",1,,9671
+PMC4319901,"Coumarin",1,,28794
+PMC4319901,"3,4-Dihydrocoumarin",1,,16151
+PMC4319901,"p-chlorophenol",1,,28078
+PMC4319901,"Promethazine hydrochloride",1,,8462
+PMC4319901,"Manganese",1,,35154
+PMC4319901,"sulfate",1,,16189
+PMC4319901,"Benzyl acetate",1,,52051
+PMC4319901,"Barium chloride",1,,63317
+PMC4319901,"m-cresol",1,,17231
+PMC4319901,"Methylphenidate hydrochloride",1,,31836
+PMC4319901,"p-Nitrobenzoic acid",1,,262350
+PMC4319901,"Scopolamine hydrobromide trihydrate",1,,61272
+PMC4319901,"1-trans-delta-9-Tetrahydrocannabinol",1,,66964
+PMC4319901,"1,3-propanediol",1,,16109
+PMC4319901,"Codeine",1,,57871
+PMC4319901,"Salicylazosulfapyridine",1,,9334
+PMC4319901,"phthalate",1,,26092
+PMC4319901,"t-Butylhydroquinone",1,,78886
+PMC4319901,"Phenolphthalein",1,,34914
+PMC4319901,"Azido",1,,36825
+PMC4319901,"deoxythymidine",1,,17748
+PMC4319901,"Pyridine",1,,16227
+PMC4319901,"Theophylline",1,,28177
+PMC4319901,"Primidone",1,,8412
+PMC4319901,"1-Chloro-2-propanol",1,,76260
+PMC4319901,"Pentachlorophenol",1,,58217
+PMC4319901,"Oxymetholone",1,,7864
+PMC4319901,"Methyleugenol",1,,4918
+PMC4319901,"Emodin",1,,77659
+PMC4319901,"Anthraquinone",1,,40448
+PMC4319901,"Sodium nitrite",1,,78870
+PMC4319901,"Fumonisin B1",1,,62554
+PMC4319901,"sulfone",1,,35850
+PMC4319901,"Citral",1,,23316
+PMC4319901,"2,4-Hexadienal",1,,82334
+PMC4319901,"sodium",1,,29101
+PMC4319901,"2-Methylimidazole",1,,39837
+PMC4319901,"Sodium chlorate",1,,65242
+PMC4319901,"pentachlorobiphenyl",1,,36721
+PMC4319901,"hexachlorobiphenyl",1,,36722
+PMC4319901,"Bromodichloromethane",1,,34591
+PMC4319901,"Genistein",1,,74224
+PMC4319901,"Methylene blue",1,,6872
+PMC4319901,"Formamide",1,,16397
+PMC4319901,"Dibromoacetonitrile",1,,82445
+PMC4319901,"Bromochloroacetic acid",1,,64206
+PMC4319901,"Isoeugenol",1,,18224
+PMC4319901,"Hydroxymethyl",1,,24712
+PMC4319901,"furfural",1,,34768
+PMC4319901,"Chromium picolinate",1,,50369
+PMC4319901,"beta-Myrcene",1,,22849
+PMC4319901,"Pulegone",1,,35596
+PMC4319901,"beta Thujone",1,,50045
+PMC4319901,"Styrene",1,,27452
+PMC4319901,"Acrylamide",1,,28619
+PMC4319901,"p-toluidine",1,,37825
+PMC4319901,"beta-Picoline",1,,39922
+PMC4319901,"biphenyl",1,,17097
+PMC4319901,"Dioxin",1,,28119
+PMC4319901,"Tricaprylin",1,,76978
+PMC4319901,"curcumin",1,,3962
+PMC4319901,"Dimethoxane",1,,82450
+PMC4319901,"Trichloroethylene",1,,16602
+PMC4319901,"Rotenone",1,,28201
+PMC4319901,"Pentachloronitrobenzene",1,,34908
+PMC4319901,"Methyl carbamate",1,,76606
+PMC4319901,"2-Mercaptobenzothiazole",1,,34292
+PMC4319901,"Phenyl",1,,30396
+PMC4319901,"2-naphthylamine",1,,27878
+PMC4319901,"2-Amino-5-nitrophenol",1,,82384
+PMC4319901,"Nitrofurazone",1,,44368
+PMC4319901,"2-Amino-4-nitrophenol",1,,82383
+PMC4319901,"Nitrofurantoin",1,,71415
+PMC4319901,"Roxarsone",1,,35817
+PMC4319901,"Methyldopa",1,,61058
+PMC4322175,"progesterone",10,,17026
+PMC4322175,"water",7,,15377
+PMC4322175,"ethanol",5,,44730
+PMC4322175,"glycoprotein",4,,17089
+PMC4322175,"formalin",3,,16842
+PMC4322175,"acetate",3,,47622
+PMC4322175,"citrate",3,,50744
+PMC4322175,"galactose",2,,28260
+PMC4322175,"ether",2,,35702
+PMC4322175,"limonene",2,,15384
+PMC4322175,"trans-anethole",2,,35616
+PMC4322175,"kaempferol",2,,58573
+PMC4322175,"fucose",2,,33984
+PMC4322175,"chloroform",1,,35255
+PMC4322175,"xylol",1,,27338
+PMC4322175,"hematoxylin",1,,5601
+PMC4322175,"Chorionic Gonadotropin",1,,81570
+PMC4322175,"methanol",1,,44520
+PMC4322175,"osmium",1,,49789
+PMC4322175,"propylene",1,,16052
+PMC4322175,"succinic anhydride",1,,36595
+PMC4322175,"methyl",1,,32875
+PMC4322175,"phenol",1,,15882
+PMC4322175,"lutein",1,,28838
+PMC4322175,"monoterpen",1,,35187
+PMC4322175,"carvone",1,,38265
+PMC4322175,"flavonoids",1,,72544
+PMC4322175,"estradiol",1,,23965
+PMC4322175,"proteins",1,,16541
+PMC4322175,"glycolipids",1,,33563
+PMC4327056,"esters",29,,35701
+PMC4327056,"aldehydes",15,,17478
+PMC4327056,"ethyl",15,,62801
+PMC4327056,"Methyl",11,,32875
+PMC4327056,"terpenoids",9,,26873
+PMC4327056,"alcohols",9,,30879
+PMC4327056,"butanoate",9,,30772
+PMC4327056,"hexyl",8,,24593
+PMC4327056,"2-hexenal",7,,19591
+PMC4327056,"ionone",7,,49248
+PMC4327056,"furaneol",7,,76247
+PMC4327056,"lactones",6,,25000
+PMC4327056,"ketones",6,,17087
+PMC4327056,"monoterpenes",6,,35187
+PMC4327056,"organic compounds",5,,50860
+PMC4327056,"sesquiterpenes",5,,35189
+PMC4327056,"Terpenes",5,,35186
+PMC4327056,"acetate",5,,47622
+PMC4327056,"geraniol",5,,17447
+PMC4327056,"hexanoic acid",5,,30776
+PMC4327056,"linalool",5,,17580
+PMC4327056,"methylthio",4,,48563
+PMC4327056,"sulfur",3,,26833
+PMC4327056,"Aliphatic alcohols",3,,2571
+PMC4327056,"ethyl ester",3,,23990
+PMC4327056,"raspberry ketone",3,,68656
+PMC4327056,"nerol",3,,29452
+PMC4327056,"ethanol",3,,44730
+PMC4327056,"2-methylbutanoate",3,,48946
+PMC4327056,"propanoic acid",3,,30768
+PMC4327056,"apocarotenoids",2,,53183
+PMC4327056,"organic acids",2,,64709
+PMC4327056,"diterpenes",2,,35190
+PMC4327056,"isoamyl acetate",2,,31725
+PMC4327056,"muurolene",2,,64797
+PMC4327056,"methyl ester",2,,25248
+PMC4327056,"pinene",2,,17187
+PMC4327056,"dimethyl",2,,42266
+PMC4327056,"hydroxy",2,,43176
+PMC4327056,"ethylene",2,,29362
+PMC4327056,"nitrogen",2,,25555
+PMC4327056,"propanoate",2,,17272
+PMC4327056,"butyl acetate",2,,31328
+PMC4327056,"decanal",2,,31457
+PMC4327056,"fatty-acids",1,,35366
+PMC4327056,"lipid",1,,18059
+PMC4327056,"isopentenyl diphosphate",1,,16584
+PMC4327056,"dimethylallyl diphosphate",1,,57623
+PMC4327056,"mevalonic acid",1,,25351
+PMC4327056,"carbon",1,,33415
+PMC4327056,"isoprene",1,,35194
+PMC4327056,"Hemiterpenes",1,,35188
+PMC4327056,"isobutyl acetate",1,,50569
+PMC4327056,"aliphatic compounds",1,,33653
+PMC4327056,"carbonyl compounds",1,,36586
+PMC4327056,"methyl benzoate",1,,72775
+PMC4327056,"hydrocarbons",1,,24632
+PMC4327056,"octanoic acid",1,,28837
+PMC4327056,"terpineol",1,,26876
+PMC4327056,"1-octanol",1,,16188
+PMC4327056,"damascenone",1,,67251
+PMC4327056,"2-methylpropanoate",1,,48944
+PMC4327056,"heptanal",1,,34787
+PMC4327056,"benzaldehyde",1,,17169
+PMC4327056,"cis-3-hexen-1-ol",1,,28857
+PMC4327056,"Quartz",1,,46727
+PMC4327056,"metalloporphyrins",1,,25216
+PMC4327056,"water",1,,15377
+PMC4327056,"pyruvic acid",1,,32816
+PMC4327056,"carvone",1,,38265
+PMC4327056,"Aliphatic aldehydes",1,,59768
+PMC4327056,"Acetaldehyde",1,,43923
+PMC4327056,"2-methylbutyl acetate",1,,50585
+PMC4327056,"acetoin",1,,15688
+PMC4327056,"Butanediol",1,,52684
+PMC4327056,"Diamond",1,,33417
+PMC4327056,"Benzene",1,,16716
+PMC4327056,"Citral",1,,23316
+PMC4327056,"citronellol",1,,50462
+PMC4327056,"3-Carene",1,,35661
+PMC4327056,"Phellandrene",1,,50034
+PMC4327056,"Terpinolene",1,,9457
+PMC4327928,"protein",34,,16541
+PMC4327928,"carvone",15,,38265
+PMC4327928,"flavin",5,,60531
+PMC4327928,"hydrogen",5,,49637
+PMC4327928,"Peptide",3,,16670
+PMC4327928,"isopropenyl group",3,,30354
+PMC4327928,"aldehydes",2,,17478
+PMC4327928,"p-hydroxybenzaldehyde",2,,17597
+PMC4327928,"phenyl",2,,30396
+PMC4327928,"alkenes",1,,32878
+PMC4327928,"ketones",1,,17087
+PMC4327928,"carboxylic acids",1,,33575
+PMC4327928,"nitriles",1,,18379
+PMC4327928,"nitroalkenes",1,,50376
+PMC4327928,"nitrate esters",1,,51080
+PMC4327928,"triazines",1,,38102
+PMC4327928,"hydride",1,,29239
+PMC4327928,"reduced flavin",1,,62787
+PMC4327928,"mononucleotide",1,,29075
+PMC4327928,"carbon",1,,33415
+PMC4327928,"polypeptide",1,,15841
+PMC4327928,"dihydrocarvone",1,,23733
+PMC4327928,"aldehyde group",1,,42485
+PMC4327928,"hydroxyl",1,,43176
+PMC4327928,"atoms",1,,33250
+PMC4327928,"phenol",1,,15882
+PMC4327928,"amino",1,,46882
+PMC4327928,"carboxy",1,,46883
+PMC4327928,"Nucleotides",1,,36976
+PMC4327928,"indol",1,,16881
+PMC4327928,"carbonyl group",1,,23019
+PMC4339706,"pinene",12,,17187
+PMC4339706,"caryophyllene",8,,10357
+PMC4339706,"thujone",8,,9577
+PMC4339706,"1,8-cineole",8,,27961
+PMC4339706,"camphor",7,,36773
+PMC4339706,"camphene",6,,3830
+PMC4339706,"glucan",6,,37163
+PMC4339706,"piperitone",5,,48933
+PMC4339706,"proteins",5,,16541
+PMC4339706,"polystyrene",4,,53276
+PMC4339706,"monoterpene",4,,35187
+PMC4339706,"hydrocarbons",4,,24632
+PMC4339706,"sucrose",3,,17992
+PMC4339706,"water",3,,15377
+PMC4339706,"hydroxyapatite",3,,52254
+PMC4339706,"sesquiterpene",3,,35189
+PMC4339706,"glucose",2,,42758
+PMC4339706,"nitrogen",2,,25555
+PMC4339706,"organic acid",2,,64709
+PMC4339706,"acetate",2,,47622
+PMC4339706,"Carveol",2,,23046
+PMC4339706,"Farnesol",2,,42680
+PMC4339706,"polysaccharide",1,,18154
+PMC4339706,"sodium fluoride",1,,28741
+PMC4339706,"phenol red",1,,31991
+PMC4339706,"potassium phosphate",1,,63036
+PMC4339706,"sec",1,,32746
+PMC4339706,"bacitracin",1,,28669
+PMC4339706,"glutaraldehyde",1,,64276
+PMC4339706,"ethanol",1,,44730
+PMC4339706,"fused silica",1,,46729
+PMC4339706,"helium",1,,33681
+PMC4339706,"alkane",1,,18310
+PMC4339706,"Tricyclene",1,,64266
+PMC4339706,"Thujene",1,,50030
+PMC4339706,"Sabinene",1,,50027
+PMC4339706,"Myrcene",1,,17221
+PMC4339706,"Limonene",1,,15384
+PMC4339706,"p-Cymene",1,,28768
+PMC4339706,"Terpinolene",1,,9457
+PMC4339706,"Linalool",1,,17580
+PMC4339706,"Sabinene hydrate",1,,16377
+PMC4339706,"Bornyl acetate",1,,3151
+PMC4339706,"Terpinen-4-ol",1,,78884
+PMC4339706,"Myrtenal",1,,25458
+PMC4339706,"Umbellulone",1,,9860
+PMC4339706,"Pinocarveol",1,,26137
+PMC4339706,"dien",1,,30629
+PMC4339706,"Terpineol",1,,26876
+PMC4339706,"Borneol",1,,28093
+PMC4339706,"Carvone",1,,38265
+PMC4339706,"Myrtenol",1,,25460
+PMC4339706,"Geraniol",1,,17447
+PMC4339706,"Geranyl acetone",1,,67206
+PMC4339706,"Copaene",1,,10221
+PMC4339706,"Farnesene",1,,39237
+PMC4339706,"Selinene",1,,49272
+PMC4339706,"Zingiberene",1,,10115
+PMC4339706,"ar-Curcumene",1,,62757
+PMC4339706,"Nerolidol",1,,7524
+PMC4339706,"Butyl",1,,41264
+PMC4339706,"benzene",1,,16716
+PMC4339706,"Pentyl",1,,25902
+PMC4339706,"furan",1,,35559
+PMC4339706,"6-Methyl-5-hepten-2-one",1,,16310
+PMC4339706,"1-Octen-3-ol",1,,39932
+PMC4339706,"cyclohexene",1,,36404
+PMC4339706,"carbaldehyde",1,,42485
+PMC4339706,"Methyl salicylate",1,,31832
+PMC4339706,"Eugenol",1,,4917
+PMC4339706,"Thymol",1,,27607
+PMC4339706,"Carvacrol",1,,3440
+PMC4339706,"Decanoic acid",1,,30813
+PMC4344607,"sesquiterpene",36,,35189
+PMC4344607,"terpenes",19,,35186
+PMC4344607,"triterpene",17,,35191
+PMC4344607,"terpenoids",16,,26873
+PMC4344607,"mevalonate",13,,25350
+PMC4344607,"monoterpene",12,,35187
+PMC4344607,"diterpene",11,,35190
+PMC4344607,"linalool",9,,17580
+PMC4344607,"acetyl",8,,46887
+PMC4344607,"nerolidol",8,,7524
+PMC4344607,"Blast",6,,81783
+PMC4344607,"isoprenoid",6,,24913
+PMC4344607,"acetoacetyl",6,,48051
+PMC4344607,"squalene",6,,15440
+PMC4344607,"germacrene",6,,36743
+PMC4344607,"hydroxy",5,,43176
+PMC4344607,"isopiperitenone",5,,6041
+PMC4344607,"gibberellin 20",5,,27742
+PMC4344607,"gibberellins",5,,28833
+PMC4344607,"ferrocyanide",5,,5032
+PMC4344607,"triterpenoid",4,,36615
+PMC4344607,"bisabolene",4,,49237
+PMC4344607,"humulene",4,,5768
+PMC4344607,"cadinene",4,,22976
+PMC4344607,"Sesquiterpenoid",4,,26658
+PMC4344607,"sodium salt",4,,26714
+PMC4344607,"zerumbone",3,,63892
+PMC4344607,"carvone",3,,38265
+PMC4344607,"(+)-pulegone",3,,35596
+PMC4344607,"menthone",3,,36503
+PMC4344607,"lupeol",3,,6570
+PMC4344607,"amyrin",3,,10352
+PMC4344607,"caespitol",3,,80937
+PMC4344607,"acetate",3,,47622
+PMC4344607,"sodium cacodylate",3,,62956
+PMC4344607,"proteins",2,,16541
+PMC4344607,"mevalonic acid",2,,25351
+PMC4344607,"Secologanin",2,,18002
+PMC4344607,"indole alkaloids",2,,38958
+PMC4344607,"Capsidiol",2,,28283
+PMC4344607,"prostaglandin",2,,26333
+PMC4344607,"sterols",2,,15889
+PMC4344607,"chlorophylls",2,,28966
+PMC4344607,"plastoquinone",2,,17757
+PMC4344607,"dimethylallyl pyrophosphate",2,,57623
+PMC4344607,"isopentenyl pyrophosphate",2,,16584
+PMC4344607,"diterpenoids",2,,23849
+PMC4344607,"potassium ferricyanide",2,,30060
+PMC4344607,"carbon",1,,33415
+PMC4344607,"artemisinin",1,,223316
+PMC4344607,"organic compounds",1,,50860
+PMC4344607,"Nucleotides",1,,36976
+PMC4344607,"squalene-2,3-epoxide",1,,78662
+PMC4344607,"hopan-22-ol",1,,36484
+PMC4344607,"alpha-bisabolene",1,,49240
+PMC4344607,"germacra-1(10),4,11(13)-trien-12-oate",1,,61301
+PMC4344607,"Aristolochene",1,,43445
+PMC4344607,"Pentalenene",1,,17251
+PMC4344607,"gibberellin 44",1,,28211
+PMC4344607,"2beta-hydroxygibberellin 1",1,,28861
+PMC4344607,"carotenes",1,,23042
+PMC4344607,"phylloquinone",1,,18067
+PMC4344607,"ubiquinone",1,,46245
+PMC4344607,"monoterpenoids",1,,25409
+PMC4344607,"carotenoids",1,,23044
+PMC4344607,"hydride",1,,29239
+PMC4344607,"methyl",1,,32875
+PMC4344607,"jasmonic acid",1,,18292
+PMC4344607,"methyl jasmonate",1,,15929
+PMC4344607,"(+)-trans-carveol",1,,15388
+PMC4344607,"indole group",1,,51609
+PMC4344607,"alkaloids",1,,22315
+PMC4344607,"indoles",1,,35581
+PMC4344607,"bromonium",1,,50316
+PMC4344607,"eudesmane",1,,36522
+PMC4344607,"humulane",1,,36523
+PMC4344607,"abietic acid",1,,28987
+PMC4344607,"ampicillin",1,,28971
+PMC4344607,"streptomycin",1,,58007
+PMC4344607,"gentamicin",1,,17833
+PMC4344607,"germanium",1,,30441
+PMC4344607,"photons",1,,30212
+PMC4344607,"nitrogen",1,,25555
+PMC4344607,"water",1,,15377
+PMC4344607,"formaldehyde",1,,42485
+PMC4344607,"glutaraldehyde",1,,64276
+PMC4344607,"potassium ferrocyanide",1,,30059
+PMC4344607,"osmium",1,,49789
+PMC4344607,"acetone",1,,15347
+PMC4344607,"copper",1,,30052
+PMC4344607,"citrate",1,,50744
+PMC4346696,"proteins",7,,16541
+PMC4346696,"carvacrol",5,,3440
+PMC4346696,"lipids",4,,18059
+PMC4346696,"nicarbazin",4,,81725
+PMC4346696,"monensin",3,,27617
+PMC4346696,"salinomycin",3,,80025
+PMC4346696,"chemical compounds",2,,37577
+PMC4346696,"oxygen",2,,25805
+PMC4346696,"linolenic acid",2,,27432
+PMC4346696,"thymol",2,,27607
+PMC4346696,"cinnamaldehyde",2,,16731
+PMC4346696,"mannan",2,,28808
+PMC4346696,"oligosaccharides",2,,50699
+PMC4346696,"Propyl",2,,26308
+PMC4346696,"sodium hypochlorite",1,,32146
+PMC4346696,"potassium dichromate",1,,53444
+PMC4346696,"sulfuric acid",1,,26836
+PMC4346696,"quinone",1,,36141
+PMC4346696,"amprolium",1,,85265
+PMC4346696,"thiamine",1,,33283
+PMC4346696,"Quinolone",1,,23765
+PMC4346696,"cation",1,,36916
+PMC4346696,"sodium",1,,29101
+PMC4346696,"sulfonamide",1,,35358
+PMC4346696,"docosahexaenoic acid",1,,36005
+PMC4346696,"eicosapentaenoic acid",1,,36006
+PMC4346696,"n-3 fatty acids",1,,25681
+PMC4346696,"Curcumin",1,,3962
+PMC4346696,"Artemisinin",1,,223316
+PMC4346696,"carvone",1,,38265
+PMC4346696,"isopulegol",1,,70479
+PMC4346696,"eugenol",1,,4917
+PMC4346696,"ether",1,,35702
+PMC4346696,"acetone",1,,15347
+PMC4346696,"Arabinoxylans",1,,28427
+PMC4346696,"glucans",1,,37163
+PMC4346696,"citric acid",1,,30769
+PMC4346696,"salt",1,,26710
+PMC4346696,"ethanol",1,,44730
+PMC4346696,"coumestans",1,,72578
+PMC4346696,"Tannic acid",1,,75211
+PMC4346696,"tannins",1,,26848
+PMC4346696,"inulin",1,,15443
+PMC4346696,"beta glucans",1,,28793
+PMC4346696,"Sulphur dioxide",1,,18422
+PMC4346696,"diatomite",1,,82661
+PMC4353025,"hydroxyl group",34,,43176
+PMC4353025,"Ouabagenin",21,,71016
+PMC4353025,"a ketone",16,,17087
+PMC4353025,"butenolide",14,,50523
+PMC4353025,"ouabain",13,,472805
+PMC4353025,"olefin",9,,33641
+PMC4353025,"enone",8,,51689
+PMC4353025,"cortisone acetate",7,,3897
+PMC4353025,"carbons",7,,33415
+PMC4353025,"estrone",7,,17263
+PMC4353025,"iodide",7,,16382
+PMC4353025,"radical",6,,26519
+PMC4353025,"hydrazone",6,,38532
+PMC4353025,"boronic acid",6,,38267
+PMC4353025,"glucocorticoids",6,,24261
+PMC4353025,"a steroid",5,,35341
+PMC4353025,"dioxane",5,,46923
+PMC4353025,"Corticosteroid",4,,50858
+PMC4353025,"acetate",4,,47622
+PMC4353025,"palladium",4,,33363
+PMC4353025,"cardiac glycosides",3,,83970
+PMC4353025,"cardenolides",3,,74634
+PMC4353025,"bufadienolides",3,,83967
+PMC4353025,"glycoside",3,,24400
+PMC4353025,"hypoiodite",3,,29232
+PMC4353025,"propionate",3,,17272
+PMC4353025,"sodium",2,,29101
+PMC4353025,"lactone",2,,25000
+PMC4353025,"cardenolide",2,,71620
+PMC4353025,"iron",2,,18248
+PMC4353025,"porphyrin",2,,8337
+PMC4353025,"methyl group",2,,32875
+PMC4353025,"adrenosterone",2,,2495
+PMC4353025,"ethylene glycol",2,,30742
+PMC4353025,"hemiketal",2,,59772
+PMC4353025,"triol",2,,27136
+PMC4353025,"vinyl iodide",2,,51315
+PMC4353025,"furan",2,,35559
+PMC4353025,"ether",2,,35702
+PMC4353025,"enoates",2,,51702
+PMC4353025,"hydrocortisone",2,,17650
+PMC4353025,"diol",2,,8387
+PMC4353025,"calcium",1,,29320
+PMC4353025,"tertiary alcohol",1,,26878
+PMC4353025,"lactone ring",1,,52938
+PMC4353025,"butyrolactone",1,,42639
+PMC4353025,"2-pyrone",1,,37965
+PMC4353025,"strophanthidin",1,,38178
+PMC4353025,"digitoxigenin",1,,42219
+PMC4353025,"bufalin",1,,517248
+PMC4353025,"carvone",1,,38265
+PMC4353025,"metalloporphyrin",1,,25216
+PMC4353025,"cumyl hydroperoxide",1,,78673
+PMC4353025,"cobalt",1,,27638
+PMC4353025,"o-quinone",1,,25622
+PMC4353025,"carbon atoms",1,,27594
+PMC4353025,"ketals",1,,59777
+PMC4353025,"cyclopentane",1,,23492
+PMC4353025,"iodine",1,,24859
+PMC4353025,"epoxides",1,,32955
+PMC4353025,"naphthalene",1,,16482
+PMC4353025,"ethyl acetate",1,,27750
+PMC4353025,"aluminum",1,,49470
+PMC4353025,"water",1,,15377
+PMC4353025,"acetone",1,,15347
+PMC4353025,"boronate ester",1,,50979
+PMC4353025,"hydrogen",1,,49637
+PMC4353025,"alkenes",1,,32878
+PMC4353025,"oxalate",1,,30623
+PMC4353025,"toluene",1,,17578
+PMC4353025,"platinum",1,,49836
+PMC4353025,"anion",1,,22563
+PMC4353025,"norbornene",1,,52286
+PMC4353025,"pyridine",1,,16227
+PMC4353025,"diazo",1,,30105
+PMC4353025,"fluoride",1,,29228
+PMC4353025,"mineralocorticoid",1,,25354
+PMC4353025,"benzene",1,,16716
+PMC4353025,"clobetasol",1,,205919
+PMC4353025,"chloroketone",1,,51840
+PMC4353025,"ester",1,,35701
+PMC4353025,"methylene",1,,50728
+PMC4353025,"chlorine atom",1,,23116
+PMC4353025,"fluorine",1,,30236
+PMC4355985,"menthone",57,,36503
+PMC4355985,"isomenthone",49,,36493
+PMC4355985,"isopropyl",24,,30353
+PMC4355985,"hydroxyl group",12,,43176
+PMC4355985,"(-)-menthol",10,,15409
+PMC4355985,"(-)-isomenthone",9,,36496
+PMC4355985,"cyclohexane ring",9,,52847
+PMC4355985,"cyclohexane",6,,29005
+PMC4355985,"methyl",5,,32875
+PMC4355985,"Terpenoids",4,,26873
+PMC4355985,"monoterpene",4,,35187
+PMC4355985,"carvone",4,,38265
+PMC4355985,"hydrogen",4,,49637
+PMC4355985,"(-)-menthone",3,,15410
+PMC4355985,"diamond",3,,33417
+PMC4355985,"monoterpenoids",2,,25409
+PMC4355985,"carbon",2,,33415
+PMC4355985,"neoisomenthol",2,,18451
+PMC4355985,"ketone",2,,17087
+PMC4355985,"silicon",2,,27573
+PMC4355985,"organic molecules",1,,72695
+PMC4355985,"isoprene",1,,35194
+PMC4355985,"organic compounds",1,,50860
+PMC4355985,"linalool",1,,17580
+PMC4355985,"perillaldehyde",1,,15421
+PMC4355985,"limonene",1,,15384
+PMC4355985,"thymol",1,,27607
+PMC4355985,"camphor",1,,36773
+PMC4355985,"aldehyde",1,,17478
+PMC4355985,"2-isopropyl-5-methylcyclohexanone",1,,36742
+PMC4355985,"neon",1,,33310
+PMC4355985,"a as",1,,73321
+PMC4355985,"cyclohexanone ring",1,,52882
+PMC4355985,"oxygen",1,,25805
+PMC4356138,"proteins",96,,16541
+PMC4356138,"carotenoids",36,,23044
+PMC4356138,"Valencene",15,,61700
+PMC4356138,"terpenoid",13,,26873
+PMC4356138,"organic acids",12,,64709
+PMC4356138,"sesquiterpenes",11,,35189
+PMC4356138,"glucose",10,,42758
+PMC4356138,"apocarotenoid",9,,53183
+PMC4356138,"esters",8,,35701
+PMC4356138,"aldehydes",7,,17478
+PMC4356138,"methyl",7,,32875
+PMC4356138,"sucrose",6,,17992
+PMC4356138,"fructose",6,,28757
+PMC4356138,"acetate",6,,47622
+PMC4356138,"Furans",6,,35559
+PMC4356138,"Monoterpenes",5,,35187
+PMC4356138,"dimethyl",5,,42266
+PMC4356138,"Acetyl",5,,46887
+PMC4356138,"isocitrate",5,,16087
+PMC4356138,"carbon",5,,33415
+PMC4356138,"pyruvate",5,,15361
+PMC4356138,"hydrocarbons",4,,24632
+PMC4356138,"alcohols",4,,30879
+PMC4356138,"citric acid",4,,30769
+PMC4356138,"ionone",4,,49248
+PMC4356138,"ethyl",4,,62801
+PMC4356138,"acetone",4,,15347
+PMC4356138,"lipid",4,,18059
+PMC4356138,"dimethylallyl diphosphate",4,,57623
+PMC4356138,"oxaloacetate",4,,16452
+PMC4356138,"water",4,,15377
+PMC4356138,"ketones",3,,17087
+PMC4356138,"ascorbic acid",3,,29073
+PMC4356138,"Carene",3,,35661
+PMC4356138,"isopentenyl diphosphate",3,,16584
+PMC4356138,"phospholipid",3,,16247
+PMC4356138,"glutamate",3,,29987
+PMC4356138,"phosphoenolpyruvate",3,,58702
+PMC4356138,"2-oxoglutarate",3,,16810
+PMC4356138,"glutathione",3,,57925
+PMC4356138,"ascorbate",3,,38290
+PMC4356138,"terpenes",2,,35186
+PMC4356138,"nerol",2,,29452
+PMC4356138,"geranyl acetone",2,,67206
+PMC4356138,"limonene",2,,15384
+PMC4356138,"pentanal",2,,84069
+PMC4356138,"Phellandrene",2,,50034
+PMC4356138,"Ether",2,,35702
+PMC4356138,"hexanoate",2,,30776
+PMC4356138,"hexanone",2,,24573
+PMC4356138,"glycosides",2,,24400
+PMC4356138,"hydroperoxide",2,,79974
+PMC4356138,"delta",2,,36375
+PMC4356138,"cytochrome",2,,4056
+PMC4356138,"nicotinamide adenine dinucleotide",2,,44215
+PMC4356138,"Citrate",2,,50744
+PMC4356138,"malate",2,,30797
+PMC4356138,"lycopene",2,,15948
+PMC4356138,"mevalonate",2,,25350
+PMC4356138,"geranylgeranyl diphosphate",2,,57533
+PMC4356138,"ethanol",2,,44730
+PMC4356138,"flavonoids",1,,72544
+PMC4356138,"limonoids",1,,39434
+PMC4356138,"sulfur compounds",1,,26835
+PMC4356138,"branched-chain amino acids",1,,22918
+PMC4356138,"aromatic amino acids",1,,33856
+PMC4356138,"malic acid",1,,6650
+PMC4356138,"carotene",1,,23042
+PMC4356138,"lutein",1,,28838
+PMC4356138,"nootkatone",1,,81377
+PMC4356138,"neral",1,,29020
+PMC4356138,"geranial",1,,16980
+PMC4356138,"3-methyl-1-butanol",1,,15837
+PMC4356138,"2-methylbutyrate",1,,48946
+PMC4356138,"Pinene",1,,17187
+PMC4356138,"Humulene",1,,5768
+PMC4356138,"Selinene",1,,49272
+PMC4356138,"n-Butyl",1,,41264
+PMC4356138,"Pentyl",1,,25902
+PMC4356138,"Propanal",1,,17153
+PMC4356138,"Heptanal",1,,34787
+PMC4356138,"2-Hexenal",1,,19591
+PMC4356138,"2-Heptenal",1,,61724
+PMC4356138,"2-Decenal",1,,61727
+PMC4356138,"dien",1,,30629
+PMC4356138,"Terpineol",1,,26876
+PMC4356138,"Linalool",1,,17580
+PMC4356138,"1,8-Cineole",1,,27961
+PMC4356138,"aliphatic alcohols",1,,2571
+PMC4356138,"tricarboxylic acid",1,,27093
+PMC4356138,"zinc",1,,30185
+PMC4356138,"diphosphate",1,,33019
+PMC4356138,"nucleotide sugar",1,,25609
+PMC4356138,"aldarate",1,,22289
+PMC4356138,"mannose",1,,37684
+PMC4356138,"dicarboxylate",1,,28965
+PMC4356138,"glucuronate",1,,47952
+PMC4356138,"aspartate",1,,72314
+PMC4356138,"hypotaurine",1,,57853
+PMC4356138,"alkaloid",1,,22315
+PMC4356138,"piperidine",1,,589779
+PMC4356138,"pyridine alkaloid",1,,26416
+PMC4356138,"Linolenic acid",1,,27432
+PMC4356138,"bile acid",1,,3098
+PMC4356138,"chlorobenzene",1,,28097
+PMC4356138,"3-phosphoglycerate",1,,57998
+PMC4356138,"adenosine triphosphate",1,,15422
+PMC4356138,"hexose phosphates",1,,47878
+PMC4356138,"glycerone",1,,16016
+PMC4356138,"glyceraldehyde",1,,5445
+PMC4356138,"glycerate",1,,33871
+PMC4356138,"fructose-6-phosphate",1,,16084
+PMC4356138,"hydrogen peroxide",1,,16240
+PMC4356138,"isoprenoid",1,,24913
+PMC4356138,"phytosterols",1,,28824
+PMC4356138,"ubiquinone",1,,46245
+PMC4356138,"gibberellins",1,,28833
+PMC4356138,"abscisic acid",1,,2365
+PMC4356138,"chlorophylls",1,,28966
+PMC4356138,"plastoquinone",1,,17757
+PMC4356138,"tocopherol",1,,27013
+PMC4356138,"erythritol",1,,17113
+PMC4356138,"allyl diphosphate",1,,62888
+PMC4356138,"geranyl diphosphate",1,,58057
+PMC4356138,"farnesyl diphosphate",1,,50277
+PMC4356138,"ethylenediaminetetraacetic acid",1,,42191
+PMC4356138,"calcium salt",1,,35156
+PMC4356138,"methanol",1,,44520
+PMC4356138,"methyl tertbutyl ether",1,,27642
+PMC4356138,"sodium chloride",1,,26710
+PMC4356138,"ammonium sulfate",1,,62946
+PMC4356138,"cation",1,,36916
+PMC4356138,"peptides",1,,16670
+PMC4359887,"ethanol",4,,44730
+PMC4359887,"alkaloids",4,,22315
+PMC4359887,"meglumine",3,,59732
+PMC4359887,"tannins",3,,26848
+PMC4359887,"flavonoids",3,,72544
+PMC4359887,"glycosides",3,,24400
+PMC4359887,"Penicillin",2,,51356
+PMC4359887,"streptomycin",2,,58007
+PMC4359887,"saponins",2,,26605
+PMC4359887,"methanol",2,,44520
+PMC4359887,"water",2,,15377
+PMC4359887,"phenols",2,,15882
+PMC4359887,"sodium stibogluconate",1,,28148
+PMC4359887,"bromide",1,,15858
+PMC4359887,"gelatin",1,,5291
+PMC4359887,"nitrites",1,,16301
+PMC4359887,"terpenoids",1,,26873
+PMC4359887,"sterols",1,,15889
+PMC4359887,"carvacrol",1,,3440
+PMC4359887,"p-cymene",1,,28768
+PMC4359887,"thymol",1,,27607
+PMC4359887,"carvone",1,,38265
+PMC4359887,"limonene",1,,15384
+PMC4371224,"sesquiterpenes",6,,35189
+PMC4371224,"furanodiene",6,,80824
+PMC4371224,"fluconazole",4,,46081
+PMC4371224,"miltefosine",3,,75283
+PMC4371224,"azoles",3,,68452
+PMC4371224,"caryophyllene",3,,10357
+PMC4371224,"limonene",3,,15384
+PMC4371224,"pinene",3,,17187
+PMC4371224,"isopropanol",2,,17824
+PMC4371224,"copaene",2,,10221
+PMC4371224,"ergosterol",2,,16933
+PMC4371224,"chloroform",1,,35255
+PMC4371224,"hexane",1,,29021
+PMC4371224,"Helium",1,,33681
+PMC4371224,"dextrose",1,,42758
+PMC4371224,"phenol red",1,,31991
+PMC4371224,"3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide",1,,53233
+PMC4371224,"sodium dodecyl sulfate",1,,8984
+PMC4371224,"dimethyl sulfoxide",1,,28262
+PMC4371224,"streptomycin",1,,58007
+PMC4371224,"penicillin",1,,51356
+PMC4371224,"hepes",1,,46756
+PMC4371224,"methanol",1,,44520
+PMC4371224,"a factor",1,,79381
+PMC4371224,"itraconazole",1,,6076
+PMC4371224,"germacrene",1,,36743
+PMC4371224,"selinene",1,,49272
+PMC4371224,"neral",1,,29020
+PMC4371224,"geranial",1,,16980
+PMC4371224,"citral",1,,23316
+PMC4371224,"humulene",1,,5768
+PMC4371224,"myrtenal",1,,25458
+PMC4371224,"pinocarveol",1,,26137
+PMC4371224,"monoterpenes",1,,35187
+PMC4371224,"p-cymene",1,,28768
+PMC4371224,"carveol",1,,23046
+PMC4371224,"myrcene",1,,17221
+PMC4371224,"carvone",1,,38265
+PMC4371224,"sterols",1,,15889
+PMC4371224,"lanosterol",1,,16521
+PMC4371224,"hydrocarbons",1,,24632
+PMC4371224,"isoprenoids",1,,24913
+PMC4372811,"darifenacin",33,,391960
+PMC4372811,"Ca2+",24,,29108
+PMC4372811,"acetylcholine",21,,15355
+PMC4372811,"proteins",16,,16541
+PMC4372811,"carbachol",13,,3385
+PMC4372811,"nonanedioic acid",4,,48131
+PMC4372811,"forskolin",3,,42471
+PMC4372811,"glucose",2,,42758
+PMC4372811,"octanol",2,,37868
+PMC4372811,"heptanal",2,,34787
+PMC4372811,"carvone",2,,38265
+PMC4372811,"acetophenone",2,,27632
+PMC4372811,"Calcium",2,,29320
+PMC4372811,"cations",2,,36916
+PMC4372811,"atropine",2,,57858
+PMC4372811,"chemical compounds",1,,37577
+PMC4372811,"ketamine",1,,6121
+PMC4372811,"water",1,,15377
+PMC4372811,"nystatin",1,,7660
+PMC4372811,"methanesulfonic acid",1,,27376
+PMC4372811,"sucrose",1,,17992
+PMC4372811,"psi",1,,74981
+PMC4372811,"octanal",1,,17935
+PMC4372811,"heptanoic acid",1,,45571
+PMC4372811,"octanoic acid",1,,28837
+PMC4372811,"cineole",1,,27961
+PMC4372811,"acetate",1,,47622
+PMC4372811,"(+)-limonene",1,,15382
+PMC4372811,"limonene",1,,15384
+PMC4372811,"(+)-carvone",1,,15399
+PMC4372811,"benzaldehyde",1,,17169
+PMC4372811,"3-heptanone",1,,50139
+PMC4372811,"ethyl",1,,62801
+PMC4372811,"Fluo-4",1,,51103
+PMC4372811,"Fura red",1,,52080
+PMC4372811,"Hepes",1,,46756
+PMC4372811,"isoeugenol",1,,18224
+PMC4372811,"vanillin",1,,18346
+PMC4372811,"coumarin",1,,28794
+PMC4372811,"nonanoic acid",1,,29019
+PMC4372811,"benzyl acetate",1,,52051
+PMC4372811," sec",1,,32746
+PMC4372811,"paraformaldehyde",1,,61538
+PMC4372811,"ethylenediaminetetraacetic acid",1,,42191
+PMC4372811,"Triton",1,,29234
+PMC4372811,"anit",1,,35455
+PMC4372811,"phenylindole",1,,48559
+PMC4372811,"aminoacids",1,,33709
+PMC4372811,"penicillin",1,,51356
+PMC4372811,"streptomycin",1,,58007
+PMC4372811,"Photon",1,,30212
+PMC4372811,"cyclic nucleotide",1,,23447
+PMC4372811,"rapamycin",1,,9168
+PMC4372811,"eugenol",1,,4917
+PMC4372811,"veratraldehyde",1,,17098
+PMC4387231,"glutathione",21,,57925
+PMC4387231,"lipid",16,,18059
+PMC4387231,"Protein",8,,16541
+PMC4387231,"paracetamol",7,,46195
+PMC4387231,"thiol",5,,29917
+PMC4387231,"malondialdehyde",5,,566274
+PMC4387231,"alkaloids",4,,22315
+PMC4387231,"iron",3,,18248
+PMC4387231,"radical",3,,26519
+PMC4387231,"quinone",3,,36141
+PMC4387231,"Ethanol",3,,44730
+PMC4387231,"calcium",3,,29320
+PMC4387231,"thioacetamide",3,,32497
+PMC4387231,"bilirubin",3,,57977
+PMC4387231,"toluene",3,,17578
+PMC4387231,"methotrexate",3,,44185
+PMC4387231,"unsaturated fatty acids",2,,27208
+PMC4387231,"terpene",2,,35186
+PMC4387231,"Saponin",2,,26605
+PMC4387231,"carvone",2,,38265
+PMC4387231,"Linoleic acid",2,,17351
+PMC4387231,"Oleic acid",2,,16196
+PMC4387231,"Palmitic acid",2,,15756
+PMC4387231,"Stearic acid",2,,28842
+PMC4387231,"peroxynitrite",2,,25941
+PMC4387231,"acetyl",2,,46887
+PMC4387231,"carbon tetrachloride",2,,27385
+PMC4387231,"copper",2,,30052
+PMC4387231,"reduced glutathione",2,,16856
+PMC4387231,"thiobarbituric acid",2,,33202
+PMC4387231,"Diethylnitrosamine",2,,34873
+PMC4387231,"tamoxifen",2,,41774
+PMC4387231,"esters",1,,35701
+PMC4387231,"alcohols",1,,30879
+PMC4387231,"pyrazol",1,,14973
+PMC4387231,"p-cymene",1,,28768
+PMC4387231,"pinene",1,,17187
+PMC4387231,"carvacrol",1,,3440
+PMC4387231,"limonene",1,,15384
+PMC4387231,"4-terpineol",1,,78884
+PMC4387231,"citronellol",1,,50462
+PMC4387231,"Linolenic acid",1,,27432
+PMC4387231,"Arachidic acid",1,,28822
+PMC4387231,"Palmitoleic acid",1,,28716
+PMC4387231,"Eicosadienoic acid",1,,73731
+PMC4387231,"Myristic acid",1,,28875
+PMC4387231,"fatty acid ethyl esters",1,,78206
+PMC4387231,"dihomolinoleic acid",1,,83063
+PMC4387231,"Saturated fatty acids",1,,26607
+PMC4387231,"d -limonene",1,,15382
+PMC4387231,"carbonyl compound",1,,36586
+PMC4387231,"thymol",1,,27607
+PMC4387231,"Nicotinamide adenine dinucleotide phosphate",1,,25523
+PMC4387231,"anion radical",1,,36873
+PMC4387231,"hydrogen peroxide",1,,16240
+PMC4387231,"hydroxyl radical",1,,29191
+PMC4387231,"hypochlorous acid",1,,24757
+PMC4387231,"ebselen",1,,77543
+PMC4387231,"8-hydroxydeoxyguanosine",1,,40304
+PMC4387231,"thymine",1,,17821
+PMC4387231,"thymidine",1,,17748
+PMC4387231,"glycol",1,,30742
+PMC4387231,"oxygen",1,,25805
+PMC4387231,"xanthine",1,,48517
+PMC4387231,"heme",1,,30413
+PMC4387231,"iron-sulfur",1,,30408
+PMC4387231,"p-benzoquinone imine",1,,50192
+PMC4387231,"arsenic",1,,47217
+PMC4387231,"cadmium",1,,48775
+PMC4387231,"spermidine",1,,57834
+PMC4387231,"spermine",1,,45725
+PMC4387231,"polyamine",1,,60143
+PMC4387231,"butyl",1,,41264
+PMC4387231,"hydroperoxide",1,,79974
+PMC4387231,"pyridine nucleotides",1,,36980
+PMC4387231,"eicosanoid",1,,23899
+PMC4387231,"thromboxane B2",1,,28728
+PMC4387231,"leukotriene B4",1,,57461
+PMC4387231,"superoxide anion radicals",1,,18421
+PMC4387231,"fructose",1,,28757
+PMC4387231,"triglycerides",1,,17855
+PMC4387231,"cholesterol",1,,16113
+PMC4387231,"nitrate",1,,48107
+PMC4387231,"nitrite",1,,16301
+PMC4387231,"Benzene",1,,16716
+PMC4387231,"metals",1,,33521
+PMC4387231,"dimethyl sulfoxide",1,,28262
+PMC4387231,"carbonyl",1,,23019
+PMC4387231,"gamma glutamyl",1,,24190
+PMC4387231,"lactate",1,,24996
+PMC4387231,"peroxides",1,,44785
+PMC4389268,"Serotonin",36,,350546
+PMC4389268,"water",24,,15377
+PMC4389268,"dopamine",15,,59905
+PMC4389268,"quinine",14,,15854
+PMC4389268,"letter",3,,6446
+PMC4389268,"ketamine",2,,6121
+PMC4389268,"medetomidine",2,,48552
+PMC4389268,"protein",1,,16541
+PMC4389268,"glutamate",1,,29987
+PMC4389268,"acetylcholine",1,,15355
+PMC4389268,"peptides",1,,16670
+PMC4389268,"magenta",1,,82336
+PMC4389268,"cation",1,,36916
+PMC4389268,"isoflurane",1,,6015
+PMC4389268,"ketoprofen",1,,6128
+PMC4389268,"buprenorphine",1,,3216
+PMC4389268,"isoamyl acetate",1,,31725
+PMC4389268,"1-butanol",1,,28885
+PMC4389268,"citral",1,,23316
+PMC4389268,"eugenol",1,,4917
+PMC4389268,"(+) limonene",1,,15382
+PMC4389268,"carvone",1,,38265
+PMC4389268,"(+) carvone",1,,15399
+PMC4389268,"allyl",1,,30361
+PMC4389268,"eucalyptol",1,,27961
+PMC4389268,"acetophenone",1,,27632
+PMC4389268,"hexanone",1,,24573
+PMC4389268,"pentyl",1,,25902
+PMC4389268,"acetate",1,,47622
+PMC4389268,"p-cymene",1,,28768
+PMC4389268,"ethyl",1,,62801
+PMC4389268,"butyrate",1,,17968
+PMC4389268,"epoxy",1,,30721
+PMC4389268,"paraformaldehyde",1,,61538
+PMC4389268,"phenylindole",1,,48559
+PMC4389412,"carvone",41,,38265
+PMC4389412,"(+)-carvone",9,,15399
+PMC4389412,"(-) carvone",6,,15400
+PMC4389412,"waters",5,,15377
+PMC4389412,"oxygen",3,,25805
+PMC4389412,"urea",3,,16199
+PMC4389412,"monoterpenoid",1,,25409
+PMC4389412,"ketones",1,,17087
+PMC4389412,"Letters",1,,6446
+PMC4389412,"carbon",1,,33415
+PMC4389412,"ammonia",1,,16134
+PMC4389412,"cation",1,,36916
+PMC4389412,"2,3,5-triphenyltetrazolium chloride",1,,78019
+PMC4389412,"p-nitrophenol",1,,16836
+PMC4395931,"Alkaloids",32,,22315
+PMC4395931,"sesquiterpene",13,,35189
+PMC4395931,"atisine",12,,2909
+PMC4395931,"glycoside",9,,24400
+PMC4395931,"terpenoids",8,,26873
+PMC4395931,"ketone",8,,17087
+PMC4395931,"aconitine",7,,2430
+PMC4395931,"sesquiterpenoids",7,,26658
+PMC4395931,"flavonoids",5,,72544
+PMC4395931,"hydrocarbons",5,,24632
+PMC4395931,"cyperene",4,,81141
+PMC4395931,"triterpenoid",4,,36615
+PMC4395931,"caryophyllene",4,,10357
+PMC4395931,"lactone",3,,25000
+PMC4395931,"salts",3,,26710
+PMC4395931,"cyperolone",3,,80814
+PMC4395931,"hydroxy",3,,43176
+PMC4395931,"oleanolic acid",3,,37659
+PMC4395931,"cyperotundone",3,,81137
+PMC4395931,"leptosidin",3,,6412
+PMC4395931,"hetisine",2,,5690
+PMC4395931,"heteratisine",2,,5684
+PMC4395931,"mustakone",2,,66416
+PMC4395931,"copaene",2,,10221
+PMC4395931,"glucose",2,,42758
+PMC4395931,"rhamnose",2,,27907
+PMC4395931,"peroxide",2,,44785
+PMC4395931,"methyl",2,,32875
+PMC4395931,"isopropenyl",2,,30354
+PMC4395931,"cyclohexanone",2,,17854
+PMC4395931,"carbon",2,,33415
+PMC4395931,"catechin",2,,23053
+PMC4395931,"quercetin",2,,57694
+PMC4395931,"kaempferol",2,,58573
+PMC4395931,"luteolin",2,,57545
+PMC4395931,"methoxy",2,,44520
+PMC4395931,"arabinoside",2,,22601
+PMC4395931,"Tannins",2,,26848
+PMC4395931,"sesquiterpene alkaloids",2,,26657
+PMC4395931,"ethyl",2,,62801
+PMC4395931,"methylene",1,,50728
+PMC4395931,"hydrochloride",1,,36807
+PMC4395931,"aconitic acid",1,,22211
+PMC4395931,"diterpene alkaloids",1,,23847
+PMC4395931,"diterpenoid",1,,23849
+PMC4395931,"lycoctonine",1,,6590
+PMC4395931,"lappaconitine",1,,6378
+PMC4395931,"Terpenes",1,,35186
+PMC4395931,"tricyclic hydrocarbon",1,,51119
+PMC4395931,"selinene",1,,49272
+PMC4395931,"an epoxide",1,,32955
+PMC4395931,"benzene",1,,16716
+PMC4395931,"neohesperidoside",1,,25495
+PMC4395931,"dimethyl",1,,42266
+PMC4395931,"acetal",1,,59769
+PMC4395931,"eudesmane",1,,36522
+PMC4395931,"germacrane",1,,36514
+PMC4395931,"cycloartane",1,,37778
+PMC4395931,"monoterpenoid",1,,25409
+PMC4395931,"ethanol",1,,44730
+PMC4395931,"Sarin",1,,75871
+PMC4395931,"flavanone",1,,5070
+PMC4395931,"ginkgetin",1,,5353
+PMC4395931,"isoginkgetin",1,,79087
+PMC4395931,"1,2,3,4-tetrahydronaphthalene",1,,35008
+PMC4395931,"stilbene",1,,26775
+PMC4395931,"piceid",1,,8198
+PMC4395931,"alpha-amyrin",1,,10213
+PMC4395931,"beta amyrin",1,,10352
+PMC4395931,"ethyl acetate",1,,27750
+PMC4395931,"coumarins",1,,28794
+PMC4395931,"monoterpene",1,,35187
+PMC4395931,"sugetriol",1,,81138
+PMC4395931,"triacetate",1,,57814
+PMC4395931,"carvone",1,,38265
+PMC4395931,"ether",1,,35702
+PMC4395931,"pyridine",1,,16227
+PMC4395931,"condensed tannins",1,,26267
+PMC4395931,"nootkatone",1,,81377
+PMC4395931,"pinocarveol",1,,26137
+PMC4395931,"acetate",1,,47622
+PMC4395931,"valerenic acid",1,,9921
+PMC4395931,"cadinene",1,,22976
+PMC4395931,"tertiary alcohol",1,,26878
+PMC4395931,"alcohols",1,,30879
+PMC4395931,"(-)-beta-selinene",1,,49274
+PMC4395931,"emetine",1,,4781
+PMC4395931,"cepheline",1,,3533
+PMC4395931,"oxo fatty acid",1,,59644
+PMC4395931,"esters",1,,35701
+PMC4395931,"hexane",1,,29021
+PMC4395931,"steryl esters",1,,35915
+PMC4395931,"palmitate",1,,7896
+PMC4395931,"dien",1,,30629
+PMC4395931,"stearate",1,,28842
+PMC4398050,"benzaldehyde",11,,17169
+PMC4398050,"acetophenone",9,,27632
+PMC4398050,"citral",5,,23316
+PMC4398050,"ethyl acetate",4,,27750
+PMC4398050,"inositol",3,,24848
+PMC4398050,"triphosphate",3,,39949
+PMC4398050,"2-heptanone",3,,5672
+PMC4398050,"guanosine monophosphate",2,,17345
+PMC4398050,"phenyl",2,,30396
+PMC4398050,"ethyl alcohol",2,,16236
+PMC4398050,"eugenol",2,,4917
+PMC4398050,"l-carvone",2,,15400
+PMC4398050,"methyl salicylate",2,,31832
+PMC4398050,"d-carvone",2,,15399
+PMC4398050,"ethyl",2,,62801
+PMC4398050,"butyrate",2,,17968
+PMC4398050,"2,3-butanedione",2,,16583
+PMC4398050,"carbon dioxide",1,,16526
+PMC4398050,"molasses",1,,83163
+PMC4398050,"aldehydes",1,,17478
+PMC4398050,"ketones",1,,17087
+PMC4398050,"aromatics",1,,33655
+PMC4398050,"alcohols",1,,30879
+PMC4398050,"esters",1,,35701
+PMC4398050,"sodium",1,,29101
+PMC4398050,"Serotonin",1,,350546
+PMC4398050,"fees",1,,35748
+PMC4405290,"3-octanone",11,,80946
+PMC4405290,"3-octanol",9,,80945
+PMC4405290,"Methyl",8,,32875
+PMC4405290,"benzaldehyde",6,,17169
+PMC4405290,"1-octen-3-ol",6,,39932
+PMC4405290,"linalool",6,,17580
+PMC4405290,"benzyl alcohol",4,,17987
+PMC4405290,"limonene",4,,15384
+PMC4405290,"ethanol",4,,44730
+PMC4405290,"acetate",4,,47622
+PMC4405290,"butanal",4,,15743
+PMC4405290,"minerals",3,,46662
+PMC4405290,"isopentanol",3,,15837
+PMC4405290,"isobutanol",3,,46645
+PMC4405290,"pentanal",3,,84069
+PMC4405290,"ketones",3,,17087
+PMC4405290,"Ethyl",3,,62801
+PMC4405290,"Bisabolene",3,,49237
+PMC4405290,"phenol",2,,15882
+PMC4405290,"azulenes",2,,38096
+PMC4405290,"terpenoids",2,,26873
+PMC4405290,"terpenes",2,,35186
+PMC4405290,"3-methylbutanal",2,,16638
+PMC4405290,"isopropyl",2,,30353
+PMC4405290,"carotenoids",2,,23044
+PMC4405290,"estragole",2,,4867
+PMC4405290,"methyl sulfide",2,,25260
+PMC4405290,"camphor",2,,36773
+PMC4405290,"phenylacetaldehyde",2,,16424
+PMC4405290,"carbon",2,,33415
+PMC4405290,"linoleic acid",2,,17351
+PMC4405290,"2-Butanol",2,,45475
+PMC4405290,"propanoate",2,,17272
+PMC4405290,"Hexenal",2,,24578
+PMC4405290,"Hexadienal",2,,24551
+PMC4405290,"Butyl",2,,41264
+PMC4405290,"Pinene",2,,17187
+PMC4405290,"Octanol",2,,37868
+PMC4405290,"Nonanal",2,,84268
+PMC4405290,"Phenethyl alcohol",2,,49000
+PMC4405290,"2-Undecanone",2,,17700
+PMC4405290,"Caryophyllene",2,,10357
+PMC4405290,"Farnesene",2,,39237
+PMC4405290,"Muurolene",2,,64797
+PMC4405290,"Selinene",2,,49272
+PMC4405290,"proteins",1,,16541
+PMC4405290,"polysaccharides",1,,18154
+PMC4405290,"lanostane",1,,20265
+PMC4405290,"triterpenoids",1,,36615
+PMC4405290,"radical",1,,26519
+PMC4405290,"polydimethylsiloxane",1,,61468
+PMC4405290,"alkanes",1,,18310
+PMC4405290,"heptane",1,,43098
+PMC4405290,"triacontane",1,,31006
+PMC4405290,"alpha-selinene",1,,59961
+PMC4405290,"amines",1,,32952
+PMC4405290,"putrescine",1,,326268
+PMC4405290,"water",1,,15377
+PMC4405290,"beta-pinene",1,,50025
+PMC4405290,"aliphatic alcohols",1,,2571
+PMC4405290,"carbon atoms",1,,27594
+PMC4405290,"sulphur",1,,26833
+PMC4405290,"alcohols",1,,30879
+PMC4405290,"lipid",1,,18059
+PMC4405290,"Ethanal",1,,15343
+PMC4405290,"Ethyl acetate",1,,27750
+PMC4405290,"3-Methyl-2-butanol",1,,77517
+PMC4405290,"Hydroxyacetone",1,,27957
+PMC4405290,"2-Methyl-1-butanol",1,,48945
+PMC4405290,"butanoate",1,,30772
+PMC4405290,"3-Heptanone",1,,50139
+PMC4405290,"2-Heptanone",1,,5672
+PMC4405290,"Heptanal",1,,34787
+PMC4405290,"Pentyl",1,,25902
+PMC4405290,"Thujene",1,,50030
+PMC4405290,"Ethyl tiglate",1,,4892
+PMC4405290,"Camphene",1,,3830
+PMC4405290,"Myrcene",1,,17221
+PMC4405290,"Trimethyl benzene",1,,38641
+PMC4405290,"Octanal",1,,17935
+PMC4405290,"1,4-Cineole",1,,80788
+PMC4405290,"p-Cymene",1,,28768
+PMC4405290,"Sabinene hydrate",1,,16377
+PMC4405290,"Terpinolene",1,,9457
+PMC4405290,"Decanal",1,,31457
+PMC4405290,"Carvone",1,,38265
+PMC4405290,"Longifolene",1,,6530
+PMC4405290,"Copaene",1,,10221
+PMC4405290,"Curcumene",1,,62757
+PMC4405290,"Germacrene",1,,36743
+PMC4405290,"Cadinene",1,,22976
+PMC4405290,"Nerolidol",1,,7524
+PMC4405290,"dioxolane",1,,39430
+PMC4405290,"n-Undecane",1,,46342
+PMC4405290,"hexanoate",1,,30776
+PMC4405290,"n-Dodecane",1,,28817
+PMC4405290,"6-Methyl-5-hepten-2-one",1,,16310
+PMC4405290,"Nonanone",1,,25579
+PMC4405290,"n-Tridecane",1,,35998
+PMC4405290,"Heptylmethyl ketone",1,,77927
+PMC4405290,"Dimethyl",1,,42266
+PMC4405290,"Hydroxymethyl",1,,24712
+PMC4405290,"hydroxy",1,,43176
+PMC4405290,"n-Tetradecane",1,,41253
+PMC4405290,"diol",1,,8387
+PMC4405290,"n-Nonanol",1,,35986
+PMC4405290,"Valencene",1,,61700
+PMC4405290,"n-Decanol",1,,28903
+PMC4405290,"Geranylacetone",1,,67206
+PMC4408633,"monoterpenes",5,,35187
+PMC4408633,"1,8-cineole",5,,27961
+PMC4408633,"caryophyllene",5,,10357
+PMC4408633,"sesquiterpene",4,,35189
+PMC4408633,"hydrocarbons",4,,24632
+PMC4408633,"water",4,,15377
+PMC4408633,"humulene",4,,5768
+PMC4408633,"terpineol",3,,26876
+PMC4408633,"germacrene",3,,36743
+PMC4408633,"bicyclogermacrene",2,,63709
+PMC4408633,"phellandrene",2,,50034
+PMC4408633,"thymol",2,,27607
+PMC4408633,"carvacrol",2,,3440
+PMC4408633,"p-cymene",2,,28768
+PMC4408633,"Pinene",2,,17187
+PMC4408633,"Linalool",2,,17580
+PMC4408633,"Muurolene",2,,64797
+PMC4408633,"Selinene",2,,49272
+PMC4408633,"Cadinene",2,,22976
+PMC4408633,"sodium sulfate",1,,32149
+PMC4408633,"mineral",1,,46662
+PMC4408633,"dimethyl sulfoxide",1,,28262
+PMC4408633,"(-)-carvone",1,,15400
+PMC4408633,"Sabinene",1,,50027
+PMC4408633,"Myrcene",1,,17221
+PMC4408633,"Limonene",1,,15384
+PMC4408633,"Terpinolene",1,,9457
+PMC4408633,"Pinocarveol",1,,26137
+PMC4408633,"Terpinen-4-ol",1,,78884
+PMC4408633,"Geraniol",1,,17447
+PMC4408633,"acetate",1,,47622
+PMC4408633,"Copaene",1,,10221
+PMC4408633,"Viridiflorene",1,,63444
+PMC4408633,"epoxide",1,,32955
+PMC4412152,"eugenol",23,,4917
+PMC4412152,"androstenone",21,,37894
+PMC4412152,"cinnamaldehyde",19,,16731
+PMC4412152,"cis-3-hexen-1-ol",18,,28857
+PMC4412152,"geranyl acetate",18,,5331
+PMC4412152,"isovaleric acid",17,,28484
+PMC4412152,"butyric acid",11,,30772
+PMC4412152,"phenyl",10,,30396
+PMC4412152,"isoeugenol",10,,18224
+PMC4412152,"acetate",10,,47622
+PMC4412152,"vanillin",10,,18346
+PMC4412152,"(+)-carvone",8,,15399
+PMC4412152,"acetaldehyde",7,,43923
+PMC4412152,"eugenol methyl ether",6,,4918
+PMC4412152,"coumarin",5,,28794
+PMC4412152,"ethyl vanillin",5,,48408
+PMC4412152,"quinoline",5,,17362
+PMC4412152,"linalool",4,,17580
+PMC4412152,"allyl",4,,30361
+PMC4412152,"phenylacetate",4,,8082
+PMC4412152,"nonanedioic acid",3,,48131
+PMC4412152,"butyl",3,,41264
+PMC4412152,"anthranilate",3,,16567
+PMC4412152,"propyl",3,,26308
+PMC4412152,"propionate",3,,17272
+PMC4412152,"photons",2,,30212
+PMC4412152,"methoxy",2,,44520
+PMC4412152,"4-methylphenol",2,,17847
+PMC4412152,"(+)-menthol",2,,76310
+PMC4412152,"geraniol",2,,17447
+PMC4412152,"carvone",2,,38265
+PMC4412152,"1042",1,,31051
+PMC4412152,"2-decenal",1,,61727
+PMC4412152,"caramel furanone",1,,67890
+PMC4412152,"propionic acid",1,,30768
+PMC4412152,"thioglycolic acid",1,,30065
+PMC4412152,"disulfide",1,,48343
+PMC4412152,"laurate",1,,18262
+PMC4412152,"guaiacol",1,,28591
+PMC4412152,"octyl",1,,25657
+PMC4412152,"aldehyde",1,,17478
+PMC4412152,"ethylene",1,,29362
+PMC4412152,"undecanal",1,,46202
+PMC4413252,"alkaloids",18,,22315
+PMC4413252,"hydroxy",18,,43176
+PMC4413252,"protein",15,,16541
+PMC4413252,"acridone",14,,50756
+PMC4413252,"methanol",11,,44520
+PMC4413252,"methyl",11,,32875
+PMC4413252,"flavonoids",10,,72544
+PMC4413252,"benzophenones",10,,41308
+PMC4413252,"terpenoids",9,,26873
+PMC4413252,"doxorubicin",9,,64816
+PMC4413252,"isoflavonoids",8,,50753
+PMC4413252,"thiophene",6,,30856
+PMC4413252,"chalcones",6,,27618
+PMC4413252,"triterpenes",5,,35191
+PMC4413252,"saponin",5,,26605
+PMC4413252,"phenol",5,,15882
+PMC4413252,"pterocarpan",5,,73033
+PMC4413252,"Xanthone",5,,37647
+PMC4413252,"kaempferol",4,,58573
+PMC4413252,"lupeol",4,,6570
+PMC4413252,"tannins",4,,26848
+PMC4413252,"flavanone",4,,5070
+PMC4413252,"histone",4,,15358
+PMC4413252,"dimethyl ether",4,,28887
+PMC4413252,"sitosterol",4,,27693
+PMC4413252,"Isobutyl",4,,30356
+PMC4413252,"naringenin",3,,50202
+PMC4413252,"octane",3,,17590
+PMC4413252,"p-hydroxybenzoate",3,,17879
+PMC4413252,"ursolic acid",3,,9908
+PMC4413252,"acetate",3,,47622
+PMC4413252,"xanthones",3,,51149
+PMC4413252,"lignans",3,,25036
+PMC4413252,"1,4-naphthoquinone",3,,27418
+PMC4413252,"myricetin",3,,58395
+PMC4413252,"adenosine triphosphate",2,,15422
+PMC4413252,"plumbagin",2,,8273
+PMC4413252,"glycoprotein",2,,17089
+PMC4413252,"sesquiterpenes",2,,35189
+PMC4413252,"carotene",2,,23042
+PMC4413252,"alpha-hederin",2,,69370
+PMC4413252,"isoxanthochymol",2,,70329
+PMC4413252,"butenone",2,,48058
+PMC4413252,"peptides",2,,16670
+PMC4413252,"nitrogen atom",2,,29351
+PMC4413252,"polypeptides",2,,15841
+PMC4413252,"ethanol",2,,44730
+PMC4413252,"quercetin",2,,57694
+PMC4413252,"lup-20(29)-en-3-one",2,,67823
+PMC4413252,"anthocyanins",2,,38697
+PMC4413252,"ether",2,,35702
+PMC4413252,"plumericin",1,,8274
+PMC4413252,"tyrosine residues",1,,32789
+PMC4413252,"water",1,,15377
+PMC4413252,"vinblastine",1,,27375
+PMC4413252,"vincristine",1,,28445
+PMC4413252,"isoprenoids",1,,24913
+PMC4413252,"carbon",1,,33415
+PMC4413252,"isoprene",1,,35194
+PMC4413252,"hemiterpene",1,,35188
+PMC4413252,"isopentenyl diphosphate",1,,16584
+PMC4413252,"dimethylallyl diphosphate",1,,57623
+PMC4413252,"geranyl pyrophosphate",1,,58057
+PMC4413252,"monoterpenes",1,,35187
+PMC4413252,"carvone",1,,38265
+PMC4413252,"geraniol",1,,17447
+PMC4413252,"d-limonene",1,,15382
+PMC4413252,"perillyl alcohol",1,,15420
+PMC4413252,"farnesol",1,,42680
+PMC4413252,"diterpenes",1,,35190
+PMC4413252,"retinol",1,,50211
+PMC4413252,"trans-retinoic acid",1,,15367
+PMC4413252,"sesterterpenes",1,,35192
+PMC4413252,"betulinic acid",1,,3087
+PMC4413252,"oleanolic acid",1,,37659
+PMC4413252,"tetraterpenes",1,,35193
+PMC4413252,"lutein",1,,28838
+PMC4413252,"lycopene",1,,15948
+PMC4413252,"terpenes",1,,35186
+PMC4413252,"waxes",1,,73702
+PMC4413252,"rubber",1,,60185
+PMC4413252,"cicutoxin",1,,3695
+PMC4413252,"atractyloside",1,,2913
+PMC4413252,"daphnetoxin",1,,4321
+PMC4413252,"digoxin",1,,4551
+PMC4413252,"gibberellic acid",1,,28833
+PMC4413252,"oleanane",1,,36481
+PMC4413252,"triterpenoid saponins",1,,61778
+PMC4413252,"cardenolide glycosides",1,,38092
+PMC4413252,"esters",1,,35701
+PMC4413252,"labdane diterpenoids",1,,36770
+PMC4413252,"triterpenoid",1,,36615
+PMC4413252,"phenylpropanoids",1,,26004
+PMC4413252,"coumarins",1,,28794
+PMC4413252,"quinones",1,,36141
+PMC4413252,"anthrones",1,,40753
+PMC4413252,"stilbenes",1,,26775
+PMC4413252,"gossypol",1,,28584
+PMC4413252,"scopoletin",1,,17488
+PMC4413252,"flavonol",1,,5078
+PMC4413252,"neobavaisoflavone",1,,66614
+PMC4413252,"pinostrobin",1,,80491
+PMC4413252,"cinnamate",1,,23248
+PMC4413252,"nonadecyl",1,,32928
+PMC4413252,"nitrogen",1,,25555
+PMC4413252,"organic compounds",1,,50860
+PMC4413252,"purines",1,,35584
+PMC4413252,"amino sugars",1,,28963
+PMC4413252,"anabasine",1,,74
+PMC4413252,"aristolochic acid",1,,2825
+PMC4413252,"nicotine",1,,18723
+PMC4413252,"sanguinarine",1,,17183
+PMC4413252,"solanine",1,,9188
+PMC4413252,"benzophenanthridines",1,,38518
+PMC4413252,"maculine",1,,6629
+PMC4413252,"kokusaginine",1,,6142
+PMC4413252,"aspartate residues",1,,32471
+PMC4413252,"glucose",1,,42758
+PMC4413252,"pyrone",1,,37963
+PMC4413252,"galanolactone",1,,81135
+PMC4413252,"diol",1,,8387
+PMC4413252,"dimethoxybenzene",1,,51681
+PMC4413252,"hamayne",1,,31667
+PMC4413252,"crinamine",1,,3914
+PMC4413252,"crinine",1,,31437
+PMC4413252,"ambelline",1,,2626
+PMC4413252,"lycorine",1,,6601
+PMC4413252,"galantamine",1,,42944
+PMC4413252,"sanguinine",1,,32117
+PMC4413252,"(+)-catechin",1,,15600
+PMC4413252,"Psoralen",1,,27616
+PMC4413252,"glucoside",1,,24278
+PMC4413252,"Euphol",1,,4940
+PMC4413252,"ingenol",1,,5922
+PMC4413252,"taraxerone",1,,67826
+PMC4413252,"friedelin",1,,5171
+PMC4413252,"quercetagetin",1,,8695
+PMC4413252,"tetradecanoate",1,,30807
+PMC4413252,"methylene",1,,50728
+PMC4413252,"quercitrin",1,,58192
+PMC4413252,"pomolic acid",1,,66772
+PMC4413252,"ethanoic acid",1,,15366
+PMC4415343,"diazepam",25,,49575
+PMC4415343,"formalin",21,,16842
+PMC4415343,"acetic acid",20,,15366
+PMC4415343,"alkaloids",17,,22315
+PMC4415343,"Pentobarbital",16,,7983
+PMC4415343,"flavonoids",14,,72544
+PMC4415343,"hydroxy",13,,43176
+PMC4415343,"Tannins",12,,26848
+PMC4415343,"Mangiferin",11,,6682
+PMC4415343,"xylene",10,,27338
+PMC4415343,"Asarone",10,,78309
+PMC4415343,"water",9,,15377
+PMC4415343,"scopolamine",8,,16794
+PMC4415343,"xanthones",8,,51149
+PMC4415343,"Cannabidiol",7,,69478
+PMC4415343,"prostaglandins",7,,26333
+PMC4415343,"atropine",6,,57858
+PMC4415343,"Trans-caryophyllene",6,,10357
+PMC4415343,"delta",6,,36375
+PMC4415343,"methanol",5,,44520
+PMC4415343,"benzodiazepine",5,,22720
+PMC4415343,"Dexamethasone",5,,41879
+PMC4415343,"ethanol",5,,44730
+PMC4415343,"tetrahydrocannabinol",5,,66964
+PMC4415343,"cannabinol",5,,3360
+PMC4415343,"tropane",5,,35615
+PMC4415343,"Serpentine",4,,9119
+PMC4415343,"hyoscyamine",4,,17486
+PMC4415343,"Humulene",4,,5768
+PMC4415343,"Glucoside",4,,24278
+PMC4415343,"diclofenac",4,,47381
+PMC4415343,"cannabichromene",4,,3357
+PMC4415343,"yohimbine",4,,10093
+PMC4415343,"glycosides",4,,24400
+PMC4415343,"saponins",4,,26605
+PMC4415343,"quercetin",4,,57694
+PMC4415343,"alkanes",4,,18310
+PMC4415343,"coumarins",3,,28794
+PMC4415343,"reserpine",3,,28487
+PMC4415343,"rescinnamine",3,,28572
+PMC4415343,"Sitosterol",3,,27693
+PMC4415343,"kaempferol",3,,58573
+PMC4415343,"Pinene",3,,17187
+PMC4415343,"Myrcene",3,,17221
+PMC4415343,"Limonene",3,,15384
+PMC4415343,"Terpinolene",3,,9457
+PMC4415343,"Diclofenac sodium",3,,4509
+PMC4415343,"ascorbic acid",3,,29073
+PMC4415343,"cannabigerol",3,,69477
+PMC4415343,"ester",3,,35701
+PMC4415343,"rutin",3,,61606
+PMC4415343,"proteins",3,,16541
+PMC4415343,"orientin",3,,7781
+PMC4415343,"methyl",3,,32875
+PMC4415343,"bufadienolide",3,,80798
+PMC4415343,"neolignans",2,,25497
+PMC4415343,"lignans",2,,25036
+PMC4415343,"ajmaline",2,,58567
+PMC4415343,"deserpidine",2,,27478
+PMC4415343,"Betaine",2,,17750
+PMC4415343,"ellagic acid",2,,4775
+PMC4415343,"gallic acid",2,,30778
+PMC4415343,"Eugenol",2,,4917
+PMC4415343,"methyl cellulose",2,,53448
+PMC4415343,"n-hexane",2,,29021
+PMC4415343,"ethyl acetate",2,,27750
+PMC4415343,"sodium",2,,29101
+PMC4415343,"Loperamide",2,,6532
+PMC4415343,"phytosterol",2,,28824
+PMC4415343,"benzoic acid",2,,30746
+PMC4415343,"reserpic acid",2,,46690
+PMC4415343,"indole",2,,35581
+PMC4415343,"Terpenoids",2,,26873
+PMC4415343,"terpenes",2,,35186
+PMC4415343,"ajmalicine",2,,2524
+PMC4415343,"riboflavin",2,,57986
+PMC4415343,"thiamine",2,,33283
+PMC4415343,"chloroform",2,,35255
+PMC4415343,"glucose",2,,42758
+PMC4415343,"tropane alkaloids",2,,37332
+PMC4415343,"Linalool",2,,17580
+PMC4415343,"vitexin",2,,57963
+PMC4415343,"isovitexin",2,,58447
+PMC4415343,"epoxide",2,,32955
+PMC4415343,"dien",2,,30629
+PMC4415343,"zeatin",2,,16522
+PMC4415343,"benzoate",2,,16150
+PMC4415343,"histamine",2,,58432
+PMC4415343,"chloride ion",2,,17996
+PMC4415343,"thyroid",1,,9584
+PMC4415343,"Ceryl alcohol",1,,28415
+PMC4415343,"Triacontane",1,,31006
+PMC4415343,"Gentianine",1,,28981
+PMC4415343,"Triterpenes",1,,35191
+PMC4415343,"amyrin",1,,10352
+PMC4415343,"Taraxerol",1,,9402
+PMC4415343,"Taraxerone",1,,67826
+PMC4415343,"ellagitannins",1,,23909
+PMC4415343,"Starch",1,,28017
+PMC4415343,"Barium",1,,37136
+PMC4415343,"Carboxy",1,,46883
+PMC4415343,"tween 80",1,,53426
+PMC4415343,"iron",1,,18248
+PMC4415343,"metals",1,,33521
+PMC4415343,"aluminium",1,,28984
+PMC4415343,"magnesium stearate",1,,9254
+PMC4415343,"isopropyl alcohol",1,,17824
+PMC4415343,"Iodine",1,,24859
+PMC4415343,"flumazenil",1,,5103
+PMC4415343,"sec",1,,32746
+PMC4415343,"valeranone",1,,80748
+PMC4415343,"phenols",1,,15882
+PMC4415343,"sterols",1,,15889
+PMC4415343,"monoterpenoid indole alkaloid",1,,65323
+PMC4415343,"niacin",1,,17154
+PMC4415343,"triterpenoids",1,,36615
+PMC4415343,"amphetamine",1,,51062
+PMC4415343,"5-hydroxytryptophan",1,,28171
+PMC4415343,"phosphatides",1,,37739
+PMC4415343,"minerals",1,,46662
+PMC4415343,"myristic acids",1,,28875
+PMC4415343,"fructose",1,,28757
+PMC4415343,"inositol",1,,24848
+PMC4415343,"galacturonic acid",1,,33830
+PMC4415343,"Pedunculagin",1,,7948
+PMC4415343,"carotene",1,,23042
+PMC4415343,"chebulagic acid",1,,3583
+PMC4415343,"chebulinic acid",1,,3584
+PMC4415343,"corilagin",1,,3884
+PMC4415343,"leucodelphinidin",1,,71216
+PMC4415343,"Cholesterol",1,,16113
+PMC4415343,"scopoline",1,,9059
+PMC4415343,"Hygrine",1,,46750
+PMC4415343,"6-Hydroxyhyoscyamine",1,,2735
+PMC4415343,"Pseudotropine",1,,57493
+PMC4415343,"Tropinone",1,,57851
+PMC4415343,"Acetoxy",1,,48076
+PMC4415343,"Littorine",1,,6506
+PMC4415343,"Tropine",1,,57554
+PMC4415343,"Meteloidine",1,,6800
+PMC4415343,"cypermethrin",1,,4042
+PMC4415343,"creatinine",1,,16737
+PMC4415343,"sesquiterpenes",1,,35189
+PMC4415343,"Spiro compounds",1,,33599
+PMC4415343,"farnesene",1,,39237
+PMC4415343,"bisabolene",1,,49237
+PMC4415343,"cannabinoids",1,,67194
+PMC4415343,"longifolene",1,,6530
+PMC4415343,"friedelin",1,,5171
+PMC4415343,"trans- cinnamamide",1,,76320
+PMC4415343,"stigmast-4-en-3-one",1,,68105
+PMC4415343,"campest-4-en-3-one",1,,18534
+PMC4415343,"cannabisativine",1,,3361
+PMC4415343,"carvone",1,,38265
+PMC4415343,"dihydrocarvone",1,,23733
+PMC4415343,"cannabidiolic acid",1,,3359
+PMC4415343,"isopropenyl",1,,30354
+PMC4415343,"pentyl",1,,25902
+PMC4415343,"carboxylic acid",1,,33575
+PMC4415343,"acetate",1,,47622
+PMC4415343,"trans-cinnamic acid",1,,35697
+PMC4415343,"n-nonacosane",1,,7613
+PMC4415343,"guaiacol",1,,28591
+PMC4415343,"nucleoside",1,,33838
+PMC4415343,"acetyl",1,,46887
+PMC4415343,"glucosamine",1,,5417
+PMC4415343,"hydroxymethyl",1,,24712
+PMC4415343,"n-propyl",1,,26308
+PMC4415343,"methicillin",1,,6827
+PMC4415343,"trans isoeugenol",1,,50545
+PMC4415343,"methyl ethers",1,,28887
+PMC4415343,"camphene",1,,3830
+PMC4415343,"selinene",1,,49272
+PMC4415343,"cadinene",1,,22976
+PMC4415343,"camphor",1,,36773
+PMC4415343,"terpinen-4-ol",1,,78884
+PMC4415343,"terpineol",1,,26876
+PMC4415343,"benzaldehyde",1,,17169
+PMC4415343,"carrageenan",1,,3435
+PMC4415343,"serotonin",1,,350546
+PMC4415343,"anthocyanins",1,,38697
+PMC4415343,"proanthocyanidins",1,,26267
+PMC4415343,"luteolin",1,,57545
+PMC4415343,"biflavonoids",1,,50128
+PMC4415343,"barbital",1,,31252
+PMC4415343,"gamma aminobutyric acid",1,,16865
+PMC4415343,"Gamma",1,,30212
+PMC4415343,"amino",1,,46882
+PMC4415343,"butyric acid",1,,30772
+PMC4415343,"hexobarbital",1,,5706
+PMC4415343,"catecholamine",1,,33567
+PMC4415343,"noradrenaline",1,,33569
+PMC4415343,"Glutamate",1,,29987
+PMC4415343,"chalcones",1,,27618
+PMC4415343,"flavanones",1,,5070
+PMC4415343,"flavones",1,,42491
+PMC4415343,"flavonols",1,,5078
+PMC4415343,"oxygen",1,,25805
+PMC4424236,"carvacrol",25,,3440
+PMC4424236,"p-cymene",14,,28768
+PMC4424236,"linalool",14,,17580
+PMC4424236,"radical",6,,26519
+PMC4424236,"caryophyllene",4,,10357
+PMC4424236,"etoposide",4,,4911
+PMC4424236,"phenol",2,,15882
+PMC4424236,"water",2,,15377
+PMC4424236,"dextrose",2,,42758
+PMC4424236,"acetic acid",2,,15366
+PMC4424236,"ketone",2,,17087
+PMC4424236,"Pinene",2,,17187
+PMC4424236,"Phellandrene",2,,50034
+PMC4424236,"sodium sulfate",1,,32149
+PMC4424236,"a Factor",1,,79381
+PMC4424236,"Helium",1,,33681
+PMC4424236,"penicillin",1,,51356
+PMC4424236,"streptomycin",1,,58007
+PMC4424236,"dimethyl sulfoxide",1,,28262
+PMC4424236,"proteins",1,,16541
+PMC4424236,"trichloroacetic acid",1,,30956
+PMC4424236,"Trizma",1,,9754
+PMC4424236,"2-hexenal",1,,19591
+PMC4424236,"cis-3-hexenal",1,,23292
+PMC4424236,"Thujene",1,,50030
+PMC4424236,"Camphene",1,,3830
+PMC4424236,"Ethyl",1,,62801
+PMC4424236,"Sabinene",1,,50027
+PMC4424236,"Myrcene",1,,17221
+PMC4424236,"3-Carene",1,,35661
+PMC4424236,"Limonene",1,,15384
+PMC4424236,"Terpinolene",1,,9457
+PMC4424236,"Sabinene hydrate",1,,16377
+PMC4424236,"Borneol",1,,28093
+PMC4424236,"Terpinen-4-ol",1,,78884
+PMC4424236,"Terpineol",1,,26876
+PMC4424236,"Carvone",1,,38265
+PMC4424236,"Indol",1,,16881
+PMC4424236,"Thymol",1,,27607
+PMC4424236,"acetate",1,,47622
+PMC4424236,"Copaene",1,,10221
+PMC4424236,"Humulene",1,,5768
+PMC4424236,"Germacrene",1,,36743
+PMC4424236,"Bicyclogermacrene",1,,63709
+PMC4424236,"Bisabolene",1,,49237
+PMC4424236,"Quercetin",1,,57694
+PMC4424236,"flavonoid",1,,72544
+PMC4424236,"monoterpenoid",1,,25409
+PMC4427012,"n-hexadecanoic acid",6,,15756
+PMC4427012,"thymol",6,,27607
+PMC4427012,"linalool",5,,17580
+PMC4427012,"myristic acid",4,,28875
+PMC4427012,"anethole",4,,35616
+PMC4427012,"borneol",4,,28093
+PMC4427012,"camphor",3,,36773
+PMC4427012,"carvacrol",3,,3440
+PMC4427012,"caryophyllene",3,,10357
+PMC4427012,"lauric acid",3,,30805
+PMC4427012,"terpineol",3,,26876
+PMC4427012,"carvone",2,,38265
+PMC4427012,"p-cymene",2,,28768
+PMC4427012,"estragole",2,,4867
+PMC4427012,"eucalyptol",2,,27961
+PMC4427012,"limonene",2,,15384
+PMC4427012,"menthone",2,,36503
+PMC4427012,"myrcene",2,,17221
+PMC4427012,"ciprofloxacin",2,,100241
+PMC4427012,"tioconazole",2,,9604
+PMC4427012,"Hexane",2,,29021
+PMC4427012,"Tween 80",2,,53426
+PMC4427012,"dextrose",2,,42758
+PMC4427012,"linolenic acid",2,,27432
+PMC4427012,"acetone",2,,15347
+PMC4427012,"Muurolene",2,,64797
+PMC4427012,"Thujone",2,,9577
+PMC4427012,"apigenin",1,,58470
+PMC4427012,"luteolin",1,,57545
+PMC4427012,"kaempferol",1,,58573
+PMC4427012,"quercetin",1,,57694
+PMC4427012,"caffeic acid",1,,36281
+PMC4427012,"coumaric acid",1,,23401
+PMC4427012,"rosmarinic acid",1,,50371
+PMC4427012,"dimethyl sulfoxide",1,,28262
+PMC4427012,"Helium",1,,33681
+PMC4427012,"Cation",1,,36916
+PMC4427012,"saturated fatty acids",1,,26607
+PMC4427012,"unsaturated fatty acids",1,,27208
+PMC4427012,"Damascenone",1,,67251
+PMC4427012,"1-Octen-3-ol",1,,39932
+PMC4427012,"Methyl eugenol",1,,4918
+PMC4427012,"3-Octanol",1,,80945
+PMC4427012,"Geranyl acetone",1,,67206
+PMC4427012,"farnesene",1,,39237
+PMC4427012,"Germacrene",1,,36743
+PMC4427012,"Sabinene hydrate",1,,16377
+PMC4427012,"Curcumene",1,,62757
+PMC4427012,"1-Octanol",1,,16188
+PMC4427012,"ionone",1,,49248
+PMC4427012,"Valencene",1,,61700
+PMC4427012,"Bisabolene",1,,49237
+PMC4427012,"Cadinene",1,,22976
+PMC4427012,"2-Nonenal",1,,61726
+PMC4427012,"Lavandulol",1,,50281
+PMC4427012,"4-Terpineol",1,,78884
+PMC4427012,"Humulene",1,,5768
+PMC4427012,"epoxide",1,,32955
+PMC4427012,"Decanal",1,,31457
+PMC4427012,"methyl ether",1,,28887
+PMC4427012,"aldehyde",1,,17478
+PMC4427012,"Neral",1,,29020
+PMC4427012,"Pentadecanoic acid",1,,42504
+PMC4427012,"Farnesyl acetone",1,,67252
+PMC4427012,"Piperitone",1,,48933
+PMC4427012,"Geraniol",1,,17447
+PMC4427012,"Linoleic acid",1,,17351
+PMC4427012,"Geranial",1,,16980
+PMC4427012,"Tricosane",1,,32934
+PMC4427012,"Safrole",1,,8994
+PMC4427012,"Tetracosane",1,,32936
+PMC4427012,"Pentacosane",1,,32938
+PMC4427012,"Capric acid",1,,30813
+PMC4427012,"Copaene",1,,10221
+PMC4446488,"linalool",32,,17580
+PMC4446488,"caryophyllene",25,,10357
+PMC4446488,"limonene",21,,15384
+PMC4446488,"geranial",19,,16980
+PMC4446488,"neral",19,,29020
+PMC4446488,"carvone",19,,38265
+PMC4446488,"1,8-cineole",15,,27961
+PMC4446488,"myrcene",11,,17221
+PMC4446488,"sabinene",9,,50027
+PMC4446488,"muurolene",9,,64797
+PMC4446488,"1-octen-3-ol",7,,39932
+PMC4446488,"myrtenal",7,,25458
+PMC4446488,"acetate",7,,47622
+PMC4446488,"thujene",6,,50030
+PMC4446488,"Methyl",6,,32875
+PMC4446488,"sabinene hydrate",6,,16377
+PMC4446488,"Perylene",6,,29861
+PMC4446488,"Geraniol",6,,17447
+PMC4446488,"Geranyl acetate",6,,5331
+PMC4446488,"Germacrene",6,,36743
+PMC4446488,"nerolidol",6,,7524
+PMC4446488,"Humulene",6,,5768
+PMC4446488,"epoxide",6,,32955
+PMC4446488,"citral",2,,23316
+PMC4446488,"water",2,,15377
+PMC4446488,"fused-silica",2,,46729
+PMC4446488,"phenyl",2,,30396
+PMC4446488,"dimethylpolysiloxane",2,,61468
+PMC4446488,"terpenoid",1,,26873
+PMC4446488,"organic compounds",1,,50860
+PMC4446488,"sesquiterpenes",1,,35189
+PMC4446488,"helium",1,,33681
+PMC4446488,"ethyl acetate",1,,27750
+PMC4446488,"alkanes",1,,18310
+PMC4448976,"Citral",38,,23316
+PMC4448976,"linalool",34,,17580
+PMC4448976,"(+)-borneol",29,,15393
+PMC4448976,"camphor",24,,36773
+PMC4448976,"alcohols",18,,30879
+PMC4448976,"citronellol",15,,50462
+PMC4448976,"geranyl acetate",14,,5331
+PMC4448976,"linalyl acetate",14,,6469
+PMC4448976,"ruthenium red",14,,34956
+PMC4448976,"geraniol",13,,17447
+PMC4448976,"terpineol",13,,26876
+PMC4448976,"bornyl acetate",13,,3151
+PMC4448976,"aldehyde",12,,17478
+PMC4448976,"citronellal",12,,47856
+PMC4448976,"borneol",12,,28093
+PMC4448976,"ester",12,,35701
+PMC4448976,"myrcene",11,,17221
+PMC4448976,"p-cymene",11,,28768
+PMC4448976,"hydrocarbons",8,,24632
+PMC4448976,"ketone",7,,17087
+PMC4448976,"capsaicin",6,,3374
+PMC4448976,"Carvacrol",5,,3440
+PMC4448976,"1,8-Cineole",5,,27961
+PMC4448976,"water",4,,15377
+PMC4448976,"Thymol",4,,27607
+PMC4448976,"Eugenol",4,,4917
+PMC4448976,"(+)-Menthol",4,,76310
+PMC4448976,"1,4-Cineole",4,,80788
+PMC4448976,"and p",3,,73329
+PMC4448976,"octanol",3,,37868
+PMC4448976,"cocaine",3,,60056
+PMC4448976,"platinum",3,,49836
+PMC4448976,"(+)-Pulegone",3,,35596
+PMC4448976,"Menthone",3,,36503
+PMC4448976,"carbone",3,,27594
+PMC4448976,"proteins",3,,16541
+PMC4448976,"cinnamaldehyde",2,,16731
+PMC4448976,"tramadol",2,,9648
+PMC4448976,"Phenols",2,,15882
+PMC4448976,"Carvone",2,,38265
+PMC4448976,"(+)-Menthone",2,,31
+PMC4448976,"carbon",2,,33415
+PMC4448976,"capsazepine",2,,70773
+PMC4448976,"limonene",2,,15384
+PMC4448976,"lipid",2,,18059
+PMC4448976,"levobupivacaine",2,,6149
+PMC4448976,"ropivacaine",2,,8890
+PMC4448976,"lidocaine",2,,6456
+PMC4448976,"procaine",2,,8430
+PMC4448976,"tetrodotoxin",1,,9506
+PMC4448976,"allyl isothiocyanate",1,,73224
+PMC4448976,"ethylmorphine",1,,4902
+PMC4448976,"codeine",1,,57871
+PMC4448976,"dexmedetomidine",1,,4466
+PMC4448976,"carbamazepine",1,,3387
+PMC4448976,"oxcarbazepine",1,,7824
+PMC4448976,"flash",1,,52107
+PMC4448976,"dimethyl sulfoxide",1,,28262
+PMC4448976,"sec ",1,,32745
+PMC4448976,"(+)-Carvone",1,,15399
+PMC4448976,"2Ab",1,,74526
+PMC4448976,"(+)-limonene",1,,15382
+PMC4448976,"(+)-linalool",1,,98
+PMC4448976,"sucrose",1,,17992
+PMC4448976,"pentylenetetrazole",1,,34910
+PMC4448976,"tetracaine",1,,9468
+PMC4448976,"Ca2+",1,,29108
+PMC4448976,"adenosine",1,,16335
+PMC4448976,"formalin",1,,16842
+PMC4464069,"eugenol",2,,4917
+PMC4464069,"vanillin",2,,18346
+PMC4464069,"sec",2,,32746
+PMC4464069,"ethylene glycol",1,,30742
+PMC4464069,"l-carvone",1,,15400
+PMC4464069,"1-octene",1,,46708
+PMC4464069,"Carvone",1,,38265
+PMC4468856,"Nisin",29,,71629
+PMC4468856,"chitosan",14,,16261
+PMC4468856,"mold",7,,59963
+PMC4468856,"potassium sorbate",7,,77868
+PMC4468856,"triclosan",7,,164200
+PMC4468856,"protein",5,,16541
+PMC4468856,"water",5,,15377
+PMC4468856,"Ethanol",4,,44730
+PMC4468856,"oxygen",3,,25805
+PMC4468856,"Organic acids",3,,64709
+PMC4468856,"cellulose",3,,18246
+PMC4468856,"salt",3,,26710
+PMC4468856,"Benzoic acid",2,,30746
+PMC4468856,"Sorbates",2,,36550
+PMC4468856,"Starch",2,,28017
+PMC4468856,"Eugenol",2,,4917
+PMC4468856,"cinnamaldehyde",2,,16731
+PMC4468856,"lactic acid",2,,78320
+PMC4468856,"ethylene",2,,29362
+PMC4468856,"polyethylene",2,,60034
+PMC4468856,"sorbic acid",2,,35962
+PMC4468856,"stearic acid",2,,28842
+PMC4468856,"thymol",2,,27607
+PMC4468856,"carvacrol",2,,3440
+PMC4468856,"mustard oil",1,,73224
+PMC4468856,"glycerol",1,,17754
+PMC4468856,"acetate",1,,47622
+PMC4468856,"Lauric acid",1,,30805
+PMC4468856,"Benomyl",1,,3015
+PMC4468856,"Ionomer",1,,61427
+PMC4468856,"Imazalil",1,,81927
+PMC4468856,"Silica",1,,30563
+PMC4468856,"Silver",1,,9141
+PMC4468856,"zeolite",1,,48729
+PMC4468856,"ascorbic acid",1,,29073
+PMC4468856,"iron powder",1,,82664
+PMC4468856,"methylcellulose",1,,53448
+PMC4468856,"hydroxypropyl methylcellulose",1,,30618
+PMC4468856,"polyamide",1,,61445
+PMC4468856,"n-propanol",1,,28831
+PMC4468856,"esters",1,,35701
+PMC4468856,"vinyl",1,,37603
+PMC4468856,"acetic acid",1,,15366
+PMC4468856,"citric acid",1,,30769
+PMC4468856,"chlorine dioxide",1,,52357
+PMC4468856,"carvone",1,,38265
+PMC4482474,"chamomile",34,,18388
+PMC4482474,"menthone",17,,36503
+PMC4482474,"caryophyllene",14,,10357
+PMC4482474,"menthyl acetate",6,,104
+PMC4482474,"chamazulene",5,,3573
+PMC4482474,"citronellal",5,,47856
+PMC4482474,"neral",5,,29020
+PMC4482474,"geranial",5,,16980
+PMC4482474,"xylene",4,,27338
+PMC4482474,"water",4,,15377
+PMC4482474,"1,8-cineole",3,,27961
+PMC4482474,"limonene",3,,15384
+PMC4482474,"eugenol",2,,4917
+PMC4482474,"carvone",2,,38265
+PMC4482474,"carvacrol",2,,3440
+PMC4482474,"letters",2,,6446
+PMC4482474,"pulegone",2,,35596
+PMC4482474,"farnesene",2,,39237
+PMC4482474,"peroxide",1,,44785
+PMC4482474,"sodium sulfate",1,,32149
+PMC4482474,"n-hexane",1,,29021
+PMC4482474,"toluene",1,,17578
+PMC4482474,"thymol",1,,27607
+PMC4482474,"isomenthone",1,,36493
+PMC4482474,"menthofuran",1,,6750
+PMC4482474,"myrcene",1,,17221
+PMC4482474,"piperitone",1,,48933
+PMC4482474,"germacrene",1,,36743
+PMC4482474,"ethyl acetate",1,,27750
+PMC4482474,"beta-pinene",1,,50025
+PMC4482474,"sabinene",1,,50027
+PMC4482474,"geraniol",1,,17447
+PMC4482474,"acetate",1,,47622
+PMC4482474,"humulene",1,,5768
+PMC4482474,"epoxide",1,,32955
+PMC4482474,"hydroxy",1,,43176
+PMC4482474,"beta-farnesene",1,,39241
+PMC4486248,"limonene",10,,15384
+PMC4486248,"pinene",9,,17187
+PMC4486248,"citral",8,,23316
+PMC4486248,"sesquiterpenes",5,,35189
+PMC4486248,"hydrocarbons",4,,24632
+PMC4486248,"monoterpene",4,,35187
+PMC4486248,"linalool",4,,17580
+PMC4486248,"phellandrene",3,,50034
+PMC4486248,"nitrogen",2,,25555
+PMC4486248,"thujene",2,,50030
+PMC4486248,"camphene",2,,3830
+PMC4486248,"terpinolene",2,,9457
+PMC4486248,"Copaene",2,,10221
+PMC4486248,"alcohols",1,,30879
+PMC4486248,"carbonyl compounds",1,,36586
+PMC4486248,"Helium",1,,33681
+PMC4486248,"monoterpenoids",1,,25409
+PMC4486248,"3-Carene",1,,35661
+PMC4486248,"dien",1,,30629
+PMC4486248,"Isopulegol",1,,70479
+PMC4486248,"Decanal",1,,31457
+PMC4486248,"Terpineol",1,,26876
+PMC4486248,"Carveol",1,,23046
+PMC4486248,"Carvone",1,,38265
+PMC4486248,"Nerol",1,,29452
+PMC4486248,"acetate",1,,47622
+PMC4486248,"Germacrene",1,,36743
+PMC4486248,"Bisabolene",1,,49237
+PMC4486248,"Cadinene",1,,22976
+PMC4489822,"Carvone",56,,38265
+PMC4489822,"Limonene",56,,15384
+PMC4489822,"ergosterol",12,,16933
+PMC4489822,"dextrose",6,,42758
+PMC4489822,"letters",5,,6446
+PMC4489822,"Tween 20",4,,53424
+PMC4489822,"water",4,,15377
+PMC4489822,"Dihydrocarvone",4,,23733
+PMC4489822,"Sterols",4,,15889
+PMC4489822,"Phellandrene",3,,50034
+PMC4489822,"ethanol",3,,44730
+PMC4489822,"n-heptane",3,,43098
+PMC4489822,"succinate",3,,30031
+PMC4489822,"p-Cymene",2,,28768
+PMC4489822,"Dihydrocarveol",2,,50215
+PMC4489822,"Carveol",2,,23046
+PMC4489822,"Myristicin",2,,68234
+PMC4489822,"dehydroergosterol",2,,64762
+PMC4489822,"cation",1,,36916
+PMC4489822,"helium",1,,33681
+PMC4489822,"Thujene",1,,50030
+PMC4489822,"Pinene",1,,17187
+PMC4489822,"Myrcene",1,,17221
+PMC4489822,"1042",1,,31051
+PMC4489822,"Fenchone",1,,4999
+PMC4489822,"Caryophyllene",1,,10357
+PMC4489822,"Asarone",1,,78309
+PMC4489822,"glutaraldehyde",1,,64276
+PMC4489822,"carbon",1,,33415
+PMC4489822,"palladium",1,,33363
+PMC4489822,"potassium hydroxide",1,,32035
+PMC4489822,"ethylene",1,,29362
+PMC4489822,"diamine",1,,23666
+PMC4489822,"phenylmethanesulfonyl fluoride",1,,8102
+PMC4489822,"hydrocarbons",1,,24632
+PMC4489822,"monoterpenes",1,,35187
+PMC4489822,"carbonyl group",1,,23019
+PMC4489822,"p-menthane",1,,25826
+PMC4489822,"adenosine triphosphate",1,,15422
+PMC4489822,"malic acid",1,,6650
+PMC4489822,"oxaloacetic acid",1,,30744
+PMC4499417,"citronellal",32,,47856
+PMC4499417,"citronellol",31,,50462
+PMC4499417,"carveol",26,,23046
+PMC4499417,"carvone",25,,38265
+PMC4499417,"water",4,,15377
+PMC4499417,"monoterpenes",3,,35187
+PMC4499417,"Potassium",3,,85264
+PMC4499417,"carvacrol",3,,3440
+PMC4499417,"aldehydes",2,,17478
+PMC4499417,"alcohols",2,,30879
+PMC4499417,"Propidium Iodide",2,,51240
+PMC4499417,"eugenol",2,,4917
+PMC4499417,"thymol",2,,27607
+PMC4499417,"monoterpenoids",2,,25409
+PMC4499417,"peptidoglycan",2,,8005
+PMC4499417,"phospholipids",2,,16247
+PMC4499417,"alkaloids",1,,22315
+PMC4499417,"polypeptides",1,,15841
+PMC4499417,"polyacetylenes",1,,60553
+PMC4499417,"sesquiterpenes",1,,35189
+PMC4499417,"isoprene",1,,35194
+PMC4499417,"aromatics compounds",1,,33655
+PMC4499417,"phenylpropane",1,,42630
+PMC4499417,"phenols",1,,15882
+PMC4499417,"methoxy",1,,44520
+PMC4499417,"glycerol",1,,17754
+PMC4499417,"dimethyl sulfoxide",1,,28262
+PMC4499417,"polystyrene",1,,53276
+PMC4499417,"formamide",1,,16397
+PMC4499417,"polycarbonate",1,,53201
+PMC4499417,"salt",1,,26710
+PMC4499417,"terpenes",1,,35186
+PMC4499417,"lipopolysaccharides",1,,16412
+PMC4499417,"cyclic compounds",1,,33595
+PMC4499417,"carbonyl group",1,,23019
+PMC4499417,"hydroxyl group",1,,43176
+PMC4499417,"anionic groups",1,,64767
+PMC4499417,"citral",1,,23316
+PMC4499417,"geraniol",1,,17447
+PMC4499417,"terpineol",1,,26876
+PMC4499417,"perillaldehyde",1,,15421
+PMC4499417,"linalool",1,,17580
+PMC4499417,"proteins",1,,16541
+PMC4503548,"carvacrol",23,,3440
+PMC4503548,"thymol",23,,27607
+PMC4503548,"terpineol",10,,26876
+PMC4503548,"linalool",10,,17580
+PMC4503548,"Trolox",6,,82625
+PMC4503548,"geraniol",5,,17447
+PMC4503548,"1,8-cineole",5,,27961
+PMC4503548,"p-cymene",4,,28768
+PMC4503548,"peroxyl radicals",4,,25935
+PMC4503548,"hydrogen atom",3,,49637
+PMC4503548,"fused-silica",3,,46729
+PMC4503548,"monoterpene",3,,35187
+PMC4503548,"acetate",3,,47622
+PMC4503548,"Cadinene",3,,22976
+PMC4503548,"Oxygen Radical",2,,61073
+PMC4503548,"Pinene",2,,17187
+PMC4503548,"Phellandrene",2,,50034
+PMC4503548,"Sabinene hydrate",2,,16377
+PMC4503548,"Nerol",2,,29452
+PMC4503548,"Methyl",2,,32875
+PMC4503548,"formate",2,,52343
+PMC4503548,"methyl ether",2,,28887
+PMC4503548,"Copaene",2,,10221
+PMC4503548,"Caryophyllene",2,,10357
+PMC4503548,"Humulene",2,,5768
+PMC4503548,"Muurolene",2,,64797
+PMC4503548,"Bisabolene",2,,49237
+PMC4503548,"butyrate",2,,17968
+PMC4503548,"hydrocarbons",2,,24632
+PMC4503548,"Oxygen",2,,25805
+PMC4503548,"Sesquiterpene",2,,35189
+PMC4503548,"terpene",1,,35186
+PMC4503548,"pentane",1,,37830
+PMC4503548,"helium",1,,33681
+PMC4503548,"alkane",1,,18310
+PMC4503548,"radical",1,,26519
+PMC4503548,"Fluorescein",1,,31624
+PMC4503548,"acetone",1,,15347
+PMC4503548,"penicillin",1,,51356
+PMC4503548,"streptomycin",1,,58007
+PMC4503548,"3-(4,5-dimethylthiazol-2-yl) 2,5-diphenyltetrazolium bromide",1,,53233
+PMC4503548,"dimethyl-sulphoxide",1,,28262
+PMC4503548,"isopropanol",1,,17824
+PMC4503548,"thiobarbituric acid",1,,33202
+PMC4503548,"hydroxyl",1,,43176
+PMC4503548,"superoxide anion radicals",1,,18421
+PMC4503548,"lipid",1,,18059
+PMC4503548,"Tricyclene",1,,64266
+PMC4503548,"Thujene",1,,50030
+PMC4503548,"Camphene",1,,3830
+PMC4503548,"Sabinene",1,,50027
+PMC4503548,"1-Octen-3-ol",1,,39932
+PMC4503548,"3-Octanone",1,,80946
+PMC4503548,"Pentyl",1,,25902
+PMC4503548,"furan",1,,35559
+PMC4503548,"3-Octanol",1,,80945
+PMC4503548,"Myrcene",1,,17221
+PMC4503548,"3-Carene",1,,35661
+PMC4503548,"1002",1,,31049
+PMC4503548,"Limonene",1,,15384
+PMC4503548,"Fenchone",1,,4999
+PMC4503548,"Dimethyl",1,,42266
+PMC4503548,"styrene",1,,27452
+PMC4503548,"Terpinolene",1,,9457
+PMC4503548,"Camphor",1,,36773
+PMC4503548,"Pinocarveol",1,,26137
+PMC4503548,"Pinocarvone",1,,28996
+PMC4503548,"dien",1,,30629
+PMC4503548,"Borneol",1,,28093
+PMC4503548,"Terpinen-4-ol",1,,78884
+PMC4503548,"Myrtenal",1,,25458
+PMC4503548,"Dihydrocarvone",1,,23733
+PMC4503548,"chavicol",1,,50158
+PMC4503548,"Myrtenol",1,,25460
+PMC4503548,"Carveol",1,,23046
+PMC4503548,"Citronellol",1,,50462
+PMC4503548,"Carvone",1,,38265
+PMC4503548,"Neral",1,,29020
+PMC4503548,"Geranial",1,,16980
+PMC4503548,"trans-Anethole",1,,35616
+PMC4503548,"Bornyl acetate",1,,3151
+PMC4503548,"Thymyl acetate",1,,9583
+PMC4503548,"Geranyl acetate",1,,5331
+PMC4503548,"cis-Muurola-3,5-diene",1,,61687
+PMC4503548,"Germacrene",1,,36743
+PMC4503548,"Bicyclogermacrene",1,,63709
+PMC4503548,"Viridiflorene",1,,63444
+PMC4503548,"Dihydroagarofuran",1,,71547
+PMC4503548,"Diterpenes",1,,35190
+PMC4503548,"Phenylpropanoids",1,,26004
+PMC4517501,"water",29,,15377
+PMC4517501,"hexane",17,,29021
+PMC4517501,"sodium chloride",16,,26710
+PMC4517501,"flavonoids",15,,72544
+PMC4517501,"ionic liquids",11,,63895
+PMC4517501,"benzoic acid",11,,30746
+PMC4517501,"silica",10,,30563
+PMC4517501,"alkaloids",10,,22315
+PMC4517501,"acetic acid",9,,15366
+PMC4517501,"ethyl acetate",8,,27750
+PMC4517501,"heptane",8,,43098
+PMC4517501,"methanol",8,,44520
+PMC4517501,"ginsenosides",8,,74978
+PMC4517501,"chloroform",7,,35255
+PMC4517501,"glycoside",7,,24400
+PMC4517501,"formic acid",7,,30751
+PMC4517501,"ammonium hydroxide",6,,18219
+PMC4517501,"organic acids",6,,64709
+PMC4517501,"spinetoram",6,,82041
+PMC4517501,"ursolic acid",6,,9908
+PMC4517501,"silver nitrate",5,,32130
+PMC4517501,"chlorogenic acids",5,,16112
+PMC4517501,"flavone",5,,42491
+PMC4517501,"inorganic salts",4,,24839
+PMC4517501,"ether",4,,35702
+PMC4517501,"dichloromethane",4,,15767
+PMC4517501,"dipeptide",4,,46761
+PMC4517501,"sinalbin",4,,9151
+PMC4517501,"limonene",4,,15384
+PMC4517501,"octanol",4,,37868
+PMC4517501,"ammonium sulfate",4,,62946
+PMC4517501,"ferulate",4,,29749
+PMC4517501,"copper",4,,30052
+PMC4517501,"nitrate",4,,48107
+PMC4517501,"saponins",4,,26605
+PMC4517501,"Capsaicin",4,,3374
+PMC4517501,"dihydrocapsaicin",4,,46932
+PMC4517501,"flash",4,,52107
+PMC4517501,"triptolide",4,,9747
+PMC4517501,"protein",3,,16541
+PMC4517501,"n-butanol",3,,28885
+PMC4517501,"methyl",3,,32875
+PMC4517501,"trioctylmethylammonium chloride",3,,75286
+PMC4517501,"potassium iodide",3,,8346
+PMC4517501,"bore",3,,27560
+PMC4517501,"gallic acid",3,,30778
+PMC4517501,"hydrocarbon",3,,24632
+PMC4517501,"phenols",3,,15882
+PMC4517501,"all-trans-lycopene",3,,15948
+PMC4517501,"triterpene",3,,35191
+PMC4517501,"diterpene",3,,35190
+PMC4517501,"andrographolides",3,,65408
+PMC4517501,"ammonium acetate",3,,62947
+PMC4517501,"Silver ion",3,,60247
+PMC4517501,"xylose",3,,18222
+PMC4517501,"mangiferin",3,,6682
+PMC4517501,"honokiol",3,,5759
+PMC4517501,"magnolol",3,,6643
+PMC4517501,"hypericin",3,,5835
+PMC4517501,"spinosyn",3,,39207
+PMC4517501,"acetone",2,,15347
+PMC4517501,"acetonitrile",2,,38472
+PMC4517501,"glycyrrhizin",2,,29807
+PMC4517501,"hyperforin",2,,5834
+PMC4517501,"esters",2,,35701
+PMC4517501,"phytosterols",2,,28824
+PMC4517501,"potassium phosphate",2,,63036
+PMC4517501,"hydroxyisoflavone",2,,38755
+PMC4517501,"caffeoylquinic acid",2,,16384
+PMC4517501,"macrolides",2,,25106
+PMC4517501,"terpene lactones",2,,37668
+PMC4517501,"triethylamine",2,,35026
+PMC4517501,"betalain",2,,22861
+PMC4517501,"cyanins",2,,3978
+PMC4517501,"glucosinolate",2,,24279
+PMC4517501,"alkylamides",2,,29348
+PMC4517501,"diterpenoids",2,,23849
+PMC4517501,"flavonol",2,,5078
+PMC4517501,"beta-sitosterol",2,,27693
+PMC4517501,"3,4-dihydroxybenzoic acid",2,,36062
+PMC4517501,"curcumin",2,,3962
+PMC4517501,"apocynin",2,,2781
+PMC4517501,"pseudohypericin",2,,8605
+PMC4517501,"acenaphthylene",2,,33081
+PMC4517501,"naphthalene",2,,16482
+PMC4517501,"caffeine",2,,27732
+PMC4517501,"vanillin",2,,18346
+PMC4517501,"naringenin",2,,50202
+PMC4517501,"carvone",2,,38265
+PMC4517501,"falcarindiol",2,,69236
+PMC4517501,"butylidenephthalide",2,,68233
+PMC4517501,"isopropyl alcohol",1,,17824
+PMC4517501,"n-propanol",1,,28831
+PMC4517501,"cyclohexane",1,,29005
+PMC4517501,"toluene",1,,17578
+PMC4517501,"ethanol",1,,44730
+PMC4517501,"butyl",1,,41264
+PMC4517501,"letters",1,,6446
+PMC4517501,"catechins",1,,23053
+PMC4517501,"anthocyanidins",1,,38695
+PMC4517501,"polyethylene",1,,60034
+PMC4517501,"indole",1,,35581
+PMC4517501,"terpenoids",1,,26873
+PMC4517501,"lignan",1,,25036
+PMC4517501,"dihydrokaempferol",1,,15401
+PMC4517501,"octane",1,,17590
+PMC4517501,"carboxylic acids",1,,33575
+PMC4517501,"valeric acid",1,,17418
+PMC4517501,"carbon tetrachloride",1,,27385
+PMC4517501,"all-trans-retinal",1,,17898
+PMC4517501,"thienyl",1,,37991
+PMC4517501,"ferulic acid",1,,17620
+PMC4517501,"alcohols",1,,30879
+PMC4517501,"caryophyllene",1,,10357
+PMC4517501,"chlorophyll",1,,28966
+PMC4517501,"fucosterol",1,,27865
+PMC4517501,"borate",1,,22908
+PMC4517501,"candicidin",1,,354984
+PMC4517501,"polyene antibiotics",1,,26177
+PMC4517501,"dioscin",1,,74023
+PMC4517501,"inorganic ions",1,,36914
+PMC4517501,"hydrochloric acid",1,,17883
+PMC4517501,"sodium hydroxide",1,,32145
+PMC4517501,"isoflavones",1,,38757
+PMC4517501,"lithium chloride",1,,48607
+PMC4517501,"lipids",1,,18059
+PMC4517501,"cation",1,,36916
+PMC4517501,"silver salt",1,,33968
+PMC4517501,"olefins",1,,33641
+PMC4517501,"tacrolimus",1,,61057
+PMC4517501,"ascomycin",1,,29582
+PMC4517501,"bilobalide",1,,3103
+PMC4517501,"tetrahydrofuran",1,,26911
+PMC4517501,"dimethyl sulfoxide",1,,28262
+PMC4517501,"C(4)",1,,29434
+PMC4517501,"ammonium phosphate",1,,63051
+PMC4517501,"tetrahydropalmatine",1,,16563
+PMC4517501,"methyl ethyl ketone",1,,28398
+PMC4517501,"methyl isobutyl ketone",1,,82344
+PMC4517501,"sulfonamides",1,,35358
+PMC4517501,"oligosaccharide",1,,50699
+PMC4517501,"nucleobases",1,,18282
+PMC4517501,"nucleosides",1,,33838
+PMC4517501,"nucleotides",1,,36976
+PMC4517501,"adenine",1,,16708
+PMC4517501,"adenosine",1,,16335
+PMC4517501,"tartrazine",1,,9405
+PMC4517501,"epinephrine",1,,28918
+PMC4517501,"catecholamines",1,,33567
+PMC4517501,"phosphoric acid",1,,26078
+PMC4517501,"amine",1,,32952
+PMC4517501,"cephalotaxine",1,,3540
+PMC4517501,"tertiary amines",1,,32876
+PMC4517501,"trifluoroacetic acid",1,,45892
+PMC4517501,"ammonium",1,,28938
+PMC4517501,"sodium phosphate",1,,37586
+PMC4517501,"a factor",1,,79381
+PMC4517501,"acetophenone",1,,27632
+PMC4517501,"benzyl alcohol",1,,17987
+PMC4517501,"and p",1,,73329
+PMC4517501,"cresol",1,,25399
+PMC4517501,"rotenoids",1,,71543
+PMC4517501,"isoflavone",1,,18220
+PMC4517501,"xanthones",1,,51149
+PMC4517501,"resorcinol",1,,27810
+PMC4517501,"procyanidin B2",1,,75632
+PMC4517501,"procyanidin C1",1,,75643
+PMC4517501,"cyanidin",1,,71682
+PMC4517501,"glucoside",1,,24278
+PMC4517501,"geniposide",1,,5299
+PMC4517501,"Diol",1,,8387
+PMC4517501,"styrene",1,,27452
+PMC4517501,"demethoxycurcumin",1,,65737
+PMC4517501,"bisdemethoxycurcumin",1,,71045
+PMC4517501,"paeonol",1,,69581
+PMC4517501,"silver",1,,9141
+PMC4517501,"tectorigenin",1,,9429
+PMC4517501,"hyperoside",1,,67486
+PMC4517501,"quercetin",1,,57694
+PMC4517501,"podophyllotoxin",1,,50305
+PMC4517501,"avicularin",1,,65460
+PMC4517501,"isomangiferin",1,,80840
+PMC4517501,"betanin",1,,3080
+PMC4517501,"phthalides",1,,38085
+PMC4517501,"hydroxybenzoic acid",1,,24676
+PMC4517501,"galactolipids",1,,5254
+PMC4517501,"arctiin",1,,80793
+PMC4517501,"anthraquinones",1,,22580
+PMC4517501,"flavone glycosides",1,,50018
+PMC4517501,"phenyl",1,,30396
+PMC4517501,"hexyl",1,,24593
+PMC4517501,"silymarin",1,,9144
+PMC4517501,"sulforaphane",1,,47807
+PMC4517501,"Alkannin",1,,2578
+PMC4517501,"shikonin",1,,81068
+PMC4517501,"coumarin",1,,28794
+PMC4517501,"8-quinolinol",1,,48981
+PMC4517501,"2-(4-chlorophenoxy)-2-methylpropionic acid",1,,34648
+PMC4517501,"alpha bitter acids",1,,5769
+PMC4517501,"quinolones",1,,23765
+PMC4517501,"dihydroxybenzoic acid",1,,23778
+PMC4517501,"Atropine",1,,57858
+PMC4517501,"scopolamine",1,,16794
+PMC4517501,"pyrocatechol",1,,18135
+PMC4517501,"hydroquinone",1,,17594
+PMC4517501,"epoxy",1,,30721
+PMC4517501,"scopoletin",1,,17488
+PMC4517501,"actein",1,,70241
+PMC4517501,"desmethylxanthohumol",1,,80489
+PMC4517501,"8-prenylnaringenin",1,,50207
+PMC4517501,"bufadienolides",1,,83967
+PMC4517501,"gentamicins",1,,17833
+PMC4517501,"aminoglycosides",1,,47779
+PMC4517501,"Triterpenoids",1,,36615
+PMC4517501,"tame",1,,62167
+PMC4519343,"eugenol",39,,4917
+PMC4519343,"proteins",27,,16541
+PMC4519343,"Undecanal",19,,46202
+PMC4519343,"ethyl",17,,62801
+PMC4519343,"methyl",16,,32875
+PMC4519343,"aldehydes",14,,17478
+PMC4519343,"Citronellol",11,,50462
+PMC4519343,"carbon atoms",8,,27594
+PMC4519343,"Ethyl-vanillin",8,,48408
+PMC4519343,"Androstenone",8,,37894
+PMC4519343,"Nonanal",7,,84268
+PMC4519343,"hydrogen",7,,49637
+PMC4519343,"Heptanal",6,,34787
+PMC4519343,"Octanal",6,,17935
+PMC4519343,"acetone",6,,15347
+PMC4519343,"butyl",6,,41264
+PMC4519343,"acetate",6,,47622
+PMC4519343,"hexanoic acid",5,,30776
+PMC4519343,"octanoic acid",5,,28837
+PMC4519343,"nonanoic acid",5,,29019
+PMC4519343,"decanoic acid",5,,30813
+PMC4519343,"Pyrazine",5,,30953
+PMC4519343,"(-) Citronellol",5,,88
+PMC4519343,"1-nonanol",4,,35986
+PMC4519343,"methanol",4,,44520
+PMC4519343,"Decanal",4,,31457
+PMC4519343,"Citronellal",4,,47856
+PMC4519343,"Vanillin",4,,18346
+PMC4519343,"Acetophenone",4,,27632
+PMC4519343,"isoamyl acetate",4,,31725
+PMC4519343,"isobutyrate",4,,48944
+PMC4519343,"heptanoate",4,,32362
+PMC4519343,"Cumarin",4,,28794
+PMC4519343,"Butanal",4,,15743
+PMC4519343,"Allyl",4,,30361
+PMC4519343,"alcohols",3,,30879
+PMC4519343,"ketones",3,,17087
+PMC4519343,"butyric acid",3,,30772
+PMC4519343,"heptanoic acid",3,,45571
+PMC4519343,"Benzaldehyde",3,,17169
+PMC4519343,"2-heptanone",3,,5672
+PMC4519343,"3-octanone",3,,80946
+PMC4519343,"Cyclohexanone",3,,17854
+PMC4519343,"butyrate",3,,17968
+PMC4519343,"methyl salicylate",3,,31832
+PMC4519343,"phenyl acetate",3,,8082
+PMC4519343,"benzene",3,,16716
+PMC4519343,"salt",3,,26710
+PMC4519343,"carboxylic acids",2,,33575
+PMC4519343,"sulphur",2,,26833
+PMC4519343,"2-ethyl 1-hexanol",2,,16011
+PMC4519343,"1-octanol",2,,16188
+PMC4519343,"1-decanol",2,,28903
+PMC4519343,"Geraniol",2,,17447
+PMC4519343,"Phenyl",2,,30396
+PMC4519343,"Thymol",2,,27607
+PMC4519343,"propionic acid",2,,30768
+PMC4519343,"2-nonanone",2,,77927
+PMC4519343,"nonanone",2,,25579
+PMC4519343,"Camphor",2,,36773
+PMC4519343,"octanoate",2,,25646
+PMC4519343,"Indole",2,,35581
+PMC4519343,"Linalool",2,,17580
+PMC4519343,"Pentanal",2,,84069
+PMC4519343,"2-pentanone",2,,16472
+PMC4519343,"1-pentanol",2,,44884
+PMC4519343,"hexyl",2,,24593
+PMC4519343,"carbon",2,,33415
+PMC4519343,"hydroxy",2,,43176
+PMC4519343,"ethanoate",2,,30089
+PMC4519343,"carbaldehyde",2,,42485
+PMC4519343,"2-octanol",1,,37869
+PMC4519343,"3-octanol",1,,80945
+PMC4519343,"octanol",1,,37868
+PMC4519343,"1-dodecanol",1,,28878
+PMC4519343,"Maltol",1,,69438
+PMC4519343,"isobutyric acid",1,,16135
+PMC4519343,"dodecanoic acid",1,,30805
+PMC4519343,"isovaleric acid",1,,28484
+PMC4519343,"Trans-cinnamic acid",1,,35697
+PMC4519343,"2-isobutyl-3-methoxypyrazine",1,,45113
+PMC4519343,"Dodecanal",1,,27836
+PMC4519343,"Citral",1,,23316
+PMC4519343,"Cinnamaldehyde",1,,16731
+PMC4519343,"phenobarbital",1,,8069
+PMC4519343,"2-decanone",1,,77929
+PMC4519343,"3-hydroxybutan-2-one",1,,15688
+PMC4519343,"6-methyl-5-hepten-2-one",1,,16310
+PMC4519343,"Menthone",1,,36503
+PMC4519343,"Beta-ionone",1,,32325
+PMC4519343,"ethyl octanoate",1,,31574
+PMC4519343,"nonanoate",1,,32361
+PMC4519343,"methyl hexanoate",1,,77322
+PMC4519343,"methyl nonanoate",1,,44499
+PMC4519343,"geranyl acetate",1,,5331
+PMC4519343,"dimethyl disulfide",1,,4608
+PMC4519343,"Thiazole",1,,43732
+PMC4519343,"Benzothiazol",1,,45993
+PMC4519343,"Gamma",1,,30212
+PMC4519343,"Pyridine",1,,16227
+PMC4519343,"Anisol",1,,16579
+PMC4519343,"Safrol",1,,8994
+PMC4519343,"Limonene",1,,15384
+PMC4519343,"terpineol",1,,26876
+PMC4519343,"Acetaldehyde",1,,43923
+PMC4519343,"1-butanol",1,,28885
+PMC4519343,"2-pentanol",1,,77518
+PMC4519343,"3-methyl-2-buten-1-ol",1,,16019
+PMC4519343,"1-octen-3-ol",1,,39932
+PMC4519343,"propyl acetate",1,,40116
+PMC4519343,"butyl acetate",1,,31328
+PMC4519343,"pentyl",1,,25902
+PMC4519343,"Isobutylacetate",1,,74904
+PMC4519343,"3-hydroxybutyrate",1,,37054
+PMC4519343,"propionate",1,,17272
+PMC4519343,"trans-2-butenoate",1,,35899
+PMC4519343,"succinate",1,,30031
+PMC4519343,"Diacetyl",1,,16583
+PMC4519343,"Alpha-thujone",1,,9577
+PMC4519343,"Beta-thujone",1,,50045
+PMC4519343,"isobutyl",1,,30356
+PMC4519343,"-sec",1,,32746
+PMC4519343,"1-palmitoyl-2-oleoylphosphatidylcholine",1,,74667
+PMC4519343,"lipid",1,,18059
+PMC4519343,"water",1,,15377
+PMC4519343,"calcium",1,,29320
+PMC4519343,"atoms",1,,33250
+PMC4519343,"polycyclic compounds",1,,33635
+PMC4519343,"isoeugenol",1,,18224
+PMC4519343,"4-ethylphenol",1,,49584
+PMC4519343,"4-methylphenol",1,,17847
+PMC4519343,"ethyl ether",1,,35702
+PMC4519343,"(+)-Camphor",1,,15396
+PMC4519343,"(+)-Carvone",1,,15399
+PMC4519343,"(+)-Dihydrocarvone",1,,154
+PMC4519343,"(+)-Fenchone",1,,165
+PMC4519343,"(-)-Camphor",1,,15397
+PMC4519343,"(-)-Carvone",1,,15400
+PMC4519343,"(-)-Fenchone",1,,36612
+PMC4519343,"Hexanone",1,,24573
+PMC4519343,"3-Heptanone",1,,50139
+PMC4519343,"Chromanone",1,,38763
+PMC4519343,"4-Hydroxycoumarin",1,,77858
+PMC4519343,"Benzophenone",1,,41308
+PMC4519343,"Benzyl acetate",1,,52051
+PMC4519343,"formate",1,,52343
+PMC4519343,"Pentanoic acid",1,,17418
+PMC4519343,"Vanillic acid",1,,30816
+PMC4519343,"Caprolactone",1,,17915
+PMC4519343,"Nonanedioic acid",1,,48131
+PMC4519343,"Octopamine",1,,44715
+PMC4519343,"2-undecanone",1,,17700
+PMC4519343,"2-nonanol",1,,78304
+PMC4519343,"2-phenylethanoate",1,,18401
+PMC4519343,"phenyl-oxirane",1,,17907
+PMC4519343,"hex-2-enal",1,,19591
+PMC4525464,"thymol",25,,27607
+PMC4525464,"carvacrol",23,,3440
+PMC4525464,"acetate",8,,47622
+PMC4525464,"germacrene",7,,36743
+PMC4525464,"caryophyllene",5,,10357
+PMC4525464,"1,8-cineole",5,,27961
+PMC4525464,"p-cymene",5,,28768
+PMC4525464,"cadinene",5,,22976
+PMC4525464,"geraniol",4,,17447
+PMC4525464,"phenols",4,,15882
+PMC4525464,"nerolidol",4,,7524
+PMC4525464,"linalool",3,,17580
+PMC4525464,"pinene",3,,17187
+PMC4525464,"terpineol",3,,26876
+PMC4525464,"muurolene",3,,64797
+PMC4525464,"humulene",3,,5768
+PMC4525464,"bisabolene",3,,49237
+PMC4525464,"hexane",3,,29021
+PMC4525464,"citral",2,,23316
+PMC4525464,"borneol",2,,28093
+PMC4525464,"citronellol",2,,50462
+PMC4525464,"flavonoids",2,,72544
+PMC4525464,"myrcene",2,,17221
+PMC4525464,"camphor",2,,36773
+PMC4525464,"Monoterpene",2,,35187
+PMC4525464,"hydrocarbons",2,,24632
+PMC4525464,"Thujone",2,,9577
+PMC4525464,"Sabinene hydrate",2,,16377
+PMC4525464,"dien",2,,30629
+PMC4525464,"Sabinol",2,,26590
+PMC4525464,"Dihydrocarvone",2,,23733
+PMC4525464,"methyl ether",2,,28887
+PMC4525464,"Sesquiterpene",2,,35189
+PMC4525464,"Copaene",2,,10221
+PMC4525464,"isobutyl acetate",1,,50569
+PMC4525464,"citronellal",1,,47856
+PMC4525464,"glucuronic acids",1,,47952
+PMC4525464,"carboxylic acids",1,,33575
+PMC4525464,"triterpenes",1,,35191
+PMC4525464,"tannins",1,,26848
+PMC4525464,"and p",1,,73329
+PMC4525464,"monoterpenoids",1,,25409
+PMC4525464,"lipid",1,,18059
+PMC4525464,"radical",1,,26519
+PMC4525464,"linoleic acid",1,,17351
+PMC4525464,"hydrogen atoms",1,,49637
+PMC4525464,"butylated hydroxyanisole",1,,76359
+PMC4525464,"butylated hydroxytoluene",1,,34247
+PMC4525464,"tocopherol",1,,27013
+PMC4525464,"ascorbic acid",1,,29073
+PMC4525464,"caffeic acids",1,,36281
+PMC4525464,"ethanol",1,,44730
+PMC4525464,"Tricyclene",1,,64266
+PMC4525464,"Camphene",1,,3830
+PMC4525464,"Sabinene",1,,50027
+PMC4525464,"Phellandrene",1,,50034
+PMC4525464,"Limonene",1,,15384
+PMC4525464,"Thujene",1,,50030
+PMC4525464,"trans-Thujone",1,,50045
+PMC4525464,"3-Carene",1,,35661
+PMC4525464,"Terpinolene",1,,9457
+PMC4525464,"Terpinene-4-ol",1,,78884
+PMC4525464,"Carveol",1,,23046
+PMC4525464,"Nerol",1,,29452
+PMC4525464,"Neral",1,,29020
+PMC4525464,"Carvone",1,,38265
+PMC4525464,"Fenchyl alcohol",1,,15405
+PMC4525464,"Geranial",1,,16980
+PMC4525464,"1-Decanol",1,,28903
+PMC4525464,"Bornyl acetate",1,,3151
+PMC4525464,"Geranyl acetate",1,,5331
+PMC4525464,"Linalyl acetate",1,,6469
+PMC4525464,"Selinene",1,,49272
+PMC4525464,"Longifolene",1,,6530
+PMC4525464,"Farnesene",1,,39237
+PMC4525464,"Bicyclogermacrene",1,,63709
+PMC4525464,"Valencene",1,,61700
+PMC4525464,"cis-Sesquisabinene hydrate",1,,85087
+PMC4525464,"Thujopsene",1,,9578
+PMC4525464,"epoxide",1,,32955
+PMC4525464,"Ledol",1,,6401
+PMC4525464,"Farnesol",1,,42680
+PMC4525464,"Guaiol",1,,5552
+PMC4525464,"trien",1,,39501
+PMC4525464,"1-Octen-3-ol",1,,39932
+PMC4525464,"3-Octanol",1,,80945
+PMC4525464,"3-Octanone",1,,80946
+PMC4525464,"1-Dodecanol",1,,28878
+PMC4525464,"Ionone",1,,49248
+PMC4525464,"n-Heptadecane",1,,16148
+PMC4525464,"n-Nonadecane",1,,32927
+PMC4525464,"n-Heneicosane",1,,32931
+PMC4541688,"Citral",65,,23316
+PMC4541688,"geranial",3,,16980
+PMC4541688,"neral",3,,29020
+PMC4541688,"1,8-cineole",3,,27961
+PMC4541688,"carvacrol",3,,3440
+PMC4541688,"linalool",3,,17580
+PMC4541688,"estragole",2,,4867
+PMC4541688,"capsaicin",1,,3374
+PMC4541688,"carvone",1,,38265
+PMC4541688,"gamma-terpinene",1,,10577
+PMC4541688,"benzene",1,,16716
+PMC4541688,"methyl",1,,32875
+PMC4541688,"1-methylethyl",1,,30353
+PMC4541688,"glucose",1,,42758
+PMC4541688,"hydroxymethyl",1,,24712
+PMC4541688,"aminomethane",1,,16830
+PMC4541688,"dimethylsulfoxide",1,,28262
+PMC4541688,"salts",1,,26710
+PMC4541688,"platinum",1,,49836
+PMC4541688,"letter",1,,6446
+PMC4541688,"eugenol",1,,4917
+PMC4541688,"terpineol",1,,26876
+PMC4541688,"terpenoids",1,,26873
+PMC4541688,"lidocaine",1,,6456
+PMC4541688,"bupivacaine",1,,3215
+PMC4541688,"terpenes",1,,35186
+PMC4548039,"gentamicin",18,,17833
+PMC4548039,"aminoglycosides",7,,47779
+PMC4548039,"streptomycin",2,,58007
+PMC4548039,"pyruvate",2,,15361
+PMC4548039,"cinnamaldehyde",2,,16731
+PMC4548039,"penicillin",1,,51356
+PMC4548039,"ampicillin",1,,28971
+PMC4548039,"vancomycin",1,,76842
+PMC4548039,"esculin",1,,4853
+PMC4548039,"bacitracin",1,,28669
+PMC4548039,"glucose",1,,42758
+PMC4548039,"lactose",1,,36219
+PMC4548039,"raffinose",1,,16634
+PMC4548039,"arabinose",1,,22599
+PMC4548039,"sorbose",1,,27922
+PMC4548039,"sucrose",1,,17992
+PMC4548039,"sorbitol",1,,30911
+PMC4548039,"water",1,,15377
+PMC4548039,"ethanol",1,,44730
+PMC4548039,"dimethyl sulfoxide",1,,28262
+PMC4548039,"eugenol",1,,4917
+PMC4548039,"tannin",1,,26848
+PMC4548039,"aldehyde",1,,17478
+PMC4548039,"pinene",1,,17187
+PMC4548039,"carvone",1,,38265
+PMC4548039,"carvacrol",1,,3440
+PMC4553199,"carvone",12,,38265
+PMC4553199,"limonene",8,,15384
+PMC4553199,"dihydrocarveol",5,,50215
+PMC4553199,"trans-caryophyllene",4,,10357
+PMC4553199,"menthone",4,,36503
+PMC4553199,"terpinen-4-ol",4,,78884
+PMC4553199,"carveol",3,,23046
+PMC4553199,"tetracycline",2,,77932
+PMC4553199,"sodium sulfate",1,,32149
+PMC4553199,"phenyl",1,,30396
+PMC4553199,"methyl",1,,32875
+PMC4553199,"silicone",1,,61459
+PMC4553199,"Helium",1,,33681
+PMC4553199,"dimethyl sulfoxide",1,,28262
+PMC4553199,"chemical compounds",1,,37577
+PMC4553199,"1,8-cineole",1,,27961
+PMC4553199,"pulegone",1,,35596
+PMC4553199,"piperitone",1,,48933
+PMC4553199,"lipopolysaccharide",1,,16412
+PMC4553199,"phenols",1,,15882
+PMC4553199,"terpenes",1,,35186
+PMC4553199,"phospholipid",1,,16247
+PMC4553199,"proteins",1,,16541
+PMC4553199,"Myrcene",1,,17221
+PMC4553199,"Dihydrocarvone",1,,23733
+PMC4553199,"acetate",1,,47622
+PMC4558530,"zearalenone",11,,10106
+PMC4558530,"eugenol",11,,4917
+PMC4558530,"phellandrene",8,,50034
+PMC4558530,"water",8,,15377
+PMC4558530,"acetonitrile",7,,38472
+PMC4558530,"caryophyllene",5,,10357
+PMC4558530,"pinene",4,,17187
+PMC4558530,"and p",4,,73329
+PMC4558530,"germacrene",4,,36743
+PMC4558530,"linalool",4,,17580
+PMC4558530,"nystatin",4,,7660
+PMC4558530,"quercetin",4,,57694
+PMC4558530,"thymol",3,,27607
+PMC4558530,"limonene",3,,15384
+PMC4558530,"pinocarveol",3,,26137
+PMC4558530,"methyl eugenol",3,,4918
+PMC4558530,"camphor",3,,36773
+PMC4558530,"camphene",3,,3830
+PMC4558530,"Thujene",2,,50030
+PMC4558530,"Pinocarvone",2,,28996
+PMC4558530,"Linalyl acetate",2,,6469
+PMC4558530,"Muurolene",2,,64797
+PMC4558530,"Cadinene",2,,22976
+PMC4558530,"proteins",2,,16541
+PMC4558530,"terpineol",2,,26876
+PMC4558530,"hydrogen atom",2,,49637
+PMC4558530,"Tween 80",2,,53426
+PMC4558530,"flash",1,,52107
+PMC4558530,"nitrogen",1,,25555
+PMC4558530,"Sabinene",1,,50027
+PMC4558530,"Myrcene",1,,17221
+PMC4558530,"1002",1,,31049
+PMC4558530,"3-Carene",1,,35661
+PMC4558530,"p-Cymene",1,,28768
+PMC4558530,"Nonanal",1,,84268
+PMC4558530,"Borneol",1,,28093
+PMC4558530,"Bornyl acetate",1,,3151
+PMC4558530,"Copaene",1,,10221
+PMC4558530,"Humulene",1,,5768
+PMC4558530,"Selinene",1,,49272
+PMC4558530,"aflatoxin B1",1,,2504
+PMC4558530,"lipid",1,,18059
+PMC4558530,"carvone",1,,38265
+PMC4558530,"trichothecenes",1,,55517
+PMC4558530,"polyphenols",1,,26195
+PMC4558530,"flavonoids",1,,72544
+PMC4558530,"methyl",1,,32875
+PMC4558530,"chavicol",1,,50158
+PMC4558530,"1,8-cineole",1,,27961
+PMC4558530,"Dextrose",1,,42758
+PMC4558530,"sodium sulfate",1,,32149
+PMC4558530,"silica",1,,30563
+PMC4558530,"acetone",1,,15347
+PMC4558530,"radical",1,,26519
+PMC4558530,"methanol",1,,44520
+PMC4558530,"acetate",1,,47622
+PMC4558530,"glutaraldehyde",1,,64276
+PMC4558530,"sodium cacodylate",1,,62956
+PMC4558530,"ethanol",1,,44730
+PMC4558530,"carbon",1,,33415
+PMC4558530,"aluminum",1,,49470
+PMC4566093,"lactone",60,,25000
+PMC4566093,"carvones",40,,38265
+PMC4566093,"(+)-carvones",30,,15399
+PMC4566093,"water",6,,15377
+PMC4566093,"Ca2+",2,,29108
+PMC4566093,"2-methylbutyric acid",2,,37070
+PMC4566093,"a factor",2,,79381
+PMC4566093,"pentobarbital",2,,7983
+PMC4566093,"salt",2,,26710
+PMC4566093,"hinokitiol",1,,10447
+PMC4566093,"cellulose",1,,18246
+PMC4566093,"2,4,5-trimethylthiazole",1,,78738
+PMC4566093,"propylene",1,,16052
+PMC4566093,"glycol",1,,30742
+PMC4566093,"helium",1,,33681
+PMC4566093,"chloromethane",1,,36014
+PMC4566093,"isoflurane",1,,6015
+PMC4566093,"paraformaldehyde",1,,61538
+PMC4566093,"sucrose",1,,17992
+PMC4566093,"nitrogen",1,,25555
+PMC4566093,"nitroblue tetrazolium",1,,9505
+PMC4566093,"5-bromo-4-chloro-3-indolyl phosphate",1,,75508
+PMC4567485,"dopamine",108,,59905
+PMC4567485,"water",10,,15377
+PMC4567485,"ketamine",2,,6121
+PMC4567485,"medetomidine",2,,48552
+PMC4567485,"isoflurane",1,,6015
+PMC4567485,"ketoprofen",1,,6128
+PMC4567485,"buprenorphine",1,,3216
+PMC4567485,"mineral",1,,46662
+PMC4567485,"isoamyl acetate",1,,31725
+PMC4567485,"(+)-carvone",1,,15399
+PMC4567485,"p-cymene",1,,28768
+PMC4567485,"ethyl",1,,62801
+PMC4567485,"butyrate",1,,17968
+PMC4567485,"1-butanol",1,,28885
+PMC4567485,"singular",1,,6993
+PMC4567485,"paraformaldehyde",1,,61538
+PMC4567485,"phenylindole",1,,48559
+PMC4567485,"Magenta",1,,82336
+PMC4579641,"thymol",29,,27607
+PMC4579641,"carvacrol",27,,3440
+PMC4579641,"terpenes",19,,35186
+PMC4579641,"hydroxyl group",13,,43176
+PMC4579641,"p-cymene",12,,28768
+PMC4579641,"phenylpropanes",11,,42630
+PMC4579641,"water",11,,15377
+PMC4579641,"cinnamic acid",8,,27386
+PMC4579641,"octanol",8,,37868
+PMC4579641,"Cinnamaldehyde",7,,16731
+PMC4579641,"monoterpenes",5,,35187
+PMC4579641,"chemical compounds",4,,37577
+PMC4579641,"citronellol",4,,50462
+PMC4579641,"geraniol",4,,17447
+PMC4579641,"Isoniazid",3,,6030
+PMC4579641,"rifampicin",3,,71365
+PMC4579641,"myrcene",3,,17221
+PMC4579641,"camphor",3,,36773
+PMC4579641,"linalool",3,,17580
+PMC4579641,"p-anisaldehyde",2,,28235
+PMC4579641,"anethole",2,,35616
+PMC4579641,"3-carene",2,,35661
+PMC4579641,"(+)carvone",2,,15399
+PMC4579641,"eugenol",2,,4917
+PMC4579641,"cuminaldehyde",2,,28671
+PMC4579641,"eucalyptol",2,,27961
+PMC4579641,"sabinene",2,,50027
+PMC4579641,"(+) limonene",2,,15382
+PMC4579641,"estragole",2,,4867
+PMC4579641,"pinene",2,,17187
+PMC4579641,"terpinolene",2,,9457
+PMC4579641,"ketone",2,,17087
+PMC4579641,"carbons",2,,33415
+PMC4579641,"atoms",2,,33250
+PMC4579641,"Glycerol",1,,17754
+PMC4579641,"lime",1,,51486
+PMC4579641,"penicillin",1,,51356
+PMC4579641,"streptomycin",1,,58007
+PMC4579641,"ethanol",1,,44730
+PMC4579641,"Caryophyllene",1,,10357
+PMC4579641,"and p",1,,73329
+PMC4579641,"Geranylgeraniol",1,,46762
+PMC4579641,"acetate",1,,47622
+PMC4579641,"monoterpenoids",1,,25409
+PMC4579641,"phospholipid",1,,16247
+PMC4579641,"lipid",1,,18059
+PMC4579641,"mycolic acids",1,,25438
+PMC4579641,"hydrogen",1,,49637
+PMC4579641,"Carbon atom",1,,27594
+PMC4579641,"aldehydes",1,,17478
+PMC4579641,"shikimate",1,,36208
+PMC4579641,"shikimic acid",1,,16119
+PMC4579641,"aromatic aminoacids",1,,33856
+PMC4579641,"benzene rings",1,,52879
+PMC4579641,"organic groups",1,,33247
+PMC4579641,"benzene",1,,16716
+PMC4583814,"acetophenone",92,,27632
+PMC4583814,"protein",8,,16541
+PMC4583814,"water",3,,15377
+PMC4583814,"eugenol",3,,4917
+PMC4583814,"cycloheximide",3,,27641
+PMC4583814,"sodium fluoride",3,,28741
+PMC4583814,"sodium",3,,29101
+PMC4583814,"orthovanadate",3,,46442
+PMC4583814,"sodium pyrophosphate",3,,71240
+PMC4583814,"glycerophosphate",3,,76530
+PMC4583814,"and p",2,,73329
+PMC4583814,"peptide",2,,16670
+PMC4583814,"Cy3",2,,37990
+PMC4583814,"fluorescein",2,,31624
+PMC4583814,"calcium",1,,29320
+PMC4583814,"salt",1,,26710
+PMC4583814,"methyl salicylate",1,,31832
+PMC4583814,"methyl benzoate",1,,72775
+PMC4583814,"heptanoic acid",1,,45571
+PMC4583814,"carvone",1,,38265
+PMC4583814,"isovaleric acid",1,,28484
+PMC4583814,"heptanal",1,,34787
+PMC4583814,"ethyl",1,,62801
+PMC4583814,"isobutyrate",1,,48944
+PMC4583814,"Ca2+",1,,29108
+PMC4583814,"Mg2+",1,,18420
+PMC4583814,"glucose",1,,42758
+PMC4583814,"Lipids",1,,18059
+PMC4583814,"penicillin",1,,51356
+PMC4583814,"streptomycin",1,,58007
+PMC4583814,"digoxigenin",1,,42098
+PMC4583814,"bisbenzimide",1,,51232
+PMC4585887,"gold nanoparticles",11,,50825
+PMC4585887,"nanostructures",4,,50795
+PMC4585887,"silicon nanoparticle",4,,52526
+PMC4585887,"nanorods",2,,50805
+PMC4585887,"proteins",1,,16541
+PMC4585887,"lipids",1,,18059
+PMC4585887,"limonene",1,,15384
+PMC4585887,"carvone",1,,38265
+PMC4585887,"cellulose",1,,18246
+PMC4585887,"nanocrystals",1,,52529
+PMC4588114,"phenyl",2,,30396
+PMC4588114,"ethyl alcohol",2,,16236
+PMC4588114,"n-butanol",1,,28885
+PMC4588114,"l-carvone",1,,15400
+PMC4588114,"tetrahydrothiophene",1,,48458
+PMC4588114,"impulse",1,,9242
+PMC4628703,"protein",23,,16541
+PMC4628703,"Flavonoids",13,,72544
+PMC4628703,"Terpenoids",6,,26873
+PMC4628703,"Squalene",6,,15440
+PMC4628703,"Naringenin",6,,50202
+PMC4628703,"methanol",5,,44520
+PMC4628703,"histone",5,,15358
+PMC4628703,"Quercetin",4,,57694
+PMC4628703,"diosgenin",3,,4629
+PMC4628703,"ribose",3,,47013
+PMC4628703,"Tricin",3,,59979
+PMC4628703,"phenylmethanesulfonylfluoride",2,,8102
+PMC4628703,"Trypan blue",2,,78897
+PMC4628703,"sapogenins",1,,26606
+PMC4628703,"galactomannans",1,,27680
+PMC4628703,"hydroxyisoleucine",1,,79079
+PMC4628703,"alkaloids",1,,22315
+PMC4628703,"trigonelline",1,,18123
+PMC4628703,"Protodioscin",1,,8588
+PMC4628703,"methyl",1,,32875
+PMC4628703,"hexane",1,,29021
+PMC4628703,"ether",1,,35702
+PMC4628703,"ethyl acetate",1,,27750
+PMC4628703,"chloroform",1,,35255
+PMC4628703,"dimethylpolysiloxane",1,,61468
+PMC4628703,"helium",1,,33681
+PMC4628703,"penicillin",1,,51356
+PMC4628703,"streptomycin",1,,58007
+PMC4628703,"3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide",1,,53233
+PMC4628703,"biotin",1,,57586
+PMC4628703,"sulphuric acid",1,,26836
+PMC4628703,"ethanol",1,,44730
+PMC4628703,"propidium iodide",1,,51240
+PMC4628703,"4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid",1,,42334
+PMC4628703,"Dithiothreitol",1,,18320
+PMC4628703,"Ac-Asp-Glu",1,,73688
+PMC4628703,"-Val",1,,32854
+PMC4628703,"polyvinylidene",1,,53249
+PMC4628703,"delta",1,,36375
+PMC4628703,"selenomethionine",1,,30021
+PMC4628703,"butane-2,3-diol",1,,62064
+PMC4628703,"amine",1,,32952
+PMC4628703,"ethyl",1,,62801
+PMC4628703,"aziridine",1,,30969
+PMC4628703,"Obtusifolin",1,,80880
+PMC4628703,"anthraquinone",1,,40448
+PMC4628703,"Glycosides",1,,24400
+PMC4628703,"Vitexin",1,,57963
+PMC4628703,"Limonene",1,,15384
+PMC4628703,"Heptanoic acid",1,,45571
+PMC4628703,"Bisphenol",1,,22901
+PMC4628703,"Tricine",1,,46760
+PMC4628703,"Kaempferol",1,,58573
+PMC4628703,"Carvone",1,,38265
+PMC4628703,"Linolenic acid",1,,27432
+PMC4640387,"carvacrol",28,,3440
+PMC4640387,"thymol",17,,27607
+PMC4640387,"carotene",13,,23042
+PMC4640387,"radical",9,,26519
+PMC4640387,"Trolox",8,,82625
+PMC4640387,"p-cymene",7,,28768
+PMC4640387,"linoleic acid",5,,17351
+PMC4640387,"water",4,,15377
+PMC4640387,"methanol",4,,44520
+PMC4640387,"and p",3,,73329
+PMC4640387,"Ampicillin",3,,28971
+PMC4640387,"hydroxy",3,,43176
+PMC4640387,"monoterpene",3,,35187
+PMC4640387,"Tween 80",2,,53426
+PMC4640387,"resazurin",2,,8806
+PMC4640387,"sodium sulfate",2,,32149
+PMC4640387,"alkanes",2,,18310
+PMC4640387,"chloroform",2,,35255
+PMC4640387,"ethanol",2,,44730
+PMC4640387,"1,8-cineole",2,,27961
+PMC4640387,"phenols",2,,15882
+PMC4640387,"lipids",1,,18059
+PMC4640387,"butyl hydroxyanisole",1,,76359
+PMC4640387,"butylated hydroxytoluene",1,,34247
+PMC4640387,"dichloromethane",1,,15767
+PMC4640387,"n-hexane",1,,29021
+PMC4640387,"fused-silica",1,,46729
+PMC4640387,"helium",1,,33681
+PMC4640387,"psi",1,,74981
+PMC4640387,"carboxylic acid",1,,33575
+PMC4640387,"Tween 40",1,,53423
+PMC4640387,"oxygen",1,,25805
+PMC4640387,"methyl",1,,32875
+PMC4640387,"epoxide",1,,32955
+PMC4640387,"methyl cinnamate",1,,6857
+PMC4640387,"nerolidol",1,,7524
+PMC4640387,"citral",1,,23316
+PMC4640387,"carvone",1,,38265
+PMC4640387,"caryophyllene",1,,10357
+PMC4640387,"phenyl",1,,30396
+PMC4640387,"lipopolysaccharides",1,,16412
+PMC4640387,"linalool",1,,17580
+PMC4640387,"hydrogen",1,,49637
+PMC4640387,"letter",1,,6446
+PMC4640387,"radical cation",1,,36874
+PMC4640387,"tocopherol",1,,27013
+PMC4641935,"carvacrol",10,,3440
+PMC4641935,"toluene",8,,17578
+PMC4641935,"lead acetate",5,,31767
+PMC4641935,"thymol",4,,27607
+PMC4641935,"lipid",4,,18059
+PMC4641935,"pilocarpine",4,,8207
+PMC4641935,"nitrite",4,,16301
+PMC4641935,"thiol",3,,29917
+PMC4641935,"Sulfur mustard",2,,25434
+PMC4641935,"linoleic acid",2,,17351
+PMC4641935,"malondialdehyde",2,,566274
+PMC4641935,"glutathione",2,,57925
+PMC4641935,"taurine",2,,507393
+PMC4641935,"aspartate",2,,72314
+PMC4641935,"chlorpromazine",2,,3647
+PMC4641935,"water",2,,15377
+PMC4641935,"6-hydroxydopamine",2,,78741
+PMC4641935,"prostaglandins",1,,26333
+PMC4641935,"leukotrienes",1,,25029
+PMC4641935,"methanol",1,,44520
+PMC4641935,"scopolamine",1,,16794
+PMC4641935,"protein",1,,16541
+PMC4641935,"saponin",1,,26605
+PMC4641935,"oleic acid",1,,16196
+PMC4641935,"palmitic acid",1,,15756
+PMC4641935,"arachidic acid",1,,28822
+PMC4641935,"eicosadienoic acid",1,,73731
+PMC4641935,"stearic acid",1,,28842
+PMC4641935,"myristic acid",1,,28875
+PMC4641935,"p-cymene",1,,28768
+PMC4641935,"carvone",1,,38265
+PMC4641935,"peptide",1,,16670
+PMC4641935,"iron",1,,18248
+PMC4641935,"ascorbate",1,,38290
+PMC4641935,"acetylcholine",1,,15355
+PMC4641935,"glutamate",1,,29987
+PMC4641935,"pentylenetetrazole",1,,34910
+PMC4641935,"valproate",1,,60654
+PMC4641935,"perphenazine",1,,8028
+PMC4641935,"phenol",1,,15882
+PMC4641935,"apomorphine",1,,48538
+PMC4641935,"propylthiouracil",1,,8502
+PMC4641935,"thyroxine",1,,30660
+PMC4641935,"Methotrexate",1,,44185
+PMC4641935,"Galantamine",1,,42944
+PMC4656844,"and p",5,,73329
+PMC4656844,"Carvone",3,,38265
+PMC4656844,"Ethyl",3,,62801
+PMC4656844,"Hexanoic acid",3,,30776
+PMC4656844,"alpha-Terpinene",2,,10334
+PMC4656844,"phenylacetate",2,,8082
+PMC4656844,"Isovaleric acid",2,,28484
+PMC4656844,"Isoamyl acetate",2,,31725
+PMC4656844,"acetic acid",1,,15366
+PMC4656844,"valeric acid",1,,17418
+PMC4656844,"ammonium",1,,28938
+PMC4656844,"sulfide",1,,26822
+PMC4656844,"mineral",1,,46662
+PMC4656844,"polypropylene",1,,53550
+PMC4656844,"Fenchone",1,,4999
+PMC4656844,"(+)-Fenchone",1,,165
+PMC4656844,"1,8-Cineol",1,,27961
+PMC4656844,"1-Butanol",1,,28885
+PMC4656844,"1-Propanol",1,,28831
+PMC4656844,"2,3-Butanedione",1,,16583
+PMC4656844,"alpha-Ionone",1,,32319
+PMC4656844,"alpha-Pinene",1,,36740
+PMC4656844,"Benzyl acetate",1,,52051
+PMC4656844,"cis-3-Hexenylacetate",1,,61316
+PMC4656844,"Citral",1,,23316
+PMC4656844,"Citronellal",1,,47856
+PMC4656844,"Citronellol",1,,50462
+PMC4656844,"salicylate",1,,30762
+PMC4656844,"Isobutyric acid",1,,16135
+PMC4656844,"Linalool",1,,17580
+PMC4656844,"Myrcene",1,,17221
+PMC4656844,"p-Cresol",1,,17847
+PMC4656844,"Propionic acid",1,,30768
+PMC4656844,"(+)-limonene",1,,15382
+PMC4656844,"(-)-limonene",1,,15383
+PMC4656844,"Terpinen-4-ol",1,,78884
+PMC4656844,"trans-Anethole",1,,35616
+PMC4656844,"1-Decanol",1,,28903
+PMC4656844,"Acetophenone",1,,27632
+PMC4656844,"Allyl",1,,30361
+PMC4656844,"caproate",1,,17120
+PMC4656844,"Benzaldehyde",1,,17169
+PMC4656844,"beta-Ionone",1,,32325
+PMC4656844,"Dodecanal",1,,27836
+PMC4656844,"butyrate",1,,17968
+PMC4656844,"Eugenol",1,,4917
+PMC4656844,"Geraniol",1,,17447
+PMC4656844,"Guaiacol",1,,28591
+PMC4656844,"Heptanal",1,,34787
+PMC4656844,"Methyl anthranilate",1,,73244
+PMC4656844,"Phenyl",1,,30396
+PMC4656844,"ethanol",1,,44730
+PMC4656844,"Diphenyloxide",1,,39258
+PMC4656844,"a factor",1,,79381
+PMC4664613,"Carvone",31,,38265
+PMC4664613,"Trimethylamine",19,,58389
+PMC4664613,"ethyl vanillin",4,,48408
+PMC4664613,"phenyl",4,,30396
+PMC4664613,"ethanol",4,,44730
+PMC4664613,"isobutyl",3,,30356
+PMC4664613,"phenylacetate",3,,8082
+PMC4664613,"and p",3,,73329
+PMC4664613,"mineral",2,,46662
+PMC4664613,"polypropylene",1,,53550
+PMC4670656,"Limonene",21,,15384
+PMC4670656,"water",17,,15377
+PMC4670656,"pinene",16,,17187
+PMC4670656,"citral",9,,23316
+PMC4670656,"myrcene",9,,17221
+PMC4670656,"aldehydes",6,,17478
+PMC4670656,"radical",5,,26519
+PMC4670656,"streptomycin",5,,58007
+PMC4670656,"oleylamide",5,,116314
+PMC4670656,"Iron",4,,18248
+PMC4670656,"terpenes",4,,35186
+PMC4670656,"linalool",4,,17580
+PMC4670656,"oleic acid",4,,16196
+PMC4670656,"stearic acid",4,,28842
+PMC4670656,"geraniol",4,,17447
+PMC4670656,"phenols",3,,15882
+PMC4670656,"caryophyllene",3,,10357
+PMC4670656,"palmitic acid",3,,15756
+PMC4670656,"terpineol",3,,26876
+PMC4670656,"ketones",2,,17087
+PMC4670656,"Trichloroacetic acid",2,,30956
+PMC4670656,"sodium sulfate",2,,32149
+PMC4670656,"methanol",2,,44520
+PMC4670656,"ethanol",2,,44730
+PMC4670656,"ascorbic acid",2,,29073
+PMC4670656,"peroxyl radicals",2,,25935
+PMC4670656,"thujene",2,,50030
+PMC4670656,"decyl",2,,23580
+PMC4670656,"unsaturated fatty acid",2,,27208
+PMC4670656,"cannabinoid",2,,67194
+PMC4670656,"sabinene",2,,50027
+PMC4670656,"Neral",2,,29020
+PMC4670656,"hydrocarbon",2,,24632
+PMC4670656,"acetate",2,,47622
+PMC4670656,"farnesene",2,,39237
+PMC4670656,"alkenes",1,,32878
+PMC4670656,"alcohols",1,,30879
+PMC4670656,"esters",1,,35701
+PMC4670656,"sulfonate",1,,33543
+PMC4670656,"butylated hydroxytoluene",1,,34247
+PMC4670656,"methyl alcohol",1,,17790
+PMC4670656,"helium",1,,33681
+PMC4670656,"nitrogen radical",1,,29351
+PMC4670656,"carotenoids",1,,23044
+PMC4670656,"radical cation",1,,36874
+PMC4670656,"potassium",1,,85264
+PMC4670656,"hydroxyl",1,,43176
+PMC4670656,"Protein",1,,16541
+PMC4670656,"thiol",1,,29917
+PMC4670656,"Dimethyl sulfoxide",1,,28262
+PMC4670656,"sesquiterpene",1,,35189
+PMC4670656,"vinyl",1,,37603
+PMC4670656,"ammonia",1,,16134
+PMC4670656,"amide",1,,32988
+PMC4670656,"oxygen",1,,25805
+PMC4670656,"monoterpene",1,,35187
+PMC4670656,"ferrous ion",1,,29033
+PMC4670656,"linoleic acid",1,,17351
+PMC4670656,"epoxyeicosatrienoic acids",1,,64007
+PMC4670656,"octadecenoic acid",1,,25634
+PMC4670656,"low density lipoprotein",1,,39026
+PMC4670656,"nitrogen",1,,25555
+PMC4670656,"gamma",1,,30212
+PMC4670656,"amino",1,,46882
+PMC4670656,"butyric acid",1,,30772
+PMC4670656,"terpinolene",1,,9457
+PMC4670656,"thymol",1,,27607
+PMC4670656,"ether",1,,35702
+PMC4670656,"Phellandrene",1,,50034
+PMC4670656,"Dihydrocarveol",1,,50215
+PMC4670656,"Citronellal",1,,47856
+PMC4670656,"Isopulegol",1,,70479
+PMC4670656,"Carveol",1,,23046
+PMC4670656,"Carvone",1,,38265
+PMC4670656,"Copaene",1,,10221
+PMC4670656,"Germacrene",1,,36743
+PMC4670656,"Cadinene",1,,22976
+PMC4670656,"Farnesol",1,,42680
+PMC4670656,"Myristic acid",1,,28875
+PMC4670656,"Nootkatone",1,,81377
+PMC4670656,"Pentadecanoic acid",1,,42504
+PMC4670656,"Stearyl alcohol",1,,32154
+PMC4670656,"Hexadecanamide",1,,74475
+PMC4670656,"Octadecyl",1,,26755
+PMC4670656,"Allyl",1,,30361
+PMC4670656,"Spinacene",1,,15440
+PMC4672195,"carvacrol",72,,3440
+PMC4672195,"cinnamaldehyde",28,,16731
+PMC4672195,"thymol",22,,27607
+PMC4672195,"Potassium",17,,85264
+PMC4672195,"hydroxyl group",17,,43176
+PMC4672195,"eugenol",16,,4917
+PMC4672195,"Vanillin",13,,18346
+PMC4672195,"p-cymene",8,,28768
+PMC4672195,"(+)-carvone",7,,15399
+PMC4672195,"methyl ether",7,,28887
+PMC4672195,"amino",6,,46882
+PMC4672195,"Farnesol",5,,42680
+PMC4672195,"glucose",5,,42758
+PMC4672195,"oxygen",5,,25805
+PMC4672195,"proteins",3,,16541
+PMC4672195,"o-cresol",3,,28054
+PMC4672195,"cyclic hydrocarbons",3,,33663
+PMC4672195,"Pectin",3,,17309
+PMC4672195,"acetate",3,,47622
+PMC4672195,"butyric acid",2,,30772
+PMC4672195,"Nerolidol",2,,7524
+PMC4672195,"Plaunotol",2,,32023
+PMC4672195,"(+) menthol",2,,76310
+PMC4672195,"linalyl acetate",2,,6469
+PMC4672195,"aromatic compound",2,,33655
+PMC4672195,"hydrocarbons",2,,24632
+PMC4672195,"benzene ring",2,,52879
+PMC4672195,"methyl group",2,,32875
+PMC4672195,"carbon",2,,33415
+PMC4672195,"organic compounds",1,,50860
+PMC4672195,"eucalyptol",1,,27961
+PMC4672195,"butyrate",1,,17968
+PMC4672195,"propionate",1,,17272
+PMC4672195,"peptidoglycan",1,,8005
+PMC4672195,"teichoic acid",1,,30049
+PMC4672195,"lipopolysaccharides",1,,16412
+PMC4672195,"terpene",1,,35186
+PMC4672195,"alcohols",1,,30879
+PMC4672195,"geraniol",1,,17447
+PMC4672195,"geranylgeraniol",1,,46762
+PMC4672195,"propidium iodide",1,,51240
+PMC4672195,"phenyl",1,,30396
+PMC4672195,"polysaccharides",1,,18154
+PMC4672195,"iodide",1,,16382
+PMC4672195,"benzene",1,,16716
+PMC4672195,"toluene",1,,17578
+PMC4672195,"ethylbenzene",1,,16101
+PMC4672195,"o-xylene",1,,28063
+PMC4672195,"cyano",1,,48819
+PMC4672195,"chloride",1,,17996
+PMC4672195,"homoserine lactones",1,,58093
+PMC4672195,"oligopeptides",1,,25676
+PMC4672195,"chamomile",1,,18388
+PMC4672195,"molds",1,,59963
+PMC4672195,"hexane",1,,29021
+PMC4672195,"isopropyl group",1,,30353
+PMC4672195,"ether",1,,35702
+PMC4672195,"aldehyde",1,,17478
+PMC4672195,"potassium ions",1,,29103
+PMC4673553,"citric acid",8,,30769
+PMC4673553,"sucrose",7,,17992
+PMC4673553,"water",5,,15377
+PMC4673553,"letters",2,,6446
+PMC4673553,"phenyl",1,,30396
+PMC4673553,"acetylene",1,,27518
+PMC4673553,"aldehyde",1,,17478
+PMC4673553,"acetic acid",1,,15366
+PMC4673553,"pinene",1,,17187
+PMC4673553,"fenchyl alcohol",1,,15405
+PMC4673553,"aluminum",1,,49470
+PMC4673553,"Carvone",1,,38265
+PMC4673553,"sulphur dioxide",1,,18422
+PMC4673882,"eugenol",6,,4917
+PMC4673882,"water",5,,15377
+PMC4673882,"muscimol",4,,7035
+PMC4673882,"proteins",3,,16541
+PMC4673882,"carvone",2,,38265
+PMC4673882,"furosemide",2,,47426
+PMC4673882,"phosphocreatine",2,,17287
+PMC4673882,"gluconate",2,,24265
+PMC4673882,"3-ms",2,,20141
+PMC4673882,"phenylindole",1,,48559
+PMC4673882,"acetate",1,,47622
+PMC4673882,"ethyl",1,,62801
+PMC4673882,"butyrate",1,,17968
+PMC4673882,"rest on",1,,6820
+PMC4673882,"gamma",1,,30212
+PMC4673882,"chloride",1,,17996
+PMC4673882,"Ca2+",1,,29108
+PMC4673882,"paraformaldehyde",1,,61538
+PMC4673882,"sodium citrate",1,,53258
+PMC4673882,"Triton",1,,29234
+PMC4673882,"gelatin",1,,5291
+PMC4673882,"glycerol",1,,17754
+PMC4673882,"myo-Inositol",1,,17268
+PMC4673882,"pyruvate",1,,15361
+PMC4673882,"ascorbic acid",1,,29073
+PMC4673882,"6-cyano-7-nitroquinoxaline-2,3-dione",1,,34468
+PMC4673882,"2-amino-5-phosphonopentanoic acid",1,,138644
+PMC4673882,"tetrodotoxin",1,,9506
+PMC4673882,"hydrazide",1,,35362
+PMC4673882,"mineral",1,,46662
+PMC4684335,"pinene",18,,17187
+PMC4684335,"caryophyllene",15,,10357
+PMC4684335,"limonene",11,,15384
+PMC4684335,"methyl",11,,32875
+PMC4684335,"myrcene",9,,17221
+PMC4684335,"benzaldehyde",6,,17169
+PMC4684335,"linalool",6,,17580
+PMC4684335,"humulene",5,,5768
+PMC4684335,"3-carene",5,,35661
+PMC4684335,"acetate",5,,47622
+PMC4684335,"Methyl anthranilate",5,,73244
+PMC4684335,"Nerol",5,,29452
+PMC4684335,"nonanal",4,,84268
+PMC4684335,"phellandrene",4,,50034
+PMC4684335,"terpinolene",4,,9457
+PMC4684335,"cadinene",4,,22976
+PMC4684335,"cocaine",4,,60056
+PMC4684335,"Propylamine",4,,39870
+PMC4684335,"and p",3,,73329
+PMC4684335,"dimethyl",3,,42266
+PMC4684335,"Acetic acid",3,,15366
+PMC4684335,"Butane",3,,41264
+PMC4684335,"Camphene",3,,3830
+PMC4684335,"Decanal",3,,31457
+PMC4684335,"Heptanal",3,,34787
+PMC4684335,"Isobutyraldehyde",3,,48943
+PMC4684335,"Linalyl acetate",3,,6469
+PMC4684335,"ketone",3,,17087
+PMC4684335,"Octanal",3,,17935
+PMC4684335,"guaiacol",3,,28591
+PMC4684335,"Phenol",3,,15882
+PMC4684335,"Valencene",2,,61700
+PMC4684335,"selinene",2,,49272
+PMC4684335,"1-methylethyl",2,,30353
+PMC4684335,"methylcarbamate",2,,76606
+PMC4684335,"organic compounds",2,,50860
+PMC4684335,"terpineol",2,,26876
+PMC4684335,"amphetamine",2,,51062
+PMC4684335,"aluminum",2,,49470
+PMC4684335,"nerolidol",2,,7524
+PMC4684335,"3-methylphenyl",2,,52555
+PMC4684335,"hydrazine",2,,15571
+PMC4684335,"ethenyl",2,,37603
+PMC4684335,"o-xylene",2,,28063
+PMC4684335,"formate",2,,52343
+PMC4684335,"Fenchyl alcohol",2,,15405
+PMC4684335,"Isoeugenol",2,,18224
+PMC4684335,"p-cymene",2,,28768
+PMC4684335,"Toluene",1,,17578
+PMC4684335,"Tridecane",1,,35998
+PMC4684335,"Tyramine",1,,327995
+PMC4684335,"Undecane",1,,46342
+PMC4684335,"Verbenone",1,,9955
+PMC4684335,"copaene",1,,10221
+PMC4684335,"3-(3-hydroxyphenyl)-2-propenoic acid",1,,47925
+PMC4684335,"methyl ester",1,,25248
+PMC4684335,"1,8-Cineole",1,,27961
+PMC4684335,"Guaiol",1,,5552
+PMC4684335,"heptenone",1,,24523
+PMC4684335,"Farnesene",1,,39237
+PMC4684335,"diamonds",1,,33417
+PMC4684335,"Methamphetamine",1,,6809
+PMC4684335,"nitrogen",1,,25555
+PMC4684335,"heroin",1,,27808
+PMC4684335," sec",1,,32746
+PMC4684335,"Polydimethylsiloxane",1,,61468
+PMC4684335,"helium",1,,33681
+PMC4684335,"psi",1,,74981
+PMC4684335,"(+)-sativene",1,,64800
+PMC4684335,"1,2,3,4-tetramethylbenzene",1,,38997
+PMC4684335,"1,3,5-triazine-2,4,6-triamine",1,,27915
+PMC4684335,"1,3-dichlorobenzene",1,,36693
+PMC4684335,"1,4-diethylbenzene",1,,34062
+PMC4684335,"1-butanol",1,,28885
+PMC4684335,"2-propanol",1,,17824
+PMC4684335,"1-hexadecanol",1,,16125
+PMC4684335,"2-butanone",1,,28398
+PMC4684335,"2-butoxyethanol",1,,63921
+PMC4684335,"1,3-dimethylbenzene",1,,28488
+PMC4684335,"2-ethoxyethanol",1,,46788
+PMC4684335,"2-ethyltoluene",1,,34276
+PMC4684335,"2-heptanone",1,,5672
+PMC4684335,"2-hydroxyacetophenone",1,,28341
+PMC4684335,"isopropenyl",1,,30354
+PMC4684335,"naphthalene",1,,16482
+PMC4684335,"imidazole",1,,50059
+PMC4684335,"2-methyl-2-propanamine",1,,44639
+PMC4684335,"2-methylaziridine",1,,82340
+PMC4684335,"2-nitropropane",1,,16037
+PMC4684335,"2-phenoxyethanol",1,,64275
+PMC4684335,"hexene",1,,24579
+PMC4684335,"3,4,5-trimethylphenol",1,,38896
+PMC4684335,"ethyl",1,,62801
+PMC4684335,"3-ethyltoluene",1,,77512
+PMC4684335,"3-pentanol",1,,77519
+PMC4684335,"ethoxy",1,,42241
+PMC4684335,"methyl guaiacol",1,,59114
+PMC4684335,"4-pyridinamine",1,,34385
+PMC4684335,"2-methylpyridine",1,,50415
+PMC4684335,"7-methoxycoumarin",1,,5679
+PMC4684335,"Acetaldehyde",1,,43923
+PMC4684335,"Acetamide",1,,27856
+PMC4684335,"Acetone",1,,15347
+PMC4684335,"Acetophenone",1,,27632
+PMC4684335,"Acrolein",1,,15368
+PMC4684335,"Anethole",1,,35616
+PMC4684335,"Benzonitrile",1,,27991
+PMC4684335,"Benzophenone",1,,41308
+PMC4684335,"Benzyl acetate",1,,52051
+PMC4684335,"Benzyl Alcohol",1,,17987
+PMC4684335,"Benzyl",1,,22744
+PMC4684335,"Benzyl nitrile",1,,25979
+PMC4684335,"Betahistine",1,,35677
+PMC4684335,"Betazole",1,,59170
+PMC4684335,"Carbofuran",1,,34611
+PMC4684335,"Carvacrol",1,,3440
+PMC4684335,"Citronellyl acetate",1,,70478
+PMC4684335,"Cumene",1,,34656
+PMC4684335,"Cuminaldehyde",1,,28671
+PMC4684335,"Diacetone alcohol",1,,55381
+PMC4684335,"Dibutyl phthalate",1,,34687
+PMC4684335,"Diethyl Phthalate",1,,34698
+PMC4684335,"Dimethylsulfide",1,,17437
+PMC4684335,"Dimethylsulfone",1,,9349
+PMC4684335,"carvone",1,,38265
+PMC4684335,"Dodecane",1,,28817
+PMC4684335,"Durene",1,,38978
+PMC4684335,"Estragole",1,,4867
+PMC4684335,"Ethanol",1,,44730
+PMC4684335,"Ethylacetate",1,,27750
+PMC4684335,"Ethylene",1,,29362
+PMC4684335,"Ethylenediamine",1,,30347
+PMC4684335,"Ethylenimine",1,,30969
+PMC4684335,"Eugenol",1,,4917
+PMC4684335,"Formic acid",1,,30751
+PMC4684335,"Furfural",1,,34768
+PMC4684335,"Hexadecane",1,,45296
+PMC4684335,"Hexanoic acid, methyl ester",1,,77322
+PMC4684335,"Hexanoic acid",1,,30776
+PMC4684335,"propyl",1,,26308
+PMC4684335,"ester",1,,35701
+PMC4684335,"Hexestrol",1,,31669
+PMC4684335,"Hordenine",1,,5764
+PMC4684335,"Isoamyl alcohol",1,,15837
+PMC4684335,"Isobutane",1,,30363
+PMC4684335,"Isocyanatomethane",1,,59059
+PMC4684335,"Isoprene",1,,35194
+PMC4684335,"Isoquinoline",1,,16092
+PMC4684335,"Longifolene",1,,6530
+PMC4684335,"Methyl acetate",1,,77700
+PMC4684335,"acetylsalicylate",1,,15365
+PMC4684335,"Methyl benzoate",1,,72775
+PMC4684335,"heptanoate",1,,32362
+PMC4684335,"mercaptan",1,,29256
+PMC4684335,"Methyl salicylate",1,,31832
+PMC4684335,"valerate",1,,31011
+PMC4684335,"Methylene chloride",1,,15767
+PMC4684335,"Nitrobenzene",1,,27798
+PMC4684335,"Nonane",1,,32892
+PMC4684335,"hydroquinone",1,,17594
+PMC4684335,"aminotoluene",1,,22531
+PMC4684335,"Pentadecane",1,,28897
+PMC4684335,"Pentamethylbenzene",1,,38998
+PMC4684335,"Pentanal",1,,84069
+PMC4684335,"Perillaldehyde",1,,15421
+PMC4684335,"Phenylethyl alcohol",1,,49000
+PMC4684335,"Piperidine",1,,589779
+PMC4684335,"Piperonal",1,,8240
+PMC4684335,"Propanal",1,,17153
+PMC4684335,"Propanoic acid",1,,30768
+PMC4684335,"Propofol",1,,44915
+PMC4684335,"Propylene glycol",1,,16997
+PMC4684335,"p-xylene",1,,27417
+PMC4684335,"Sabinene",1,,50027
+PMC4684335,"Styrene",1,,27452
+PMC4684335,"benzene",1,,16716
+PMC4684335,"Tetrahydrozoline",1,,28674
+PMC4684335,"Thymol",1,,27607
+PMC4686661,"photon",8,,30212
+PMC4686661,"agarose",4,,2511
+PMC4686661,"sorbitol",4,,30911
+PMC4686661,"protein",2,,16541
+PMC4686661,"isopentyl acetate",2,,31725
+PMC4686661,"carvone",2,,38265
+PMC4686661,"phenylacetaldehyde",2,,16424
+PMC4686661,"cy3",2,,37990
+PMC4686661,"mineral",2,,46662
+PMC4686661,"calcium",1,,29320
+PMC4686661,"Alexa Fluor 568",1,,51766
+PMC4686661,"Trehalose",1,,27082
+PMC4686661,"Sucrose",1,,17992
+PMC4686661,"aluminium",1,,28984
+PMC4686661,"benzyl acetate",1,,52051
+PMC4686661,"ethyl acetate",1,,27750
+PMC4686661,"ethyl",1,,62801
+PMC4686661,"hexanoate",1,,30776
+PMC4686661,"geranyl acetate",1,,5331
+PMC4686661,"arena",1,,82044
+PMC4686661,"retina",1,,15367
+PMC4707358,"retinoic acid",5,,26536
+PMC4707358,"carbon dioxide",3,,16526
+PMC4707358,"Hydrogen Peroxide",2,,16240
+PMC4707358,"methyl",2,,32875
+PMC4707358,"isopropyl",2,,30353
+PMC4707358,"pinene",2,,17187
+PMC4707358,"gentamicin",2,,17833
+PMC4707358,"sec",2,,32746
+PMC4707358,"protein",2,,16541
+PMC4707358,"superoxide",1,,18421
+PMC4707358,"heme",1,,30413
+PMC4707358,"1,4-benzoquinone",1,,16509
+PMC4707358,"quinone",1,,36141
+PMC4707358,"benzene ring",1,,52879
+PMC4707358,"oxygen",1,,25805
+PMC4707358,"p-cymene",1,,28768
+PMC4707358,"thujene",1,,50030
+PMC4707358,"camphene",1,,3830
+PMC4707358,"sabinene",1,,50027
+PMC4707358,"myrcene",1,,17221
+PMC4707358,"phellandrene",1,,50034
+PMC4707358,"limonene",1,,15384
+PMC4707358,"terpinolene",1,,9457
+PMC4707358,"camphor",1,,36773
+PMC4707358,"carvone",1,,38265
+PMC4707358,"thymol",1,,27607
+PMC4707358,"carvacrol",1,,3440
+PMC4707358,"borneol",1,,28093
+PMC4707358,"magnesium chloride",1,,6636
+PMC4707358,"bromide",1,,15858
+PMC4707358,"Propidium Iodide",1,,51240
+PMC4707358,"water",1,,15377
+PMC4707358,"and p",1,,73329
+PMC4708660,"water",25,,15377
+PMC4708660,"Methyl",22,,32875
+PMC4708660,"radical",16,,26519
+PMC4708660,"dimethyl",9,,42266
+PMC4708660,"limonene",7,,15384
+PMC4708660,"acetate",6,,47622
+PMC4708660,"monoterpenes",5,,35187
+PMC4708660,"alkanes",5,,18310
+PMC4708660,"Pinene",5,,17187
+PMC4708660,"sesquiterpenes",4,,35189
+PMC4708660,"cyclohexene",4,,36404
+PMC4708660,"hept",4,,43060
+PMC4708660,"methanol",3,,44520
+PMC4708660,"hydrogen",3,,49637
+PMC4708660,"letters",3,,6446
+PMC4708660,"terpenes",3,,35186
+PMC4708660,"heptan",3,,43098
+PMC4708660,"propan",3,,32879
+PMC4708660,"cyclohexadiene",3,,37613
+PMC4708660,"methylene",3,,50728
+PMC4708660,"Pentadecane",2,,28897
+PMC4708660,"aldehydes",2,,17478
+PMC4708660,"butylated hydroxytoluene",2,,34247
+PMC4708660,"hexane",2,,29021
+PMC4708660,"dien",2,,30629
+PMC4708660,"Isopropenyl",2,,30354
+PMC4708660,"Nonanal",2,,84268
+PMC4708660,"Myrcene",2,,17221
+PMC4708660,"Bisabolene",2,,49237
+PMC4708660,"Tridecane",2,,35998
+PMC4708660,"Tetradecane",2,,41253
+PMC4708660,"bore",1,,27560
+PMC4708660,"alcohols",1,,30879
+PMC4708660,"ketones",1,,17087
+PMC4708660,"phenols",1,,15882
+PMC4708660,"lactones",1,,25000
+PMC4708660,"acetals",1,,59769
+PMC4708660,"ethers",1,,25698
+PMC4708660,"esters",1,,35701
+PMC4708660,"ascorbic acid",1,,29073
+PMC4708660,"polyethylene",1,,60034
+PMC4708660,"sodium sulfate",1,,32149
+PMC4708660,"aluminum",1,,49470
+PMC4708660,"Phenyl",1,,30396
+PMC4708660,"siloxane",1,,48138
+PMC4708660,"Helium",1,,33681
+PMC4708660,"Linalool",1,,17580
+PMC4708660,"benzene",1,,16716
+PMC4708660,"Citronellal",1,,47856
+PMC4708660,"terpineol",1,,26876
+PMC4708660,"Safranal",1,,53169
+PMC4708660,"Nerol",1,,29452
+PMC4708660,"Neral",1,,29020
+PMC4708660,"Carvone",1,,38265
+PMC4708660,"cyclohexenone",1,,48951
+PMC4708660,"Geraniol",1,,17447
+PMC4708660,"Geranial",1,,16980
+PMC4708660,"Citronellyl acetate",1,,70478
+PMC4708660,"Geranyl acetate",1,,5331
+PMC4708660,"geranate",1,,67260
+PMC4708660,"Thujene",1,,50030
+PMC4708660,"isopropyl",1,,30353
+PMC4708660,"Camphene",1,,3830
+PMC4708660,"bicyclo[2.2.1]heptane",1,,71546
+PMC4708660,"Sabinene",1,,50027
+PMC4708660,"phellandrene",1,,50034
+PMC4708660,"Terpinolene",1,,9457
+PMC4708660,"Isopropylidene",1,,29858
+PMC4708660,"humulene",1,,5768
+PMC4708660,"Farnesene",1,,39237
+PMC4708660,"Valencene",1,,61700
+PMC4708660,"Bicyclogermacrene",1,,63709
+PMC4708660,"caryophyllene",1,,10357
+PMC4708660,"methylidene",1,,29358
+PMC4724840,"limonene",4,,15384
+PMC4724840,"cuminaldehyde",3,,28671
+PMC4724840,"Helium",2,,33681
+PMC4724840,"alkanes",2,,18310
+PMC4724840,"Pinene",2,,17187
+PMC4724840,"water",1,,15377
+PMC4724840,"pyrimethamine",1,,8673
+PMC4724840,"sulfadiazine",1,,9328
+PMC4724840,"sodium sulfate",1,,32149
+PMC4724840,"nitrogen",1,,25555
+PMC4724840,"phenyl",1,,30396
+PMC4724840,"methyl",1,,32875
+PMC4724840,"siloxane",1,,48138
+PMC4724840,"Thujene",1,,50030
+PMC4724840,"Sabinene",1,,50027
+PMC4724840,"Myrcene",1,,17221
+PMC4724840,"Terpinene-4-ol",1,,78884
+PMC4724840,"Terpineol",1,,26876
+PMC4724840,"Caryophyllene",1,,10357
+PMC4724840,"Bisabolene",1,,49237
+PMC4724840,"Selinene",1,,49272
+PMC4724840,"Myristicin",1,,68234
+PMC4724840,"Germacrene",1,,36743
+PMC4724840,"Dillapiol",1,,70453
+PMC4724840,"hydrocarbon",1,,24632
+PMC4724840,"monoterpenes",1,,35187
+PMC4724840,"carvacrol",1,,3440
+PMC4724840,"thymol",1,,27607
+PMC4724840,"carvone",1,,38265
+PMC4724840,"terpenoids",1,,26873
+PMC4724840,"terpenes",1,,35186
+PMC4730278,"Perillaldehyde",76,,15421
+PMC4730278,"Epoxide",74,,32955
+PMC4730278,"Perillyl Alcohol",29,,15420
+PMC4730278,"p-menthane",8,,25826
+PMC4730278,"hematoxylin",5,,5601
+PMC4730278,"monoterpene",3,,35187
+PMC4730278,"5-Fluorouracil",3,,46345
+PMC4730278,"Urea",3,,16199
+PMC4730278,"Creatinine",3,,16737
+PMC4730278,"thymol",2,,27607
+PMC4730278,"perillic acid",2,,36999
+PMC4730278,"isoflurane",2,,6015
+PMC4730278,"Monoterpenoid",1,,25409
+PMC4730278,"carvacrol",1,,3440
+PMC4730278,"d-limonene",1,,15382
+PMC4730278,"aldehyde",1,,17478
+PMC4730278,"linalyl acetate",1,,6469
+PMC4730278,"terpineol",1,,26876
+PMC4730278,"carvone",1,,38265
+PMC4730278,"limonene",1,,15384
+PMC4730278,"Irinotecan",1,,80630
+PMC4730278,"mithramycin",1,,31856
+PMC4730278,"paclitaxel",1,,45863
+PMC4730278,"meta-chloroperoxybenzoic acid",1,,52091
+PMC4730278,"silica",1,,30563
+PMC4730278,"hexane",1,,29021
+PMC4730278,"ethyl acetate",1,,27750
+PMC4730278,"water",1,,15377
+PMC4730278,"Dimethyl sulfoxide",1,,28262
+PMC4730278,"ethylene",1,,29362
+PMC4730278,"diamine",1,,23666
+PMC4730278,"formaldehyde",1,,42485
+PMC4730278,"xylene",1,,27338
+PMC4749828,"Platensimycin",40,,68236
+PMC4749828,"enone",20,,51689
+PMC4749828,"ketone",9,,17087
+PMC4749828,"platencin",6,,68241
+PMC4749828,"carboxylic acid",6,,33575
+PMC4749828,"amide",5,,32988
+PMC4749828,"radical",5,,26519
+PMC4749828,"aromatic amine",4,,33860
+PMC4749828,"aldehyde",4,,17478
+PMC4749828,"lactone",4,,25000
+PMC4749828,"polyketides",3,,26188
+PMC4749828,"Vinyl",3,,37603
+PMC4749828,"methyl",3,,32875
+PMC4749828,"carvone",3,,38265
+PMC4749828,"ketal",3,,59777
+PMC4749828,"proteins",3,,16541
+PMC4749828,"cerulenin",2,,171741
+PMC4749828,"thiolactomycin",2,,46116
+PMC4749828,"hydroxyl group",2,,43176
+PMC4749828,"enyne",2,,59831
+PMC4749828,"bromide",2,,15858
+PMC4749828,"ether",2,,35702
+PMC4749828,"iodide",2,,16382
+PMC4749828,"aniline",2,,17296
+PMC4749828,"benzoyl",2,,22733
+PMC4749828,"alcohols",2,,30879
+PMC4749828,"methoxy",2,,44520
+PMC4749828,"ethylene",2,,29362
+PMC4749828,"thioester",2,,51277
+PMC4749828,"benzoic acid",1,,30746
+PMC4749828,"Spirocycle",1,,33599
+PMC4749828,"Secondary alcohol",1,,35681
+PMC4749828,"samarium",1,,33374
+PMC4749828,"allyl",1,,30361
+PMC4749828,"olefin",1,,33641
+PMC4749828,"boronate",1,,50978
+PMC4749828,"vinyl boronate",1,,50980
+PMC4749828,"trimethylamine",1,,58389
+PMC4749828,"sulfurane",1,,37180
+PMC4749828,"alkene",1,,32878
+PMC4749828,"1,3-cyclohexadiene",1,,37610
+PMC4749828,"palladium",1,,33363
+PMC4749828,"chloride",1,,17996
+PMC4749828,"copper",1,,30052
+PMC4749828,"acetate",1,,47622
+PMC4749828,"triflate",1,,48547
+PMC4749828,"monothioacetal",1,,59793
+PMC4749828,"diastereomeric mixture",1,,60915
+PMC4749828,"naphthol",1,,35682
+PMC4749828,"ethylene glycol",1,,30742
+PMC4749828,"acetonitrile",1,,38472
+PMC4749828,"1,4-naphthoquinone",1,,27418
+PMC4749828,"triethylamine",1,,35026
+PMC4749828,"tetralin",1,,35008
+PMC4749828,"carbonyl group",1,,23019
+PMC4749828,"phenol",1,,15882
+PMC4749828,"fluoride",1,,29228
+PMC4749828,"2-iodoxybenzoic acid",1,,52700
+PMC4749828,"bicyclic compound",1,,33636
+PMC4749828,"methyl acrylate",1,,82482
+PMC4749828,"cyclopentadiene",1,,30664
+PMC4749828,"carbon",1,,33415
+PMC4749828,"lithium",1,,49713
+PMC4749828,"lithium hydroxide",1,,33979
+PMC4749828,"dioxane",1,,46923
+PMC4749828,"cyanide",1,,48819
+PMC4749828,"ruthenium",1,,30682
+PMC4749828,"sodium hydroxide",1,,32145
+PMC4749828,"malonyl",1,,50650
+PMC4749828,"-Gln ",1,,30011
+PMC4749828,"malonate",1,,38083
+PMC4749828,"Sulfonamide",1,,35358
+PMC4749828,"Platensimycin B1",1,,68238
+PMC4749828,"methyl ester",1,,25248
+PMC4749828,"dihydroxybenzoic acids",1,,23778
+PMC4766438,"ethyl",18,,62801
+PMC4766438,"calcium",13,,29320
+PMC4766438,"Isopentyl acetate",6,,31725
+PMC4766438,"propionate",5,,17272
+PMC4766438,"3-hydroxybutyrate",5,,37054
+PMC4766438,"water",5,,15377
+PMC4766438,"pyrrolidine",5,,33135
+PMC4766438,"acetic acid",4,,15366
+PMC4766438,"geosmin",4,,46703
+PMC4766438,"butyl acetate",4,,31328
+PMC4766438,"methyl salicylate",3,,31832
+PMC4766438,"methyl",3,,32875
+PMC4766438,"laurate",3,,18262
+PMC4766438,"geranyl acetate",3,,5331
+PMC4766438,"4-methylphenol",3,,17847
+PMC4766438,"2-heptanone",3,,5672
+PMC4766438,"hexanoate",3,,30776
+PMC4766438,"alpha-terpineol",2,,22469
+PMC4766438,"3-octanol",2,,80945
+PMC4766438,"linalool",2,,17580
+PMC4766438,"benzoate",2,,16150
+PMC4766438,"hexanone",2,,24573
+PMC4766438,"propanoic acid",2,,30768
+PMC4766438,"fenchone",2,,4999
+PMC4766438,"2,3-butanedione",2,,16583
+PMC4766438,"ethyl 3-hydroxyhexanoate",2,,23997
+PMC4766438,"ai2",2,,44800
+PMC4766438,"putrescine",2,,326268
+PMC4766438,"chemical compounds",2,,37577
+PMC4766438,"mineral",2,,46662
+PMC4766438,"Teflon",2,,53251
+PMC4766438,"(+)-carvone",2,,15399
+PMC4766438,"3-hydroxy-2-butanone",2,,15688
+PMC4766438,"pentyl",2,,25902
+PMC4766438,"acetate",2,,47622
+PMC4766438,"acetophenone",2,,27632
+PMC4766438,"3-hydroxyhexanoate",1,,20070
+PMC4766438,"butyric acid",1,,30772
+PMC4766438,"Benzaldehyde",1,,17169
+PMC4766438,"furfural",1,,34768
+PMC4766438,"carvone",1,,38265
+PMC4766438,"alpha-ionone",1,,32319
+PMC4766438,"ester",1,,35701
+PMC4766438,"protein",1,,16541
+PMC4766438,"cyclohexanol",1,,18099
+PMC4766438,"Pure substances",1,,60003
+PMC4766438,"nitrogen",1,,25555
+PMC4766438,"isopentanoic acid",1,,28484
+PMC4766438,"hexane",1,,29021
+PMC4766438,"pentane",1,,37830
+PMC4766438,"Farnesol",1,,42680
+PMC4766438,"1-pentanol",1,,44884
+PMC4766438,"valencene",1,,61700
+PMC4766438,"carbon dioxide",1,,16526
+PMC4766438,"methyl acetate",1,,77700
+PMC4766438,"hexenal",1,,24578
+PMC4766438,"1-octen-3-ol",1,,39932
+PMC4766438,"2-methylphenol",1,,28054
+PMC4766438,"lactate",1,,24996
+PMC4766438,"trans-2-butenoate",1,,35899
+PMC4766438,"butyl",1,,41264
+PMC4766438,"2-oxovaleric acid",1,,33033
+PMC4766438,"dimethylamine",1,,58040
+PMC4766438,"propanal",1,,17153
+PMC4766438,"2-phenylethylamine",1,,18397
+PMC4766438,"phenylacetaldehyde",1,,16424
+PMC4766438,"ammonium hydroxide",1,,18219
+PMC4766438,"2,3-butanediol",1,,62064
+PMC4766438,"propyl acetate",1,,40116
+PMC4766438,"cyclohexanone",1,,17854
+PMC4766438,"butyrate",1,,17968
+PMC4766438,"pentanoate",1,,31011
+PMC4783362,"water",30,,15377
+PMC4783362,"lipid",18,,18059
+PMC4783362,"methanol",16,,44520
+PMC4783362,"ethanol",12,,44730
+PMC4783362,"pentane",11,,37830
+PMC4783362,"acetaldehyde",8,,43923
+PMC4783362,"terpenes",8,,35186
+PMC4783362,"acetone",7,,15347
+PMC4783362,"aldehydes",6,,17478
+PMC4783362,"carbon",5,,33415
+PMC4783362,"alkanes",5,,18310
+PMC4783362,"carbonyl groups",4,,23019
+PMC4783362,"butane",4,,41264
+PMC4783362,"ether",4,,35702
+PMC4783362,"peroxide",4,,44785
+PMC4783362,"chloroform",3,,35255
+PMC4783362,"alcohols",3,,30879
+PMC4783362,"organic compounds",2,,50860
+PMC4783362,"polyunsaturated fatty acids",2,,26208
+PMC4783362,"4-hydroxynonenal",2,,58968
+PMC4783362,"Helium",2,,33681
+PMC4783362,"pinene",2,,17187
+PMC4783362,"triacylglycerol",2,,17855
+PMC4783362,"oxygen molecules",1,,15379
+PMC4783362,"carbonyl compounds",1,,36586
+PMC4783362,"advanced glycation end-products",1,,84123
+PMC4783362,"ethane",1,,6015
+PMC4783362,"linolenic acid",1,,27432
+PMC4783362,"hexenal",1,,24578
+PMC4783362,"fatty acid derivatives",1,,61697
+PMC4783362,"fused silica",1,,46729
+PMC4783362,"psi",1,,74981
+PMC4783362,"esters",1,,35701
+PMC4783362,"diols",1,,8387
+PMC4783362,"oleic acids",1,,16196
+PMC4783362,"erucic acid",1,,28792
+PMC4783362,"C18:2",1,,61159
+PMC4783362,"C18:3",1,,61160
+PMC4783362,"Arachidate",1,,32360
+PMC4783362,"Eicosenoate",1,,78075
+PMC4783362,"furans",1,,35559
+PMC4783362,"ketones",1,,17087
+PMC4783362,"butanal",1,,15743
+PMC4783362,"butanone",1,,28398
+PMC4783362,"terpenoids",1,,26873
+PMC4783362,"carvone",1,,38265
+PMC4783362,"limonene",1,,15384
+PMC4783362,"malondialdehyde",1,,566274
+PMC4783362,"ethers",1,,25698
+PMC4783362,"carbon atoms",1,,27594
+PMC4783362,"linoleic acid",1,,17351
+PMC4783362,"pyruvate",1,,15361
+PMC4783362,"oxygen",1,,25805
+PMC4786606,"limonene",176,,15384
+PMC4786606,"monoterpene",14,,35187
+PMC4786606,"(+)-Limonene",9,,15382
+PMC4786606,"mevalonate",9,,25350
+PMC4786606,"hydroperoxides",8,,79974
+PMC4786606,"hydroxy",6,,43176
+PMC4786606,"terpenes",5,,35186
+PMC4786606,"isopentenyl diphosphate",5,,16584
+PMC4786606,"peptide",4,,16670
+PMC4786606,"protein",4,,16541
+PMC4786606,"dodecane",4,,28817
+PMC4786606,"isoprenoid",4,,24913
+PMC4786606,"epoxide",3,,32955
+PMC4786606,"methyl",3,,32875
+PMC4786606,"sesquiterpene",3,,35189
+PMC4786606,"farnesene",3,,39237
+PMC4786606,"dimethylallyl diphosphate",3,,57623
+PMC4786606,"1-deoxy-d-xylulose-5-phosphate",3,,57792
+PMC4786606,"aceto",2,,40574
+PMC4786606,"acetyl",2,,46887
+PMC4786606,"geranyl diphosphate",2,,58057
+PMC4786606,"terephthalic acid",2,,15702
+PMC4786606,"thiol",2,,29917
+PMC4786606,"glucose",2,,42758
+PMC4786606,"diterpenes",2,,35190
+PMC4786606,"sterols",2,,15889
+PMC4786606,"diphosphate",2,,33019
+PMC4786606,"neryl diphosphate",1,,57665
+PMC4786606,"polyprenyl diphosphates",1,,55337
+PMC4786606,"peptidoglycan",1,,8005
+PMC4786606,"ubiquinone",1,,46245
+PMC4786606,"phthalate",1,,26092
+PMC4786606,"carbon",1,,33415
+PMC4786606,"artemisinin",1,,223316
+PMC4786606,"prenyl diphosphate",1,,16057
+PMC4786606,"polydimethylsiloxane",1,,61468
+PMC4786606,"dibutyl phthalate",1,,34687
+PMC4786606,"organic molecules",1,,72695
+PMC4786606,"pinene",1,,17187
+PMC4786606,"alcohols",1,,30879
+PMC4786606,"oxygen",1,,25805
+PMC4786606,"olefin",1,,33641
+PMC4786606,"hydrocarbon",1,,24632
+PMC4786606,"l-limonene",1,,15383
+PMC4786606,"carveol",1,,23046
+PMC4786606,"carvone",1,,38265
+PMC4786606,"perillyl alcohol",1,,15420
+PMC4786606,"dien",1,,30629
+PMC4786606,"menth-8-ene-1,2-diol",1,,17219
+PMC4786606,"2-mercaptoethanol",1,,41218
+PMC4786606,"thioglycolate",1,,30066
+PMC4786606,"thioglycerol",1,,74537
+PMC4786606,"1-isopropyl-4-methylcyclohexane",1,,25826
+PMC4786606,"menthone",1,,36503
+PMC4786606,"benzene",1,,16716
+PMC4786606,"toluene",1,,17578
+PMC4786606,"ethylbenzene",1,,16101
+PMC4786606,"xylene",1,,27338
+PMC4786606,"thiols",1,,29256
+PMC4786606,"fatty-acid",1,,35366
+PMC4786606,"polyesters",1,,60160
+PMC4786606,"biopolymers",1,,33694
+PMC4786606,"polyethylene terephthalate",1,,61452
+PMC4786606,"isoprene",1,,35194
+PMC4786606,"rubber",1,,60185
+PMC4786606,"glycerol",1,,17754
+PMC4786606,"geranylgeranyl diphosphate",1,,57533
+PMC4786606,"carotenoid",1,,23044
+PMC4786606,"farnesyl diphosphate",1,,50277
+PMC4786606,"d-glyceraldehyde 3-phosphate",1,,59776
+PMC4786606,"d-erythritol-4-phosphate",1,,57508
+PMC4786606,"cytidine",1,,17562
+PMC4786606,"ethyl",1,,62801
+PMC4786606,"erythritol",1,,17113
+PMC4786955,"bipyridyl",9,,35545
+PMC4786955,"alkene",7,,32878
+PMC4786955,"water",7,,15377
+PMC4786955,"hydride",7,,29239
+PMC4786955,"flavin",6,,60531
+PMC4786955,"Ir(iii)",5,,49704
+PMC4786955,"methyl viologen",5,,28786
+PMC4786955,"glucose",5,,42758
+PMC4786955,"methyl",5,,32875
+PMC4786955,"Cinnamaldehyde",5,,16731
+PMC4786955,"Dimethyl",4,,42266
+PMC4786955,"2-pyridyl",4,,51641
+PMC4786955,"Carvone",4,,38265
+PMC4786955,"nicotinamide",3,,17154
+PMC4786955,"triethanolamine",3,,28621
+PMC4786955,"ruthenium",3,,30682
+PMC4786955,"oxygen",3,,25805
+PMC4786955,"Phenyl",3,,30396
+PMC4786955,"ketones",2,,17087
+PMC4786955,"aldehydes",2,,17478
+PMC4786955,"nitroalkenes",2,,50376
+PMC4786955,"cation",2,,36916
+PMC4786955,"butyl",2,,41264
+PMC4786955,"pyridin-3-yl",2,,51642
+PMC4786955,"pyridin-4-yl",2,,51643
+PMC4786955,"acetone",2,,15347
+PMC4786955,"diethyl ether",2,,35702
+PMC4786955,"ethanol",2,,44730
+PMC4786955,"ethyl acetate",2,,27750
+PMC4786955,"limonene",2,,15384
+PMC4786955,"radical",2,,26519
+PMC4786955,"halogen",2,,24473
+PMC4786955,"cyclohexanone",2,,17854
+PMC4786955,"dihydrocarvone",2,,23733
+PMC4786955,"nitro group",2,,29785
+PMC4786955,"iso-octane",2,,62805
+PMC4786955,"n-octanol",2,,37868
+PMC4786955,"nicotinamide adenine dinucleotide phosphate",1,,25523
+PMC4786955,"alcohols",1,,30879
+PMC4786955,"phosphite",1,,45064
+PMC4786955,"formate",1,,52343
+PMC4786955,"enones",1,,51689
+PMC4786955,"organic compounds",1,,50860
+PMC4786955,"ruthenium(ii) cation",1,,30686
+PMC4786955,"pentaerythritol tetranitrate",1,,31976
+PMC4786955,"trifluoromethyl",1,,50127
+PMC4786955,"trimethylamine",1,,58389
+PMC4786955,"2-methoxyethanol",1,,46790
+PMC4786955,"chloride salt",1,,23114
+PMC4786955,"Oligonucleotide",1,,7754
+PMC4786955,"quartz",1,,46727
+PMC4786955,"nitrogen",1,,25555
+PMC4786955,"reduced flavin",1,,62787
+PMC4786955,"arginine side chain",1,,50340
+PMC4786955,"xylene",1,,27338
+PMC4786955,"salts",1,,26710
+PMC4786955,"maleimides",1,,55417
+PMC4786955,"terpenoids",1,,26873
+PMC4786955,"succinimide",1,,9307
+PMC4786955,"monoterpenoid",1,,25409
+PMC4786955,"perillaldehyde",1,,15421
+PMC4786955,"aromatics",1,,33655
+PMC4786955,"sodium dithionite",1,,66870
+PMC4786955,"protein",1,,16541
+PMC4799292,"flavonoids",20,,72544
+PMC4799292,"Methyl",16,,32875
+PMC4799292,"hydroxy",12,,43176
+PMC4799292,"Norlignans",11,,53629
+PMC4799292,"Dimethyl",8,,42266
+PMC4799292,"dien",8,,30629
+PMC4799292,"Lignans",7,,25036
+PMC4799292,"propane",7,,45887
+PMC4799292,"methoxy",7,,44520
+PMC4799292,"Terpenoids",7,,26873
+PMC4799292,"Diterpenoids",7,,23849
+PMC4799292,"Amentoflavone",6,,2631
+PMC4799292,"triol",6,,27136
+PMC4799292,"ethyl acetate",6,,27750
+PMC4799292,"taxodone",6,,9420
+PMC4799292,"Hinokiflavone",5,,5721
+PMC4799292,"Quercetin",4,,57694
+PMC4799292,"flavone",4,,42491
+PMC4799292,"Gallocatechin",4,,68330
+PMC4799292,"Hydrocarbons",4,,24632
+PMC4799292,"naphthalenyl",4,,51140
+PMC4799292,"ethoxy",4,,42241
+PMC4799292,"carotenoids",3,,23044
+PMC4799292,"shikimic acid",3,,16119
+PMC4799292,"Phenyl",3,,30396
+PMC4799292,"ethyl",3,,62801
+PMC4799292,"Aldehydes",3,,17478
+PMC4799292,"glucoside",3,,24278
+PMC4799292,"Linalool",3,,17580
+PMC4799292,"Acetoxy",3,,48076
+PMC4799292,"2-Pentenoic acid",3,,35939
+PMC4799292,"monoterpenoids",3,,25409
+PMC4799292,"carbon",3,,33415
+PMC4799292,"phenylpropanoid",3,,26004
+PMC4799292,"chloroform",3,,35255
+PMC4799292,"Alcohols",2,,30879
+PMC4799292,"1-methylethyl",2,,30353
+PMC4799292,"Alkanes",2,,18310
+PMC4799292,"Esters",2,,35701
+PMC4799292,"Furans",2,,35559
+PMC4799292,"Ketones",2,,17087
+PMC4799292,"Lauric acid",2,,30805
+PMC4799292,"Myristic acid",2,,28875
+PMC4799292,"Palmitic acid",2,,15756
+PMC4799292,"Margaric acid",2,,32365
+PMC4799292,"Stearic acid",2,,28842
+PMC4799292,"Eicosanoic acid",2,,28822
+PMC4799292,"Tricetin",2,,60045
+PMC4799292,"Aromadendrin",2,,15401
+PMC4799292,"isoquercetin",2,,68352
+PMC4799292,"Catechin",2,,23053
+PMC4799292,"vanillic acid",2,,30816
+PMC4799292,"trien",2,,39501
+PMC4799292,"Humulene",2,,5768
+PMC4799292,"epoxide",2,,32955
+PMC4799292,"Tetraterpenoids",2,,26935
+PMC4799292,"propane-1,2,3-triol",2,,17754
+PMC4799292,"heterocycles",2,,5686
+PMC4799292,"biflavonoids",2,,50128
+PMC4799292,"Glucose",2,,42758
+PMC4799292,"diphenylmethanes",2,,38884
+PMC4799292,"stilbenoid",2,,26776
+PMC4799292,"bibenzyl",2,,34047
+PMC4799292,"radical",2,,26519
+PMC4799292,"n-hexane",2,,29021
+PMC4799292,"Arachidonic acid",2,,15843
+PMC4799292,"streptomycin",2,,58007
+PMC4799292,"waxes",1,,73702
+PMC4799292,"pentan-1-ol",1,,44884
+PMC4799292,"vinyl carbinol",1,,16605
+PMC4799292,"cyclohexane",1,,29005
+PMC4799292,"Cyclohexene",1,,36404
+PMC4799292,"Alkynes",1,,22339
+PMC4799292,"Amide",1,,32988
+PMC4799292,"Apocarotenoids",1,,53183
+PMC4799292,"Dihydrophaseic acid",1,,23757
+PMC4799292,"Octanoic acid",1,,28837
+PMC4799292,"Capric acid",1,,30813
+PMC4799292,"Tridecanoic acid",1,,45919
+PMC4799292,"Pentadecanoic acid",1,,42504
+PMC4799292,"Oleic acid",1,,16196
+PMC4799292,"Linoleic acid",1,,17351
+PMC4799292,"carboxylic acids",1,,33575
+PMC4799292,"Apigenin",1,,58470
+PMC4799292,"Cosmosiin",1,,16778
+PMC4799292,"Luteolin",1,,57545
+PMC4799292,"Kaempferol",1,,58573
+PMC4799292,"Afzelin",1,,80790
+PMC4799292,"Quercitrin",1,,58192
+PMC4799292,"Myricetin",1,,58395
+PMC4799292,"Myricitrin",1,,70082
+PMC4799292,"flavanone",1,,5070
+PMC4799292,"Isoginkgetin",1,,79087
+PMC4799292,"Sciadopitysin",1,,9050
+PMC4799292,"Ethene",1,,18153
+PMC4799292,"Aromatic hydrocarbons",1,,33658
+PMC4799292,"epoxy",1,,30721
+PMC4799292,"Quinic acid",1,,26493
+PMC4799292,"Camphene",1,,3830
+PMC4799292,"p-Cymene",1,,28768
+PMC4799292,"Limonene",1,,15384
+PMC4799292,"pinene",1,,17187
+PMC4799292,"Bisabolene",1,,49237
+PMC4799292,"Caryophyllene",1,,10357
+PMC4799292,"Totarol",1,,69241
+PMC4799292,"Lutein",1,,28838
+PMC4799292,"Sterols",1,,15889
+PMC4799292,"Saccharose",1,,17992
+PMC4799292,"letter",1,,6446
+PMC4799292,"buten",1,,48361
+PMC4799292,"Hexyl",1,,24593
+PMC4799292,"Icosane",1,,43619
+PMC4799292,"methylphenyl",1,,52553
+PMC4799292,"pyran",1,,35594
+PMC4799292,"octyl",1,,25657
+PMC4799292,"Isocyanate",1,,29202
+PMC4799292,"Sulphur",1,,26833
+PMC4799292,"water",1,,15377
+PMC4799292,"triterpenoid",1,,36615
+PMC4799292,"Sesquiterpenoids",1,,26658
+PMC4799292,"rhamnose",1,,27907
+PMC4799292,"glycosides",1,,24400
+PMC4799292,"a flavone",1,,24043
+PMC4799292,"a flavanone",1,,28863
+PMC4799292,"dimethylether",1,,28887
+PMC4799292,"propyl",1,,26308
+PMC4799292,"agatharesinol acetonide",1,,69978
+PMC4799292,"squalene",1,,15440
+PMC4799292,"tetracosane",1,,32936
+PMC4799292,"pentacosane",1,,32938
+PMC4799292,"butylated hydroxyanisole",1,,76359
+PMC4799292,"ascorbic acid",1,,29073
+PMC4799292,"superoxide anion radical",1,,18421
+PMC4799292,"hydroxyl radical",1,,29191
+PMC4799292,"lipid",1,,18059
+PMC4799292,"proanthocyanidin",1,,26267
+PMC4799292,"gallic acid",1,,30778
+PMC4799292,"sesquiterpenes",1,,35189
+PMC4799292,"peptide antibiotic",1,,25903
+PMC4799292,"nisin",1,,71629
+PMC4799292,"abietane",1,,35673
+PMC4799292,"sialic acid",1,,26667
+PMC4799292,"oseltamivir",1,,7798
+PMC4799292,"Tamiflu",1,,7799
+PMC4819710,"amine",11,,32952
+PMC4819710,"octanoic acid",11,,28837
+PMC4819710,"chemical compounds",9,,37577
+PMC4819710,"carvone",8,,38265
+PMC4819710,"acetophenone",6,,27632
+PMC4819710,"protein",5,,16541
+PMC4819710,"cyclohexylamine",5,,42939
+PMC4819710,"cyclohexanone",5,,17854
+PMC4819710,"phenylethylamine",4,,50048
+PMC4819710,"heptanoic acid",4,,45571
+PMC4819710,"acetate",4,,47622
+PMC4819710,"lactone",4,,25000
+PMC4819710,"heptanal",3,,34787
+PMC4819710,"nitrotoluene",3,,25566
+PMC4819710,"water",2,,15377
+PMC4819710,"sucrose",2,,17992
+PMC4819710,"dimethylsulphoxide",2,,28262
+PMC4819710,"octanal",2,,17935
+PMC4819710,"benzaldehyde",2,,17169
+PMC4819710,"ethyl",2,,62801
+PMC4819710,"thiols",2,,29256
+PMC4819710,"carbon",2,,33415
+PMC4819710,"phenylethyl alcohol",2,,49000
+PMC4819710,"nucleotides",1,,36976
+PMC4819710,"G418",1,,42768
+PMC4819710,"sodium",1,,29101
+PMC4819710,"pentobarbital",1,,7983
+PMC4819710,"paraformaldehyde",1,,61538
+PMC4819710,"Triton",1,,29234
+PMC4819710,"fluorescein",1,,31624
+PMC4819710,"ketamine",1,,6121
+PMC4819710,"glucose",1,,42758
+PMC4819710,"nystatin",1,,7660
+PMC4819710,"psi",1,,74981
+PMC4819710,"octanol",1,,37868
+PMC4819710,"cineole",1,,27961
+PMC4819710,"(+) limonene",1,,15382
+PMC4819710,"limonene",1,,15384
+PMC4819710,"(+) carvone",1,,15399
+PMC4819710,"alcohols",1,,30879
+PMC4819710,"aldehydes",1,,17478
+PMC4819710,"carboxylic acids",1,,33575
+PMC4819710,"esters",1,,35701
+PMC4819710,"ketones",1,,17087
+PMC4819710,"terpenes",1,,35186
+PMC4819710,"camphor",1,,36773
+PMC4819710,"isopentylamine",1,,43689
+PMC4819710,"phenethylamine",1,,18397
+PMC4819710,"nanotubes",1,,50796
+PMC4819710,"isobutyrate",1,,48944
+PMC4819710,"dihydrocarvone",1,,23733
+PMC4819710,"ethyl vanillin",1,,48408
+PMC4819710,"eugenol",1,,4917
+PMC4822282,"terpenes",13,,35186
+PMC4822282,"lactate",9,,24996
+PMC4822282,"phenols",8,,15882
+PMC4822282,"water",8,,15377
+PMC4822282,"pyrogallol",7,,16164
+PMC4822282,"nitrogen",6,,25555
+PMC4822282,"hexose",6,,18133
+PMC4822282,"citraconic acid",5,,17626
+PMC4822282,"pentose",5,,25901
+PMC4822282,"acetyl",4,,46887
+PMC4822282,"carbon",4,,33415
+PMC4822282,"Methanol",4,,44520
+PMC4822282,"adenosine",4,,16335
+PMC4822282,"raffinose",4,,16634
+PMC4822282,"Chloramphenicol",3,,17698
+PMC4822282,"streptomycin",3,,58007
+PMC4822282,"rhamnetin",3,,74992
+PMC4822282,"caffeic acid",3,,36281
+PMC4822282,"pyridoxine",3,,16709
+PMC4822282,"loganin",3,,15771
+PMC4822282,"vitamin B1",3,,33283
+PMC4822282,"guanosine",3,,16750
+PMC4822282,"uridine",3,,16704
+PMC4822282,"malic acid",3,,6650
+PMC4822282,"carvone",3,,38265
+PMC4822282,"chlorogenic acid",3,,16112
+PMC4822282,"chrysin",3,,75095
+PMC4822282,"quercetin",3,,57694
+PMC4822282,"pyruvate",3,,15361
+PMC4822282,"Letters",3,,6446
+PMC4822282,"Oxytetracycline",2,,27701
+PMC4822282,"fisetin",2,,42567
+PMC4822282,"nicotine",2,,18723
+PMC4822282,"vitexin",2,,57963
+PMC4822282,"tocopherol",2,,27013
+PMC4822282,"disaccharide",2,,36233
+PMC4822282,"maltotriose",2,,61993
+PMC4822282,"catechin",2,,23053
+PMC4822282,"saponarin",2,,75439
+PMC4822282,"vitamin B5",2,,46905
+PMC4822282,"vitamin B6",2,,27306
+PMC4822282,"xylitol",2,,17151
+PMC4822282,"arabitol",2,,22605
+PMC4822282,"oxaloacetate",2,,16452
+PMC4822282,"glycerol",2,,17754
+PMC4822282,"tributylamine",2,,38905
+PMC4822282,"organic compounds",1,,50860
+PMC4822282,"organic acids",1,,64709
+PMC4822282,"sugar alcohols",1,,17522
+PMC4822282,"phosphorus",1,,35895
+PMC4822282,"isoprenes",1,,35194
+PMC4822282,"pectin",1,,17309
+PMC4822282,"methyl",1,,32875
+PMC4822282,"nitrogenous compounds",1,,51143
+PMC4822282,"Ammonia",1,,16134
+PMC4822282,"aconitic acid",1,,22211
+PMC4822282,"ornithine",1,,46912
+PMC4822282,"glycerol 3-phosphate",1,,15978
+PMC4822282,"glucose",1,,42758
+PMC4822282,"citrate",1,,50744
+PMC4822282,"nucleotides",1,,36976
+PMC4822282,"hydroxyproline",1,,24741
+PMC4822282,"Nucleobases",1,,18282
+PMC4822282,"adenine",1,,16708
+PMC4822282,"uracil",1,,17568
+PMC4822282,"Nucleosides",1,,33838
+PMC4822282,"cytidine",1,,17562
+PMC4822282,"adenosine monophosphate",1,,16027
+PMC4822282,"citric acid",1,,30769
+PMC4822282,"lactic acid",1,,78320
+PMC4822282,"oxaloacetic acid",1,,30744
+PMC4822282,"pyruvic acid",1,,32816
+PMC4822282,"shikimic acid",1,,16119
+PMC4822282,"succinic acid",1,,15741
+PMC4822282,"abscisic acid",1,,2365
+PMC4822282,"ascorbic acid",1,,29073
+PMC4822282,"adonitol",1,,15963
+PMC4822282,"ribitol",1,,48505
+PMC4822282,"jasmonic acid",1,,18292
+PMC4822282,"riboflavin",1,,57986
+PMC4822282,"vitamin B2",1,,17015
+PMC4822282," Sec",1,,32746
+PMC4822282,"secologanin",1,,18002
+PMC4822282,"choline",1,,15354
+PMC4822282,"pantothenic acid",1,,7916
+PMC4822282,"coumaric acid",1,,23401
+PMC4822282,"d-pinitol",1,,28548
+PMC4822282,"ferulic acid",1,,17620
+PMC4822282,"homoorientin",1,,17965
+PMC4822282,"kaempferol",1,,58573
+PMC4822282,"protocatechuic acid",1,,36062
+PMC4822282,"sinapinic acid",1,,15714
+PMC4822282,"sodium salicylate",1,,9180
+PMC4822282,"vanillic acid",1,,30816
+PMC4822282,"isoprenoid",1,,24913
+PMC4822282,"shikimate",1,,36208
+PMC4822282,"oxygen",1,,25805
+PMC4822282,"acetic acid",1,,15366
+PMC4822282,"caffeine",1,,27732
+PMC4822282,"phthalates",1,,26092

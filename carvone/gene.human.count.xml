@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="30">TRPA1</result>
+ <result title="frequency" count="25">BMP4</result>
+ <result title="frequency" count="15">EGFR</result>
+ <result title="frequency" count="15">PKS13</result>
+ <result title="frequency" count="15">PKS4</result>
+ <result title="frequency" count="10">BCRP</result>
+ <result title="frequency" count="5">GABRB3</result>
+ <result title="frequency" count="5">LUC</result>
+ <result title="frequency" count="5">BMP</result>
+ <result title="frequency" count="4">DXS</result>
+ <result title="frequency" count="4">GH146</result>
+ <result title="frequency" count="4">CG34113</result>
+ <result title="frequency" count="3">CG30440</result>
+ <result title="frequency" count="3">CG42313</result>
+ <result title="frequency" count="3">CG6424</result>
+ <result title="frequency" count="3">GAPDH</result>
+ <result title="frequency" count="3">MSE</result>
+ <result title="frequency" count="3">GAL4</result>
+ <result title="frequency" count="2">AACT</result>
+ <result title="frequency" count="2">IDI</result>
+ <result title="frequency" count="2"> THOC4</result>
+ <result title="frequency" count="2">HMGS</result>
+ <result title="frequency" count="2">HMGR</result>
+ <result title="frequency" count="2"> DHRS2</result>
+ <result title="frequency" count="2"> ACTBL3</result>
+ <result title="frequency" count="2">NKB</result>
+ <result title="frequency" count="2"> HIST1H2BD</result>
+ <result title="frequency" count="2"> PGAM1</result>
+ <result title="frequency" count="2"> YBX1</result>
+ <result title="frequency" count="2">MVK</result>
+ <result title="frequency" count="2">LUMO</result>
+ <result title="frequency" count="2">HOMO</result>
+ <result title="frequency" count="2"> RAB37</result>
+ <result title="frequency" count="2"> TP53</result>
+ <result title="frequency" count="2"> ACTB</result>
+ <result title="frequency" count="2"> HSPA6</result>
+ <result title="frequency" count="2"> LOC728188</result>
+ <result title="frequency" count="2">PMD</result>
+ <result title="frequency" count="2"> TRAPPC6A</result>
+ <result title="frequency" count="2">SWS</result>
+ <result title="frequency" count="2">PMK</result>
+ <result title="frequency" count="2">VT40053</result>
+ <result title="frequency" count="2"> LYAR</result>
+ <result title="frequency" count="1"> CID </result>
+ <result title="frequency" count="1">IPP</result>
+ <result title="frequency" count="1">COMT</result>
+ <result title="frequency" count="1">GPPS</result>
+ <result title="frequency" count="1"> HIST2H2AA4</result>
+ <result title="frequency" count="1">SCN9A</result>
+ <result title="frequency" count="1">IDS</result>
+ <result title="frequency" count="1"> FOSB</result>
+ <result title="frequency" count="1">KPNA2</result>
+ <result title="frequency" count="1">CMK</result>
+ <result title="frequency" count="1">MIC</result>
+ <result title="frequency" count="1">UNIP</result>
+ <result title="frequency" count="1">LST</result>
+ <result title="frequency" count="1"> SMILES </result>
+ <result title="frequency" count="1">OR3</result>
+ <result title="frequency" count="1">SR1</result>
+ <result title="frequency" count="1">MEP</result>
+ <result title="frequency" count="1">DMAPP</result>
+ <result title="frequency" count="1"> HIST2H2AC</result>
+ <result title="frequency" count="1">DXR</result>
+ <result title="frequency" count="1">OPRD1</result>
+ <result title="frequency" count="1">PPC</result>
+ <result title="frequency" count="1">ABCB1</result>
+ <result title="frequency" count="1">UAS</result>
+ <result title="frequency" count="1"> HNRNPK</result>
+ <result title="frequency" count="1">TLC</result>
+ <result title="frequency" count="1">GR21</result>
+ <result title="frequency" count="1"> JUN</result>
+ <result title="frequency" count="1">MBC</result>
+ <result title="frequency" count="1"> MYCN</result>
+ <result title="frequency" count="1">MDR1</result>
+ <result title="frequency" count="1">HDS</result>
+ <result title="frequency" count="1">TPS</result>
+ <result title="frequency" count="1">BMP4 </result>
+ <result title="frequency" count="1">HDR</result>
+ <result title="frequency" count="1"> KPNA2</result>
+ <result title="frequency" count="1">FID</result>
+ <result title="frequency" count="1">TRPV1</result>
+ <result title="frequency" count="1">NMR</result>
+ <result title="frequency" count="1">GA3P</result>
+ <result title="frequency" count="1">MCS</result>
+ <result title="frequency" count="1"> RUVBL1</result>
+ <result title="frequency" count="1">MSTPS2</result>
+ <result title="frequency" count="1">GLC</result>
+</results>

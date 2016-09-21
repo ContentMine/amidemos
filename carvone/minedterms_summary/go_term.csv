@@ -1,0 +1,1186 @@
+article,go_term,count,dbName,dbId
+PMC3915084,"Growth",22,,0040007
+PMC3915084,"mucous",2,,0070701
+PMC3915084,"membranes",2,,0016020
+PMC3915084,"secretions",1,,0046903
+PMC3915084,"cells",1,,0005623
+PMC3920264,"formation",9,,0009058
+PMC3920264,"uptake",2,,0098657
+PMC3920264,"protein synthesis",1,,0006412
+PMC3920264,"fermentation",1,,0006113
+PMC3953398,"cell",2,,0005623
+PMC3953398,"hood",1,,1990343
+PMC3953398,"memory",1,,0007613
+PMC3953398,"transport",1,,0006810
+PMC3953398,"drug transport",1,,0015893
+PMC3954529,"Synthesis",3,,0009058
+PMC3954529,"cell",2,,0005623
+PMC3954529,"antioxidant activity",1,,0016209
+PMC3961117,"growth",11,,0040007
+PMC3961117,"cells",6,,0005623
+PMC3961117,"cytoplasmic membrane",4,,0005886
+PMC3961117,"membrane",3,,0016020
+PMC3961117,"ribosome",2,,0005840
+PMC3961117,"metabolism",1,,0008152
+PMC3961117,"cell division",1,,0051301
+PMC3961117,"cell death",1,,0008219
+PMC3977348,"cells",173,,0005623
+PMC3977348,"cell cycle",18,,0007049
+PMC3977348,"neurogenesis",15,,0022008
+PMC3977348,"memory",13,,0007613
+PMC3977348,"antibodies",13,,0042571
+PMC3977348,"habituation",10,,0046959
+PMC3977348,"dishabituation",7,,0097270
+PMC3977348,"signaling",4,,0023052
+PMC3977348,"binding",4,,0005488
+PMC3977348,"learning",2,,0007612
+PMC3977348,"olfactory behavior",1,,0042048
+PMC3977348,"mitosis",1,,0007067
+PMC3977348,"digestion",1,,0007586
+PMC3977348,"nucleus",1,,0005634
+PMC3977348,"intracellular",1,,0005622
+PMC3977348,"Neuroblast migration",1,,0097402
+PMC3977348,"behaviors",1,,0007610
+PMC4005389,"olfaction",8,,0007608
+PMC4005389,"nociception",5,,0019233
+PMC4005389,"reproduction",2,,0000003
+PMC4005389,"cells",1,,0005623
+PMC4005389,"translation",1,,0006412
+PMC4005389,"calcium signaling",1,,0019722
+PMC4005389,"hypersensitivity",1,,0002524
+PMC4005389,"chromosome",1,,0005694
+PMC4005389,"responses to pain",1,,0048265
+PMC4005389,"localization",1,,0051179
+PMC4007251,"degradation",2,,0009056
+PMC4007251,"behaviour",2,,0007610
+PMC4011571,"synthesis",10,,0009058
+PMC4015331,"formation",2,,0009058
+PMC4015331,"cell",1,,0005623
+PMC4015331,"behaviour",1,,0007610
+PMC4017146,"olfaction",2,,0007608
+PMC4017146,"learning",2,,0007612
+PMC4017146,"degradation",1,,0009056
+PMC4017146,"social behavior",1,,0035176
+PMC4065700,"growth",13,,0040007
+PMC4065700,"cell",8,,0005623
+PMC4065700,"membrane",6,,0016020
+PMC4065700,"cell membrane",4,,0005886
+PMC4065700,"degradation",3,,0009056
+PMC4065700,"pores",3,,0046930
+PMC4065700,"synthesis",2,,0009058
+PMC4065700,"interphase",1,,0051325
+PMC4065700,"intracellular",1,,0005622
+PMC4065700,"iron-binding",1,,0005506
+PMC4065700,"cell surface",1,,0009986
+PMC4065700,"micropinocytosis",1,,0044350
+PMC4065700,"endocytosis",1,,0006897
+PMC4065700,"pore formation",1,,0046931
+PMC4079982,"learning",19,,0007612
+PMC4079982,"tastes",19,,0050909
+PMC4079982,"behavior",6,,0007610
+PMC4079982,"disc",4,,0031264
+PMC4079982,"Olfaction",2,,0007608
+PMC4079982,"habituation",2,,0046959
+PMC4079982,"olfactory learning",1,,0008355
+PMC4079982,"drinking behavior",1,,0042756
+PMC4079982,"long-term memory",1,,0007616
+PMC4079982,"formation",1,,0009058
+PMC4079982,"responses to food",1,,0032094
+PMC4097962,"degradation",12,,0009056
+PMC4097962,"formation",9,,0009058
+PMC4097962,"cell",6,,0005623
+PMC4097962,"monoterpene metabolism",5,,0043692
+PMC4097962,"growth",5,,0040007
+PMC4097962,"mineralization",4,,0031214
+PMC4097962,"detoxification",3,,0098754
+PMC4097962,"pinene degradation",3,,0033074
+PMC4097962,"limonene degradation",3,,0046251
+PMC4097962,"transports",2,,0006810
+PMC4097962,"membrane",2,,0016020
+PMC4097962,"excretion",1,,0007588
+PMC4097962,"efflux pumps",1,,1990281
+PMC4097962,"p-cumate degradation",1,,1901782
+PMC4097962,"metabolism",1,,0008152
+PMC4097962,"monooxygenase activity",1,,0004497
+PMC4097962,"Enzyme activities",1,,0003824
+PMC4097962,"limonene metabolism",1,,0018923
+PMC4097962,"leucine degradation",1,,0006552
+PMC4097962,"terpenoid metabolism",1,,0006721
+PMC4115348,"menstruation",9,,0042703
+PMC4115348,"capsule",9,,0042603
+PMC4115348,"menarche",2,,0042696
+PMC4115348,"myometrial contractions",2,,0070471
+PMC4115348,"menstrual cycles",2,,0044850
+PMC4115348,"hypersensitivity",1,,0002524
+PMC4115348,"digestion",1,,0007586
+PMC4115348,"synthesis",1,,0009058
+PMC4115348,"intracellular",1,,0005622
+PMC4156257,"formation",2,,0009058
+PMC4157029,"binding",1,,0005488
+PMC4157029,"nervous system development",1,,0007399
+PMC4157029,"behavior",1,,0007610
+PMC4157029,"cognition",1,,0050890
+PMC4157029,"metabolism",1,,0008152
+PMC4161876,"cell",96,,0005623
+PMC4161876,"antibody",15,,0042571
+PMC4161876,"Gene Expression",12,,0010467
+PMC4161876,"signaling",8,,0023052
+PMC4161876,"synthesis",7,,0009058
+PMC4161876,"localization",4,,0051179
+PMC4161876,"Membrane",3,,0016020
+PMC4161876,"intracellular",2,,0005622
+PMC4161876,"behavior",2,,0007610
+PMC4161876,"plasma membrane",2,,0005886
+PMC4161876,"taste",2,,0050909
+PMC4161876,"dopamine synthesis",1,,0042416
+PMC4161876,"metabolism",1,,0008152
+PMC4161876,"digestion",1,,0007586
+PMC4161876,"Odorants binding",1,,0005549
+PMC4161876,"axon",1,,0030424
+PMC4161876,"growth cone",1,,0030426
+PMC4161876,"binding",1,,0005488
+PMC4161876,"olfaction",1,,0007608
+PMC4161876,"chemotaxis",1,,0006935
+PMC4161876,"regeneration",1,,0031099
+PMC4161876,"cell adhesion",1,,0007155
+PMC4161876,"axon guidance",1,,0007411
+PMC4161876,"transcription factor binding",1,,0008134
+PMC4161876,"signal transduction",1,,0007165
+PMC4202545,"cells",1,,0005623
+PMC4202545,"chloride channel complex",1,,0034707
+PMC4202545,"glutamate binding",1,,0016595
+PMC4204956,"cell growth",16,,0016049
+PMC4204956,"growth",10,,0040007
+PMC4204956,"cell",9,,0005623
+PMC4204956,"quorum sensing",6,,0009372
+PMC4204956,"cell communication",3,,0007154
+PMC4204956,"signaling",3,,0023052
+PMC4204956,"degradation",2,,0009056
+PMC4204956,"gene expression",1,,0010467
+PMC4204956,"extracellular",1,,0005576
+PMC4204956,"sporulation",1,,0043934
+PMC4204956,"biofilm formation",1,,0042710
+PMC4204956,"synthesis",1,,0009058
+PMC4204956,"host",1,,0018995
+PMC4204956,"pathogenesis",1,,0009405
+PMC4204956,"antibodies",1,,0042571
+PMC4204956,"binding",1,,0005488
+PMC4206695,"Synthesis",15,,0009058
+PMC4209970,"hosts",5,,0018995
+PMC4209970,"behavior",4,,0007610
+PMC4209970,"mating",2,,0007618
+PMC4209970,"oviposition",2,,0018991
+PMC4209970,"action potential",1,,0001508
+PMC4220615,"cells",419,,0005623
+PMC4220615,"cell cycle arrest",34,,0007050
+PMC4220615,"growth",15,,0040007
+PMC4220615,"antioxidant activity",11,,0016209
+PMC4220615,"cell proliferation",8,,0008283
+PMC4220615,"cell death",7,,0008219
+PMC4220615,"signaling",6,,0023052
+PMC4220615,"synthesis",6,,0009058
+PMC4220615,"detoxification",5,,0098754
+PMC4220615,"deaths",4,,0016265
+PMC4220615,"angiogenesis",4,,0001525
+PMC4220615,"prenylation",4,,0097354
+PMC4220615,"cell growth",3,,0016049
+PMC4220615,"binding",3,,0005488
+PMC4220615,"gap junction",3,,0005921
+PMC4220615,"protein prenylation",3,,0018342
+PMC4220615,"proteasome",2,,0000502
+PMC4220615,"spindle",2,,0005819
+PMC4220615,"phosphorylation",2,,0016310
+PMC4220615,"crown",2,,0070685
+PMC4220615,"membrane",2,,0016020
+PMC4220615,"telomerase activity",2,,0003720
+PMC4220615,"lipid metabolism",2,,0006629
+PMC4220615,"cell differentiation",2,,0030154
+PMC4220615,"gene expression",2,,0010467
+PMC4220615,"metabolism",1,,0008152
+PMC4220615,"uptake",1,,0098657
+PMC4220615,"G1 phase",1,,0051318
+PMC4220615,"cellular metabolism",1,,0044237
+PMC4220615,"translation",1,,0006412
+PMC4220615,"degradation",1,,0009056
+PMC4220615,"cholesterol synthesis",1,,0006695
+PMC4220615,"pathogenesis",1,,0009405
+PMC4220615,"cell cycle",1,,0007049
+PMC4220615,"polyamine biosynthesis",1,,0006596
+PMC4220615,"mitochondrial membrane depolarization",1,,0051882
+PMC4220615,"cell-cycle checkpoints",1,,0000075
+PMC4220615,"ubiquinone synthesis",1,,0006744
+PMC4224956,"vesicles",12,,0031982
+PMC4224956,"mating",7,,0007618
+PMC4224956,"spermatogenesis",7,,0007283
+PMC4224956,"sperm motility",6,,0030317
+PMC4224956,"cells",5,,0005623
+PMC4224956,"crown",4,,0070685
+PMC4224956,"growth",3,,0040007
+PMC4224956,"secretion",3,,0046903
+PMC4224956,"antioxidant activity",1,,0016209
+PMC4224956,"proestrus",1,,0060208
+PMC4232691,"synthesis",16,,0009058
+PMC4232691,"cell",10,,0005623
+PMC4232691,"Plastids",9,,0009536
+PMC4232691,"cell wall",5,,0005618
+PMC4232691,"localization",5,,0051179
+PMC4232691,"terpene metabolism",3,,0042214
+PMC4232691,"secretion",3,,0046903
+PMC4232691,"secondary metabolism",2,,0019748
+PMC4232691,"terpene biosynthesis",2,,0046246
+PMC4232691,"transport",2,,0006810
+PMC4232691,"starch biosynthesis",2,,0019252
+PMC4232691,"cytoplasm",2,,0005737
+PMC4232691,"gene expression",2,,0010467
+PMC4232691,"growth",2,,0040007
+PMC4232691,"monoterpene biosynthesis",1,,0043693
+PMC4232691,"binding",1,,0005488
+PMC4232691,"intracellular transport",1,,0046907
+PMC4232691,"cell wall modification",1,,0042545
+PMC4232691,"ribosome biogenesis",1,,0042254
+PMC4232691,"ribosome",1,,0005840
+PMC4232691,"translation",1,,0006412
+PMC4232691,"tricarboxylic acid cycle",1,,0006099
+PMC4232691,"fatty acid synthesis",1,,0006633
+PMC4232691,"photosynthesis",1,,0015979
+PMC4232691,"chlorophyll biosynthesis",1,,0015995
+PMC4232691,"sucrose catabolism",1,,0005987
+PMC4232691,"chloroplasts",1,,0009507
+PMC4232691,"oxidative pentose phosphate pathway",1,,0009051
+PMC4232691,"Phosphoenolpyruvate/phosphate translocator",1,,0015121
+PMC4232691,"oxidative phosphorylation",1,,0006119
+PMC4232691,"mitochondria",1,,0005739
+PMC4232691,"enzyme activity",1,,0003824
+PMC4232691,"embryogenesis",1,,0009790
+PMC4232691,"sesquiterpene metabolism",1,,0051761
+PMC4232691,"germplasm",1,,0060293
+PMC4232691,"defense responses",1,,0006952
+PMC4232691,"cellular localization",1,,0051641
+PMC4232691,"reverse transcription",1,,0001171
+PMC4232691,"geranyl diphosphate synthase",1,,0004161
+PMC4293675,"synthesis",6,,0009058
+PMC4293675,"cells",5,,0005623
+PMC4293675,"fermentation",2,,0006113
+PMC4293675,"catalytic activity",1,,0003824
+PMC4293675,"glycosylation",1,,0070085
+PMC4293675,"growth",1,,0040007
+PMC4293675,"demethylation",1,,0070988
+PMC4309438,"binding",56,,0005488
+PMC4309438,"transduction",3,,0009293
+PMC4309438,"mucus",3,,0070701
+PMC4309438,"formation",3,,0009058
+PMC4309438,"cells",2,,0005623
+PMC4309438,"olfaction",1,,0007608
+PMC4309438,"protein complex",1,,0043234
+PMC4309438,"membrane",1,,0016020
+PMC4309438,"digestion",1,,0007586
+PMC4309438,"memory",1,,0007613
+PMC4309438,"behaviour",1,,0007610
+PMC4309438,"no binding",1,,0070026
+PMC4309438,"protein binding",1,,0005515
+PMC4311404,"formation",1,,0009058
+PMC4311404,"cell growth",1,,0016049
+PMC4311404,"growth",1,,0040007
+PMC4311404,"cell",1,,0005623
+PMC4311404,"conjugation",1,,0000746
+PMC4311404,"antibodies",1,,0042571
+PMC4311427,"binding",6,,0005488
+PMC4311427,"oviposition",4,,0018991
+PMC4311427,"aging",4,,0007568
+PMC4311427,"hosts",3,,0018995
+PMC4311427,"olfaction",3,,0007608
+PMC4311427,"metabolic process",3,,0008152
+PMC4311427,"behavior",3,,0007610
+PMC4311427,"metamorphosis",2,,0007552
+PMC4311427,"pollination",2,,0009856
+PMC4311427,"Signal transduction",2,,0007165
+PMC4311427,"uptake",2,,0098657
+PMC4311427,"copulation",2,,0007620
+PMC4311427,"odorant-binding",1,,0005549
+PMC4311427,"immune response",1,,0006955
+PMC4311427,"cellular process",1,,0009987
+PMC4311427,"single-organism process",1,,0044699
+PMC4311427,"biological regulation",1,,0065007
+PMC4311427,"cell",1,,0005623
+PMC4311427,"cell part",1,,0044464
+PMC4311427,"organelle",1,,0043226
+PMC4311427,"membrane",1,,0016020
+PMC4311427,"catalytic activity",1,,0003824
+PMC4311427,"translation",1,,0006412
+PMC4311427,"transport",1,,0006810
+PMC4311427,"catabolism",1,,0009056
+PMC4311427,"synaptic transmission",1,,0007268
+PMC4311427,"mating",1,,0007618
+PMC4311427,"localization",1,,0051179
+PMC4311427,"mating behavior",1,,0007617
+PMC4311427,"growth",1,,0040007
+PMC4311427,"feeding behavior",1,,0007631
+PMC4311427,"Synthesis",1,,0009058
+PMC4319901,"Cell",13,,0005623
+PMC4319901,"death",3,,0016265
+PMC4319901,"Androstenedione",1,,1903449
+PMC4319901,"Yolk",1,,0060417
+PMC4319901,"learning",1,,0007612
+PMC4319901,"detoxification",1,,0098754
+PMC4322175,"cells",20,,0005623
+PMC4322175,"estrous cycles",12,,0044849
+PMC4322175,"cytoplasm",6,,0005737
+PMC4322175,"mating",5,,0007618
+PMC4322175,"diestrus",5,,0060207
+PMC4322175,"estrus",4,,0060209
+PMC4322175,"endoplasmic reticulum",4,,0005783
+PMC4322175,"crown",3,,0070685
+PMC4322175,"proestrus",3,,0060208
+PMC4322175,"mitochondria",3,,0005739
+PMC4322175,"binding",3,,0005488
+PMC4322175,"cell membrane",2,,0005886
+PMC4322175,"cortical granules",2,,0060473
+PMC4322175,"secretion",2,,0046903
+PMC4322175,"fertilization",2,,0009566
+PMC4322175,"spermatogenesis",1,,0007283
+PMC4322175,"smooth endoplasmic reticulum",1,,0005790
+PMC4322175,"rough endoplasmic reticulum",1,,0005791
+PMC4322175,"vacuoles",1,,0005773
+PMC4322175,"membrane",1,,0016020
+PMC4322175,"Nucleus",1,,0005634
+PMC4322175,"Nucleolus",1,,0005730
+PMC4322175,"progesterone secretion",1,,0042701
+PMC4322175,"synthesis",1,,0009058
+PMC4322175,"metabolism",1,,0008152
+PMC4322175,"oocyte maturation",1,,0001556
+PMC4322175,"transport",1,,0006810
+PMC4322175,"organelles",1,,0043226
+PMC4322175,"growth",1,,0040007
+PMC4327056,"fruit development",5,,0010154
+PMC4327056,"fertilizations",4,,0009566
+PMC4327056,"fruit ripening",2,,0009835
+PMC4327056,"cell",1,,0005623
+PMC4327056,"biosynthesis",1,,0009058
+PMC4327056,"oil bodies",1,,0012511
+PMC4327056,"behavior",1,,0007610
+PMC4327056,"vision",1,,0007601
+PMC4327056,"learning",1,,0007612
+PMC4327056,"growth",1,,0040007
+PMC4327928,"binding",18,,0005488
+PMC4327928,"enzyme activity",4,,0003824
+PMC4327928,"formation",3,,0009058
+PMC4327928,"growth",2,,0040007
+PMC4327928,"protein folding",1,,0006457
+PMC4327928,"protein unfolding",1,,0043335
+PMC4327928,"cell",1,,0005623
+PMC4339706,"Biofilm Formation",22,,0042710
+PMC4339706,"growth",15,,0040007
+PMC4339706,"gene expression",6,,0010467
+PMC4339706,"formation",5,,0009058
+PMC4339706,"cells",3,,0005623
+PMC4339706,"extracellular",2,,0005576
+PMC4339706,"binding",2,,0005488
+PMC4339706,"carbohydrate metabolism",1,,0005975
+PMC4339706,"membrane",1,,0016020
+PMC4339706,"pore",1,,0046930
+PMC4339706,"cell surface",1,,0009986
+PMC4339706,"glucose uptake",1,,0046323
+PMC4344607,"biosynthesis",55,,0009058
+PMC4344607,"cell",13,,0005623
+PMC4344607,"chloroplasts",11,,0009507
+PMC4344607,"vesicles",7,,0031982
+PMC4344607,"growth",3,,0040007
+PMC4344607,"cell periphery",2,,0071944
+PMC4344607,"metal-binding",2,,0046872
+PMC4344607,"intracellular",2,,0005622
+PMC4344607,"membrane",2,,0016020
+PMC4344607,"cytoplasm",2,,0005737
+PMC4344607,"organelle",2,,0043226
+PMC4344607,"microfilaments",1,,0005884
+PMC4344607,"microtubules",1,,0005874
+PMC4344607,"exocytosis",1,,0006887
+PMC4344607,"vesicle transport",1,,0016192
+PMC4344607,"cell surface",1,,0009986
+PMC4344607,"plastoglobules",1,,0010287
+PMC4344607,"triterpenoid biosynthesis",1,,0016104
+PMC4344607,"Golgi apparatus",1,,0005794
+PMC4344607,"secondary metabolism",1,,0019748
+PMC4344607,"signaling",1,,0023052
+PMC4344607,"localization",1,,0051179
+PMC4344607,"fermentation",1,,0006113
+PMC4346696,"cells",11,,0005623
+PMC4346696,"immune response",10,,0006955
+PMC4346696,"host",10,,0018995
+PMC4346696,"growth",5,,0040007
+PMC4346696,"death",3,,0016265
+PMC4346696,"schizogony",2,,0020014
+PMC4346696,"sporulation",2,,0043934
+PMC4346696,"cell membrane",2,,0005886
+PMC4346696,"transport",2,,0006810
+PMC4346696,"fermentation",2,,0006113
+PMC4346696,"excretions",2,,0007588
+PMC4346696,"intracellular",1,,0005622
+PMC4346696,"organelles",1,,0043226
+PMC4346696,"apical complex",1,,0020007
+PMC4346696,"micronemes",1,,0020009
+PMC4346696,"rhoptries",1,,0020008
+PMC4346696,"conoid",1,,0020010
+PMC4346696,"host invasion",1,,0044409
+PMC4346696,"host cell invasion",1,,0030260
+PMC4346696,"asexual reproduction",1,,0019954
+PMC4346696,"fertilization",1,,0009566
+PMC4346696,"cell cycle",1,,0007049
+PMC4346696,"degradation",1,,0009056
+PMC4346696,"cytoplasm",1,,0005737
+PMC4346696,"uptake",1,,0098657
+PMC4346696,"cellular respiration",1,,0045333
+PMC4346696,"mitochondrion",1,,0005739
+PMC4346696,"antioxidant activities",1,,0016209
+PMC4346696,"cell proliferation",1,,0008283
+PMC4346696,"lymphocyte proliferation",1,,0046651
+PMC4346696,"oxidative bursts",1,,0045730
+PMC4346696,"cytokine production",1,,0001816
+PMC4346696,"Mucus",1,,0070701
+PMC4346696,"cell walls",1,,0005618
+PMC4353025,"Synthesis",50,,0009058
+PMC4353025,"binding",5,,0005488
+PMC4353025,"intracellular",2,,0005622
+PMC4353025,"extracellular",1,,0005576
+PMC4353025,"membrane",1,,0016020
+PMC4353025,"sarcoplasmic reticulum",1,,0016529
+PMC4353025,"glycosylation",1,,0070085
+PMC4353025,"conjugation",1,,0000746
+PMC4353025,"cells",1,,0005623
+PMC4355985,"chromosome",2,,0005694
+PMC4355985,"behavior",1,,0007610
+PMC4355985,"mucous",1,,0070701
+PMC4355985,"membranes",1,,0016020
+PMC4355985,"synthesis",1,,0009058
+PMC4356138,"synthesis",21,,0009058
+PMC4356138,"plastid",7,,0009536
+PMC4356138,"starch metabolism",4,,0005982
+PMC4356138,"metabolism",4,,0008152
+PMC4356138,"cytosol",4,,0005829
+PMC4356138,"membrane",3,,0016020
+PMC4356138,"fruit ripening",3,,0009835
+PMC4356138,"gene expression",2,,0010467
+PMC4356138,"citric acid cycle",2,,0006099
+PMC4356138,"secondary metabolism",1,,0019748
+PMC4356138,"terpenoid biosynthesis",1,,0016114
+PMC4356138,"glutamate synthesis",1,,0006537
+PMC4356138,"binding",1,,0005488
+PMC4356138,"translation elongation",1,,0006414
+PMC4356138,"terpene synthesis",1,,0046246
+PMC4356138,"lipid metabolism",1,,0006629
+PMC4356138,"carbohydrate metabolism",1,,0005975
+PMC4356138,"cytoplasm",1,,0005737
+PMC4356138,"cell wall",1,,0005618
+PMC4356138,"degradation",1,,0009056
+PMC4356138,"cells",1,,0005623
+PMC4356138,"ascorbate-glutathione cycle",1,,0033355
+PMC4356138,"enzyme activity",1,,0003824
+PMC4356138,"transport",1,,0006810
+PMC4356138,"pigmentation",1,,0043473
+PMC4356138,"protein digestion",1,,0044256
+PMC4356138,"reverse transcription",1,,0001171
+PMC4359887,"Cell",20,,0005623
+PMC4359887,"growth",5,,0040007
+PMC4359887,"intracellular",1,,0005622
+PMC4371224,"cells",17,,0005623
+PMC4371224,"growth",2,,0040007
+PMC4371224,"death",2,,0016265
+PMC4371224,"plasma membrane",2,,0005886
+PMC4371224,"membranes",2,,0016020
+PMC4371224,"synthesis",2,,0009058
+PMC4371224,"host cell",1,,0043657
+PMC4371224,"cell death",1,,0008219
+PMC4371224,"demethylation",1,,0070988
+PMC4371224,"phospholipid metabolism",1,,0006644
+PMC4371224,"host cell membrane",1,,0033644
+PMC4371224,"intracellular",1,,0005622
+PMC4372811,"cells",59,,0005623
+PMC4372811,"signaling",14,,0023052
+PMC4372811,"antibody",7,,0042571
+PMC4372811,"binding",6,,0005488
+PMC4372811,"intracellular",5,,0005622
+PMC4372811,"dendritic knobs",3,,0098788
+PMC4372811,"bioluminescence",3,,0008218
+PMC4372811,"mucus",2,,0070701
+PMC4372811,"nerve endings",2,,0043679
+PMC4372811,"transduction",2,,0009293
+PMC4372811,"phosphorylation",1,,0016310
+PMC4372811,"secretion",1,,0046903
+PMC4372811,"Odorant Receptor Activity",1,,0004984
+PMC4372811,"behaviors",1,,0007610
+PMC4372811,"signal transduction",1,,0007165
+PMC4372811,"mating",1,,0007618
+PMC4372811,"action potentials",1,,0001508
+PMC4372811,"innervation",1,,0060384
+PMC4372811,"sensory processing",1,,0050893
+PMC4372811,"endoplasmic reticulum",1,,0005783
+PMC4372811,"cell-surface",1,,0009986
+PMC4372811,"sense of smell",1,,0007608
+PMC4387231,"cells",22,,0005623
+PMC4387231,"formation",12,,0009058
+PMC4387231,"capsule",3,,0042603
+PMC4387231,"binding",3,,0005488
+PMC4387231,"mitochondria",3,,0005739
+PMC4387231,"blebs",3,,0032059
+PMC4387231,"plasma membrane",3,,0005886
+PMC4387231,"death",2,,0016265
+PMC4387231,"lipogenesis",2,,0008610
+PMC4387231,"gene expression",2,,0010467
+PMC4387231,"intracellular",2,,0005622
+PMC4387231,"vacuoles",2,,0005773
+PMC4387231,"metabolism",1,,0008152
+PMC4387231,"cell proliferation",1,,0008283
+PMC4387231,"growth",1,,0040007
+PMC4387231,"mitochondrial membrane",1,,0031966
+PMC4387231,"pore",1,,0046930
+PMC4387231,"intracellular organelles",1,,0043229
+PMC4387231,"organelles",1,,0043226
+PMC4387231,"protein oxidation",1,,0018158
+PMC4387231,"endoplasmic reticulum",1,,0005783
+PMC4387231,"signaling",1,,0023052
+PMC4387231,"Inflammatory responses",1,,0006954
+PMC4387231,"lysosome",1,,0005764
+PMC4387231,"membrane",1,,0016020
+PMC4387231,"apoptotic cell death",1,,0006915
+PMC4387231,"pyknosis",1,,0030263
+PMC4389268,"behavior",24,,0007610
+PMC4389268,"cells",15,,0005623
+PMC4389268,"signaling",8,,0023052
+PMC4389268,"learning",6,,0007612
+PMC4389268,"nucleus",5,,0005634
+PMC4389268,"extracellular",3,,0005576
+PMC4389268,"antibody",2,,0042571
+PMC4389268,"classical conditioning",1,,0008306
+PMC4389268,"dendrites",1,,0030425
+PMC4389268,"cell bodies",1,,0044297
+PMC4389268,"Hood",1,,1990343
+PMC4389412,"growth",3,,0040007
+PMC4389412,"sporulation",2,,0043934
+PMC4395931,"taste",4,,0050909
+PMC4395931,"digestion",2,,0007586
+PMC4395931,"synthesis",1,,0009058
+PMC4395931,"growth",1,,0040007
+PMC4398050,"Olfactory Behavior",44,,0042048
+PMC4398050,"signaling",10,,0023052
+PMC4398050,"olfaction",4,,0007608
+PMC4398050,"nervous system development",3,,0007399
+PMC4398050,"axon guidance",3,,0007411
+PMC4398050,"behavior",2,,0007610
+PMC4398050,"chemosensory behavior",2,,0007635
+PMC4398050,"courtship behavior",2,,0007619
+PMC4398050,"olfactory learning",2,,0008355
+PMC4398050,"gene expression",2,,0010467
+PMC4398050,"mating",1,,0007618
+PMC4398050,"reproduction",1,,0000003
+PMC4398050,"gustatory receptors",1,,0008527
+PMC4398050,"gene silencing",1,,0016458
+PMC4398050,"taste perception",1,,0050909
+PMC4398050,"metabolism",1,,0008152
+PMC4398050,"memory",1,,0007613
+PMC4398050,"formation",1,,0009058
+PMC4405290,"formation",4,,0009058
+PMC4405290,"behaviour",1,,0007610
+PMC4405290,"cell",1,,0005623
+PMC4405290,"fatty acid metabolism",1,,0006631
+PMC4408633,"hatching",1,,0035188
+PMC4408633,"larval development",1,,0002164
+PMC4408633,"metabolism",1,,0008152
+PMC4408633,"death",1,,0016265
+PMC4412152,"cells",8,,0005623
+PMC4412152,"olfaction",2,,0007608
+PMC4412152,"taste",2,,0050909
+PMC4412152,"behavior",2,,0007610
+PMC4412152,"cell death",1,,0008219
+PMC4412152,"receptor activity",1,,0004872
+PMC4413252,"cells",426,,0005623
+PMC4413252,"hypersensitivity",9,,0002524
+PMC4413252,"Cell Cycle Arrest",8,,0007050
+PMC4413252,"cell cycle",4,,0007049
+PMC4413252,"angiogenesis",4,,0001525
+PMC4413252,"binding",3,,0005488
+PMC4413252,"signaling",3,,0023052
+PMC4413252,"deaths",2,,0016265
+PMC4413252,"synthesis",2,,0009058
+PMC4413252,"cell death",2,,0008219
+PMC4413252,"mitochondrial membrane",2,,0031966
+PMC4413252,"G1 phase",2,,0051318
+PMC4413252,"mitochondria",2,,0005739
+PMC4413252,"membrane",2,,0016020
+PMC4413252,"transport",2,,0006810
+PMC4413252,"aging",1,,0007568
+PMC4413252,"growth",1,,0040007
+PMC4413252,"cell membrane",1,,0005886
+PMC4413252,"efflux pump",1,,1990281
+PMC4413252,"cell-surface",1,,0009986
+PMC4413252,"intracellular",1,,0005622
+PMC4413252,"protein-tyrosine kinase activity",1,,0004713
+PMC4413252,"phosphotyrosine-binding",1,,0001784
+PMC4413252,"signal transduction",1,,0007165
+PMC4413252,"cell proliferation",1,,0008283
+PMC4413252,"cell growth",1,,0016049
+PMC4413252,"outer mitochondrial membrane",1,,0005741
+PMC4413252,"protein complex",1,,0043234
+PMC4413252,"apoptosome",1,,0043293
+PMC4413252,"cytosol",1,,0005829
+PMC4413252,"organelles",1,,0043226
+PMC4413252,"translation",1,,0006412
+PMC4413252,"nucleosome",1,,0000786
+PMC4413252,"mitosis",1,,0007067
+PMC4413252,"Downregulation of glycolysis",1,,0045820
+PMC4413252,"nuclear transport",1,,0051169
+PMC4413252,"nuclear export",1,,0051168
+PMC4413252,"menstruation",1,,0042703
+PMC4413252,"sleep",1,,0030431
+PMC4415343,"gastric emptying",15,,0035483
+PMC4415343,"swimming",14,,0036268
+PMC4415343,"behaviour",11,,0007610
+PMC4415343,"locomotion",10,,0040011
+PMC4415343,"defecation",9,,0030421
+PMC4415343,"cell",5,,0005623
+PMC4415343,"motor activity",4,,0003774
+PMC4415343,"growth",3,,0040007
+PMC4415343,"disc",2,,0031264
+PMC4415343,"excretion",2,,0007588
+PMC4415343,"wound healing",1,,0042060
+PMC4415343,"death",1,,0016265
+PMC4415343,"vision",1,,0007601
+PMC4415343,"reflex",1,,0060004
+PMC4415343,"Urination",1,,0060073
+PMC4415343,"breakdown",1,,0009056
+PMC4415343,"leukocyte migration",1,,0050900
+PMC4415343,"cell adhesion",1,,0007155
+PMC4415343,"antibody-dependent cellular cytotoxicity",1,,0001788
+PMC4415343,"oviposition",1,,0018991
+PMC4415343,"uptake",1,,0098657
+PMC4415343,"keratinocytes proliferation",1,,0043616
+PMC4415343,"antioxidant activity",1,,0016209
+PMC4415343,"nociception",1,,0019233
+PMC4415343,"sensitization",1,,0046960
+PMC4415343,"synthesis",1,,0009058
+PMC4415343,"binding",1,,0005488
+PMC4415343,"learning",1,,0007612
+PMC4415343,"memory",1,,0007613
+PMC4415343,"metabolism",1,,0008152
+PMC4415343,"membrane",1,,0016020
+PMC4415343,"sleep",1,,0030431
+PMC4424236,"cell",25,,0005623
+PMC4424236,"growth",10,,0040007
+PMC4424236,"antioxidant activity",9,,0016209
+PMC4424236,"cell proliferation",3,,0008283
+PMC4424236,"signaling",2,,0023052
+PMC4424236,"signal transduction",1,,0007165
+PMC4424236,"regulation of gene expression",1,,0010468
+PMC4424236,"binding",1,,0005488
+PMC4424236,"cell death",1,,0008219
+PMC4427012,"growth",8,,0040007
+PMC4446488,"Germplasm",4,,0060293
+PMC4446488,"formation",2,,0009058
+PMC4446488,"secondary metabolism",1,,0019748
+PMC4446488,"fertilization",1,,0009566
+PMC4448976,"action potentials",12,,0001508
+PMC4448976,"muscle contractions",1,,0006936
+PMC4448976,"memory",1,,0007613
+PMC4448976,"cells",1,,0005623
+PMC4448976,"intracellular",1,,0005622
+PMC4448976,"neuronal cell body",1,,0043025
+PMC4448976,"cell membrane",1,,0005886
+PMC4464069,"behavior",1,,0007610
+PMC4464069,"memory",1,,0007613
+PMC4464069,"translation",1,,0006412
+PMC4464069,"synthesis",1,,0009058
+PMC4464069,"habituation",1,,0046959
+PMC4464069,"aging",1,,0007568
+PMC4468856,"growth",26,,0040007
+PMC4468856,"cells",7,,0005623
+PMC4468856,"cell wall",3,,0005618
+PMC4468856,"transport",2,,0006810
+PMC4468856,"degradation",2,,0009056
+PMC4468856,"membrane",2,,0016020
+PMC4468856,"cell growth",2,,0016049
+PMC4468856,"fermentation",1,,0006113
+PMC4468856,"malolactic fermentation",1,,0043464
+PMC4468856,"uptake",1,,0098657
+PMC4468856,"formation",1,,0009058
+PMC4468856,"death",1,,0016265
+PMC4482474,"capsules",20,,0042603
+PMC4482474,"digestion",1,,0007586
+PMC4482474,"peristalsis",1,,0030432
+PMC4486248,"sensitization",1,,0046960
+PMC4489822,"growth",19,,0040007
+PMC4489822,"plasma membrane",9,,0005886
+PMC4489822,"mitochondria",8,,0005739
+PMC4489822,"acidification",7,,0045851
+PMC4489822,"cells",7,,0005623
+PMC4489822,"disc",4,,0031264
+PMC4489822,"membrane",3,,0016020
+PMC4489822,"succinate dehydrogenase activities",2,,0000104
+PMC4489822,"synthesis",2,,0009058
+PMC4489822,"extracellular",2,,0005576
+PMC4489822,"ergosterol synthesis",1,,0006696
+PMC4489822,"cell wall",1,,0005618
+PMC4489822,"death",1,,0016265
+PMC4489822,"cellular metabolism",1,,0044237
+PMC4489822,"cell growth",1,,0016049
+PMC4489822,"oxidative phosphorylation",1,,0006119
+PMC4489822,"transport",1,,0006810
+PMC4489822,"respiratory chain",1,,0070469
+PMC4489822,"cell death",1,,0008219
+PMC4489822,"metabolism",1,,0008152
+PMC4499417,"cell",40,,0005623
+PMC4499417,"membrane",25,,0016020
+PMC4499417,"cytoplasmic membrane",18,,0005886
+PMC4499417,"cell surface",8,,0009986
+PMC4499417,"cell wall",8,,0005618
+PMC4499417,"Growth",6,,0040007
+PMC4499417,"Uptake",6,,0098657
+PMC4499417,"intracellular",5,,0005622
+PMC4499417,"behavior",5,,0007610
+PMC4499417,"death",3,,0016265
+PMC4499417,"outer membrane",2,,0019867
+PMC4499417,"envelope",2,,0031975
+PMC4499417,"nucleic acid-binding",1,,0003676
+PMC4499417,"Nucleopore",1,,0005643
+PMC4499417,"pore",1,,0046930
+PMC4499417,"cell envelope",1,,0030313
+PMC4499417,"ion transport",1,,0006811
+PMC4499417,"cellular homeostasis",1,,0019725
+PMC4499417,"extracellular",1,,0005576
+PMC4499417,"cell death",1,,0008219
+PMC4499417,"binding",1,,0005488
+PMC4503548,"cells",24,,0005623
+PMC4503548,"antioxidant activity",9,,0016209
+PMC4503548,"growth",6,,0040007
+PMC4503548,"cell proliferation",1,,0008283
+PMC4517501,"cells",13,,0005623
+PMC4517501,"behavior",5,,0007610
+PMC4517501,"growth",3,,0040007
+PMC4517501,"endothelial cell proliferation",2,,0001935
+PMC4517501,"system development",1,,0048731
+PMC4517501,"degradation",1,,0009056
+PMC4517501,"membrane",1,,0016020
+PMC4517501,"sieve plates",1,,0097218
+PMC4517501,"interphase",1,,0051325
+PMC4517501,"secretion",1,,0046903
+PMC4519343,"binding",102,,0005488
+PMC4519343,"membrane",7,,0016020
+PMC4519343,"odorant binding",4,,0005549
+PMC4519343,"sense of smell",2,,0007608
+PMC4519343,"extracellular",2,,0005576
+PMC4519343,"cells",2,,0005623
+PMC4519343,"receptor binding",2,,0005102
+PMC4519343,"axons",1,,0030424
+PMC4519343,"at binding",1,,0003680
+PMC4519343,"hosts",1,,0018995
+PMC4525464,"cell",12,,0005623
+PMC4525464,"Antioxidant Activity",11,,0016209
+PMC4525464,"growth",4,,0040007
+PMC4525464,"membrane",2,,0016020
+PMC4525464,"sleep",1,,0030431
+PMC4525464,"blood circulation",1,,0008015
+PMC4525464,"conjugation",1,,0000746
+PMC4525464,"cell membranes",1,,0005886
+PMC4525464,"intracellular",1,,0005622
+PMC4541688,"action potentials",4,,0001508
+PMC4541688,"extracellular",3,,0005576
+PMC4541688,"secondary metabolism",1,,0019748
+PMC4541688,"axons",1,,0030424
+PMC4541688,"behavior",1,,0007610
+PMC4548039,"disc",7,,0031264
+PMC4548039,"cell wall",5,,0005618
+PMC4548039,"growth",5,,0040007
+PMC4548039,"cytoplasm",1,,0005737
+PMC4548039,"fermentation",1,,0006113
+PMC4553199,"growth",8,,0040007
+PMC4553199,"membrane",2,,0016020
+PMC4553199,"chewing",1,,0071626
+PMC4553199,"disc",1,,0031264
+PMC4553199,"outer membrane",1,,0019867
+PMC4558530,"growth",14,,0040007
+PMC4558530,"gene expression",10,,0010467
+PMC4558530,"Spore Germination",10,,0009847
+PMC4558530,"Antioxidant Activity",6,,0016209
+PMC4558530,"Synthesis",5,,0009058
+PMC4558530,"cells",3,,0005623
+PMC4558530,"cell membrane",2,,0005886
+PMC4558530,"membrane",2,,0016020
+PMC4558530,"Neto",1,,0051519
+PMC4558530,"conjugation",1,,0000746
+PMC4558530,"mycotoxin biosynthesis",1,,0043386
+PMC4558530,"mitochondria",1,,0005739
+PMC4558530,"apoptotic cell death",1,,0006915
+PMC4558530,"cell wall",1,,0005618
+PMC4558530,"cytoplasm",1,,0005737
+PMC4558530,"vesicles",1,,0031982
+PMC4558530,"metabolism",1,,0008152
+PMC4558530,"chromosomes",1,,0005694
+PMC4558530,"ergosterol biosynthesis",1,,0006696
+PMC4558530,"antibodies",1,,0042571
+PMC4566093,"cell",16,,0005623
+PMC4566093,"habituation",5,,0046959
+PMC4566093,"dishabituation",5,,0097270
+PMC4566093,"binding",2,,0005488
+PMC4566093,"behaviours",2,,0007610
+PMC4566093,"learning",2,,0007612
+PMC4566093,"signaling",1,,0023052
+PMC4566093,"memory",1,,0007613
+PMC4566093,"cell activation",1,,0001775
+PMC4566093,"intracellular",1,,0005622
+PMC4566093,"reverse transcription",1,,0001171
+PMC4566093,"antibody",1,,0042571
+PMC4567485,"learning",10,,0007612
+PMC4567485,"behaviour",8,,0007610
+PMC4567485,"classical conditioning",7,,0008306
+PMC4567485,"synapse",2,,0045202
+PMC4567485,"extracellular",1,,0005576
+PMC4567485,"cell",1,,0005623
+PMC4567485,"cell bodies",1,,0044297
+PMC4567485,"axons",1,,0030424
+PMC4567485,"antibodies",1,,0042571
+PMC4567485,"action potentials",1,,0001508
+PMC4579641,"cells",8,,0005623
+PMC4579641,"cell wall",5,,0005618
+PMC4579641,"growth",4,,0040007
+PMC4579641,"membrane",4,,0016020
+PMC4579641,"synthesis",3,,0009058
+PMC4579641,"cell adhesion",1,,0007155
+PMC4579641,"outer membrane",1,,0019867
+PMC4579641,"envelope",1,,0031975
+PMC4579641,"death",1,,0016265
+PMC4583814,"cell",22,,0005623
+PMC4583814,"phosphorylation",14,,0016310
+PMC4583814,"antibody",7,,0042571
+PMC4583814,"binding",7,,0005488
+PMC4583814,"signaling",6,,0023052
+PMC4583814,"mucus",3,,0070701
+PMC4583814,"ribosome",2,,0005840
+PMC4583814,"gene expression",2,,0010467
+PMC4583814,"ribosomal subunit",1,,0044391
+PMC4583814,"odorant binding",1,,0005549
+PMC4583814,"learning",1,,0007612
+PMC4583814,"behaviors",1,,0007610
+PMC4583814,"hood",1,,1990343
+PMC4583814,"synthesis",1,,0009058
+PMC4585887,"protein binding",1,,0005515
+PMC4588114,"Olfaction",41,,0007608
+PMC4588114,"eating behavior",16,,0042755
+PMC4588114,"behavior",3,,0007610
+PMC4588114,"memory",1,,0007613
+PMC4588114,"taste",1,,0050909
+PMC4588114,"learning",1,,0007612
+PMC4588114,"cell",1,,0005623
+PMC4588114,"metabolism",1,,0008152
+PMC4628703,"Cell",128,,0005623
+PMC4628703,"cell cycle",9,,0007049
+PMC4628703,"Cell Death",7,,0008219
+PMC4628703,"antibodies",6,,0042571
+PMC4628703,"binding",5,,0005488
+PMC4628703,"Growth",4,,0040007
+PMC4628703,"deaths",4,,0016265
+PMC4628703,"cell cycle regulation",4,,0051726
+PMC4628703,"synthesis",4,,0009058
+PMC4628703,"cell cycle arrest",3,,0007050
+PMC4628703,"membranes",3,,0016020
+PMC4628703,"G1 phase",3,,0051318
+PMC4628703,"posttranslational modifications",2,,0043687
+PMC4628703,"chromatin remodeling",2,,0006338
+PMC4628703,"cell growth",2,,0016049
+PMC4628703,"intracellular",2,,0005622
+PMC4628703,"epithelial-mesenchymal transition",1,,0001837
+PMC4628703,"signal transduction",1,,0007165
+PMC4628703,"apoptotic cell death",1,,0006915
+PMC4628703,"antioxidant activity",1,,0016209
+PMC4628703,"gene expression",1,,0010467
+PMC4628703,"pathogenesis",1,,0009405
+PMC4628703,"sister chromatid cohesion",1,,0007062
+PMC4628703,"cell cycle control",1,,1901987
+PMC4628703,"phosphorylation",1,,0016310
+PMC4628703,"Signaling",1,,0023052
+PMC4628703,"Cell Proliferation",1,,0008283
+PMC4628703,"cell adhesion",1,,0007155
+PMC4628703,"host",1,,0018995
+PMC4628703,"plasma membrane",1,,0005886
+PMC4628703,"enucleation",1,,0090601
+PMC4628703,"apoptotic bodies",1,,0097189
+PMC4628703,"dedifferentiation",1,,0043696
+PMC4628703,"base excision repair",1,,0006284
+PMC4628703,"metabolism",1,,0008152
+PMC4640387,"antioxidant activity",13,,0016209
+PMC4640387,"growth",13,,0040007
+PMC4640387,"cell membrane",3,,0005886
+PMC4640387,"piloerection",2,,0097195
+PMC4640387,"death",2,,0016265
+PMC4640387,"disc",1,,0031264
+PMC4640387,"motor activity",1,,0003774
+PMC4640387,"urination",1,,0060073
+PMC4640387,"metabolism",1,,0008152
+PMC4640387,"biosynthesis",1,,0009058
+PMC4640387,"membrane",1,,0016020
+PMC4640387,"behavior",1,,0007610
+PMC4641935,"cells",6,,0005623
+PMC4641935,"memory",3,,0007613
+PMC4641935,"cognition",3,,0050890
+PMC4641935,"cell death",2,,0008219
+PMC4641935,"behaviors",2,,0007610
+PMC4641935,"capsules",2,,0042603
+PMC4641935,"cytoplasm",1,,0005737
+PMC4641935,"endoplasmic reticulum",1,,0005783
+PMC4641935,"mitochondria",1,,0005739
+PMC4641935,"nuclear membrane",1,,0031965
+PMC4641935,"mitochondrial membrane",1,,0031966
+PMC4641935,"synaptic vesicle recycling",1,,0036465
+PMC4641935,"antioxidant activities",1,,0016209
+PMC4641935,"turning behavior",1,,0035178
+PMC4641935,"synthesis",1,,0009058
+PMC4641935,"learning",1,,0007612
+PMC4641935,"death",1,,0016265
+PMC4656844,"behavior",23,,0007610
+PMC4656844,"sense of smell",3,,0007608
+PMC4656844,"learning",1,,0007612
+PMC4656844,"aging",1,,0007568
+PMC4664613,"olfaction",9,,0007608
+PMC4664613,"eating behavior",4,,0042755
+PMC4664613,"behavior",4,,0007610
+PMC4664613,"taste",2,,0050909
+PMC4664613,"learning",1,,0007612
+PMC4664613,"parental behavior",1,,0060746
+PMC4670656,"sleep",3,,0030431
+PMC4670656,"formation",3,,0009058
+PMC4670656,"Disc",2,,0031264
+PMC4670656,"growth",2,,0040007
+PMC4670656,"membranes",1,,0016020
+PMC4670656,"conjugation",1,,0000746
+PMC4670656,"cell",1,,0005623
+PMC4672195,"cell",62,,0005623
+PMC4672195,"Membrane",38,,0016020
+PMC4672195,"extracellular",11,,0005576
+PMC4672195,"intracellular",10,,0005622
+PMC4672195,"cell membranes",10,,0005886
+PMC4672195,"Uptake",10,,0098657
+PMC4672195,"growth",7,,0040007
+PMC4672195,"Cell Wall",4,,0005618
+PMC4672195,"pores",4,,0046930
+PMC4672195,"Metabolism",3,,0008152
+PMC4672195,"Quorum sensing",3,,0009372
+PMC4672195,"cell death",3,,0008219
+PMC4672195,"pore formation",3,,0046931
+PMC4672195,"signaling",3,,0023052
+PMC4672195,"immune response",2,,0006955
+PMC4672195,"fermentation",2,,0006113
+PMC4672195,"outer membrane",2,,0019867
+PMC4672195,"host",2,,0018995
+PMC4672195,"reproduction",1,,0000003
+PMC4672195,"gene expression",1,,0010467
+PMC4672195,"antigen presentation",1,,0019882
+PMC4672195,"humoral immune response",1,,0006959
+PMC4672195,"periplasm",1,,0042597
+PMC4672195,"extracellular space",1,,0005615
+PMC4672195,"mesosome",1,,0046868
+PMC4672195,"vesicles",1,,0031982
+PMC4672195,"vacuoles",1,,0005773
+PMC4672195,"synthesis",1,,0009058
+PMC4672195,"envelope",1,,0031975
+PMC4672195,"enzyme activity",1,,0003824
+PMC4672195,"oxidation reduction",1,,0055114
+PMC4672195,"cell communication",1,,0007154
+PMC4673553,"taste",10,,0050909
+PMC4673553,"olfaction",9,,0007608
+PMC4673553,"memory",4,,0007613
+PMC4673553,"proprioception",2,,0019230
+PMC4673553,"vision",1,,0007601
+PMC4673882,"cells",70,,0005623
+PMC4673882,"learning",17,,0007612
+PMC4673882,"behaviour",10,,0007610
+PMC4673882,"antibody",10,,0042571
+PMC4673882,"synapses",7,,0045202
+PMC4673882,"gemmules",6,,0097463
+PMC4673882,"localization",6,,0051179
+PMC4673882,"dendrite",5,,0030425
+PMC4673882,"membrane",4,,0016020
+PMC4673882,"operant-conditioning",3,,0035106
+PMC4673882,"dendritic shaft",3,,0043198
+PMC4673882,"cell body",2,,0044297
+PMC4673882,"vesicle",2,,0031982
+PMC4673882,"habituation",2,,0046959
+PMC4673882,"intracellular",2,,0005622
+PMC4673882,"axon",2,,0030424
+PMC4673882,"sensory processing",1,,0050893
+PMC4673882,"lateral inhibition",1,,0046331
+PMC4673882,"dendritic tree",1,,0097447
+PMC4673882,"proximal dendrite",1,,1990635
+PMC4673882,"action potential",1,,0001508
+PMC4673882,"plasma membrane",1,,0005886
+PMC4673882,"cellular localization",1,,0051641
+PMC4684335,"olfaction",5,,0007608
+PMC4684335,"Hood",1,,1990343
+PMC4684335,"transport",1,,0006810
+PMC4686661,"synapses",39,,0045202
+PMC4686661,"cells",17,,0005623
+PMC4686661,"antibodies",6,,0042571
+PMC4686661,"behaviour",4,,0007610
+PMC4686661,"eclosion",4,,0007562
+PMC4686661,"boutons",3,,0043195
+PMC4686661,"vesicle fusion",2,,0006906
+PMC4686661,"dendrites",2,,0030425
+PMC4686661,"hood",2,,1990343
+PMC4686661,"extracellular",1,,0005576
+PMC4686661,"membranes",1,,0016020
+PMC4686661,"formation",1,,0009058
+PMC4686661,"synaptic vesicle membrane",1,,0030672
+PMC4686661,"localization",1,,0051179
+PMC4686661,"synaptic cleft",1,,0043083
+PMC4686661,"action potential",1,,0001508
+PMC4686661,"binding",1,,0005488
+PMC4686661,"axons",1,,0030424
+PMC4686661,"synaptogenesis",1,,0007416
+PMC4686661,"gene expression",1,,0010467
+PMC4686661,"chromosome",1,,0005694
+PMC4707358,"Cells",98,,0005623
+PMC4707358,"Signaling",10,,0023052
+PMC4707358,"gene expression",9,,0010467
+PMC4707358,"cell death",7,,0008219
+PMC4707358,"intracellular",4,,0005622
+PMC4707358,"signal transduction",3,,0007165
+PMC4707358,"death",3,,0016265
+PMC4707358,"aging",2,,0007568
+PMC4707358,"Synthesis",2,,0009058
+PMC4707358,"cytoplasm",1,,0005737
+PMC4707358,"mitochondrial intermembrane spaces",1,,0005758
+PMC4707358,"lysosomes",1,,0005764
+PMC4707358,"mitochondria",1,,0005739
+PMC4707358,"peroxisome",1,,0005777
+PMC4707358,"cytosol",1,,0005829
+PMC4707358,"nucleus",1,,0005634
+PMC4707358,"degradation",1,,0009056
+PMC4707358,"reverse transcription",1,,0001171
+PMC4707358,"cell growth",1,,0016049
+PMC4707358,"mitochondrial membrane",1,,0031966
+PMC4707358,"cell cycle",1,,0007049
+PMC4707358,"cell-cycle arrest",1,,0007050
+PMC4708660,"antioxidant activity",7,,0016209
+PMC4708660,"degradation",1,,0009056
+PMC4708660,"cells",1,,0005623
+PMC4724840,"death",15,,0016265
+PMC4724840,"cell membrane",3,,0005886
+PMC4724840,"lands",1,,0016606
+PMC4724840,"cell",1,,0005623
+PMC4724840,"intracellular",1,,0005622
+PMC4730278,"cells",28,,0005623
+PMC4730278,"growth",9,,0040007
+PMC4730278,"formation",1,,0009058
+PMC4730278,"detoxification",1,,0098754
+PMC4730278,"excretion",1,,0007588
+PMC4730278,"mitosis",1,,0007067
+PMC4749828,"synthesis",26,,0009058
+PMC4749828,"fatty acid biosynthesis",9,,0006633
+PMC4749828,"binding",4,,0005488
+PMC4749828,"polyketide synthesis",3,,0030639
+PMC4749828,"protein synthesis",2,,0006412
+PMC4749828,"cell membranes",1,,0005886
+PMC4749828,"growth",1,,0040007
+PMC4749828,"fermentation",1,,0006113
+PMC4749828,"conjugation",1,,0000746
+PMC4749828,"Demethylation",1,,0070988
+PMC4749828,"cell wall",1,,0005618
+PMC4749828,"cellular lipid biosynthesis",1,,0097384
+PMC4749828,"cell",1,,0005623
+PMC4766438,"axons",6,,0030424
+PMC4766438,"cell",5,,0005623
+PMC4766438,"action potentials",2,,0001508
+PMC4766438,"protein complex",1,,0043234
+PMC4766438,"gustatory receptor",1,,0008527
+PMC4766438,"innervation",1,,0060384
+PMC4766438,"extracellular",1,,0005576
+PMC4766438,"olfaction",1,,0007608
+PMC4766438,"mating",1,,0007618
+PMC4783362,"fermentation",15,,0006113
+PMC4783362,"aging",13,,0007568
+PMC4783362,"cells",8,,0005623
+PMC4783362,"degradation",4,,0009056
+PMC4783362,"Metabolism",2,,0008152
+PMC4783362,"seed germination",2,,0009845
+PMC4783362,"lipid bodies",2,,0005811
+PMC4783362,"growth",1,,0040007
+PMC4783362,"lipid oxidation",1,,0034440
+PMC4783362,"behavior",1,,0007610
+PMC4786606,"biosynthesis",14,,0009058
+PMC4786606,"cells",10,,0005623
+PMC4786606,"efflux pump",7,,1990281
+PMC4786606,"limonene synthesis",6,,0046250
+PMC4786606,"growth",4,,0040007
+PMC4786606,"plastids",4,,0009536
+PMC4786606,"hosts",4,,0018995
+PMC4786606,"membrane",3,,0016020
+PMC4786606,"fermentation",3,,0006113
+PMC4786606,"cell wall",2,,0005618
+PMC4786606,"cell membrane",2,,0005886
+PMC4786606,"leucoplasts",2,,0009516
+PMC4786606,"monoterpene biosynthesis",1,,0043693
+PMC4786606,"localization",1,,0051179
+PMC4786606,"oxidative phosphorylation",1,,0006119
+PMC4786606,"geranyl diphosphate synthase",1,,0004161
+PMC4786606,"protein farnesylation",1,,0018343
+PMC4786606,"ubiquinone biosynthesis",1,,0006744
+PMC4786606,"acetate formation",1,,0019413
+PMC4786606,"energy homeostasis",1,,0097009
+PMC4786606,"intracellular",1,,0005622
+PMC4786606,"transport",1,,0006810
+PMC4786606,"catabolism",1,,0009056
+PMC4786606,"extracellular",1,,0005576
+PMC4786606,"chewing",1,,0071626
+PMC4786606,"organelles",1,,0043226
+PMC4786606,"chloroplasts",1,,0009507
+PMC4786606,"glycosylation",1,,0070085
+PMC4786606,"cytosol",1,,0005829
+PMC4786606,"endoplasmic reticulum",1,,0005783
+PMC4786955,"regeneration",11,,0031099
+PMC4786955,"synthesis",4,,0009058
+PMC4786955,"redox activity",1,,0016491
+PMC4786955,"light absorption",1,,0016037
+PMC4786955,"enzyme activity",1,,0003824
+PMC4786955,"degradation",1,,0009056
+PMC4786955,"behaviour",1,,0007610
+PMC4799292,"growth",6,,0040007
+PMC4799292,"Antioxidant activity",5,,0016209
+PMC4799292,"glycosylation",2,,0070085
+PMC4799292,"cell",2,,0005623
+PMC4799292,"synthesis",2,,0009058
+PMC4799292,"localization",1,,0051179
+PMC4799292,"fertilization",1,,0009566
+PMC4799292,"secondary metabolism",1,,0019748
+PMC4799292,"Arachidonic acid metabolism",1,,0019369
+PMC4799292,"spore germination",1,,0009847
+PMC4799292,"viral life cycle",1,,0019058
+PMC4799292,"virion",1,,0019012
+PMC4819710,"cells",58,,0005623
+PMC4819710,"action potentials",8,,0001508
+PMC4819710,"antibodies",4,,0042571
+PMC4819710,"dendritic knobs",4,,0098788
+PMC4819710,"membrane",3,,0016020
+PMC4819710,"binding",2,,0005488
+PMC4819710,"axon",2,,0030424
+PMC4819710,"signal transduction",1,,0007165
+PMC4819710,"generation of action potentials",1,,0086010
+PMC4819710,"synapses",1,,0045202
+PMC4819710,"reverse transcription",1,,0001171
+PMC4819710,"mucus layer",1,,0070701
+PMC4819710,"transduction",1,,0009293
+PMC4819710,"ribosome",1,,0005840
+PMC4819710,"ageing",1,,0007568
+PMC4819710,"response to amines",1,,0014075
+PMC4822282,"metabolism",14,,0008152
+PMC4822282,"synthesis",8,,0009058
+PMC4822282,"host",5,,0018995
+PMC4822282,"fermentation",5,,0006113
+PMC4822282,"growth",3,,0040007
+PMC4822282,"cell",3,,0005623
+PMC4822282,"apoplasts",2,,0048046
+PMC4822282,"Krebs cycle",2,,0006099
+PMC4822282,"immune response",2,,0006955
+PMC4822282,"cell-wall",1,,0005618
+PMC4822282,"nitrogen fixation",1,,0009399
+PMC4822282,"signaling",1,,0023052
+PMC4822282,"parasitism",1,,0072519
+PMC4822282,"symbiosis",1,,0044403
+PMC4822282,"degradation",1,,0009056
+PMC4822282,"Terpene biosynthesis",1,,0046246
+PMC4822282,"response to antibiotic",1,,0046677
+PMC4822282,"pyruvate-synthesis",1,,0042866

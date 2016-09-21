@@ -1,0 +1,1995 @@
+article,organism,count,dbName,dbId
+PMC3915084,"Lemon",44,,2708
+PMC3915084,"yeasts",23,,4932
+PMC3915084,"Candida",21,,1535326
+PMC3915084,"Candida albicans",16,,5476
+PMC3915084,"Candida glabrata",13,,5478
+PMC3915084,"Candida tropicalis",7,,5482
+PMC3915084,"Citrus",3,,2706
+PMC3915084,"human",2,,9606
+PMC3915084,"fungi",2,,4751
+PMC3915084,"eucalyptus",2,,3932
+PMC3915084,"cinnamon",2,,128608
+PMC3915084,"Cylinder",2,,6490
+PMC3920264,"human",1,,9606
+PMC3920264,"Fusarium",1,,5506
+PMC3920264,"Myrothecium",1,,5531
+PMC3920264,"Stachybotrys",1,,74721
+PMC3920264,"Cephalosporium",1,,81097
+PMC3920264,"Trichoderma",1,,5543
+PMC3920264,"Trichothecium",1,,231006
+PMC3920264,"F. graminearum",1,,5518
+PMC3920264,"F. sporotrichioides",1,,5514
+PMC3920264,"wheat",1,,4565
+PMC3953398,"rat",6,,10116
+PMC3953398,"human",1,,9606
+PMC3954529,"Daphniphyllum",7,,4387
+PMC3954529,"electron",4,,1118549
+PMC3954529,"murine",1,,39107
+PMC3954529,"rat",1,,10116
+PMC3961117,"Staphylococcus aureus",17,,1280
+PMC3961117,"electron",4,,1118549
+PMC3961117,"plants",2,,3193
+PMC3961117,"human",1,,9606
+PMC3961117,"spearmint",1,,29719
+PMC3961117,"caraway",1,,48032
+PMC3961117,"bacteria",1,,2
+PMC3961117,"Libra",1,,509413
+PMC3977348,"mice",69,,10088
+PMC3977348,"animals",26,,33208
+PMC3977348,"mouse",10,,10090
+PMC3977348,"donkey",6,,9793
+PMC3977348,"retrovirus",6,,31931
+PMC3977348,"rabbit",5,,9986
+PMC3977348,"goat",5,,9925
+PMC3977348,"T7",2,,10760
+PMC3977348,"rat",2,,10116
+PMC3977348,"murine",2,,39107
+PMC3977348,"rodents",2,,9989
+PMC3977348,"Alexandra",1,,381266
+PMC3977348,"Phoenix",1,,4719
+PMC3977348,"horseradish",1,,3704
+PMC4005389,"Human",11,,9606
+PMC4005389,"mice",3,,10088
+PMC4005389,"cinnamon",3,,128608
+PMC4005389,"peppermint",1,,34256
+PMC4005389,"banana",1,,4641
+PMC4005389,"lemon",1,,2708
+PMC4005389,"garlic",1,,4682
+PMC4005389,"coffee",1,,13443
+PMC4005389,"apple",1,,3750
+PMC4005389,"clove",1,,219868
+PMC4005389,"pineapple",1,,4615
+PMC4005389,"anise",1,,40880
+PMC4005389,"fish",1,,7898
+PMC4007251,"cinnamon",14,,128608
+PMC4007251,"caraway",13,,48032
+PMC4007251,"cardamom",13,,105181
+PMC4007251,"Cinnamomum",5,,13428
+PMC4007251,"Composite",2,,4210
+PMC4007251,"Lauraceae",1,,3433
+PMC4007251,"Zingiberaceae",1,,4642
+PMC4007251,"Umbelliferae",1,,4037
+PMC4007251,"Cinnamomum tamala",1,,397098
+PMC4011571,"electron",2,,1118549
+PMC4015331,"spearmint",5,,29719
+PMC4015331,"Japanese red pine",4,,77912
+PMC4015331,"aroma",2,,354777
+PMC4015331,"Citrus unshiu",2,,55188
+PMC4015331,"oxide",2,,1350215
+PMC4015331,"PTV",1,,187978
+PMC4017146,"rat",21,,10116
+PMC4017146,"animals",13,,33208
+PMC4017146,"Regina",1,,183601
+PMC4017146,"Python",1,,37579
+PMC4017146,"humans",1,,9606
+PMC4065700,"Escherichia coli",20,,562
+PMC4065700,"Staphylococcus aureus",18,,1280
+PMC4065700,"L. monocytogenes",10,,1639
+PMC4065700,"bacteria",9,,2
+PMC4065700,"Saccharomyces cerevisiae",9,,4932
+PMC4065700,"Listeria innocua",6,,1642
+PMC4065700,"Lactobacillus delbrueckii",6,,1584
+PMC4065700,"Basil",4,,39350
+PMC4065700,"Lemongrass",4,,66014
+PMC4065700,"E. coli O157",4,,1045010
+PMC4065700,"Bacillus cereus",4,,1396
+PMC4065700,"Escherichia coli C",3,,498388
+PMC4065700,"apples",3,,3750
+PMC4065700,"S. Typhi",3,,90370
+PMC4065700,"Candida albicans",3,,5476
+PMC4065700,"Listeria",3,,1637
+PMC4065700,"Salmonella",3,,590
+PMC4065700,"P. aeruginosa",3,,287
+PMC4065700,"S. enterica",3,,28901
+PMC4065700,"sesame",2,,4182
+PMC4065700,"Salmonella typhimurium",2,,90371
+PMC4065700,"Bovine",2,,27592
+PMC4065700,"Micrococcus luteus",2,,1270
+PMC4065700,"Enterobacter aerogenes",2,,548
+PMC4065700,"Lactobacillus plantarum",2,,1590
+PMC4065700,"human",1,,9606
+PMC4065700,"plums",1,,3758
+PMC4065700,"B. subtilis",1,,1423
+PMC4065700,"Rhizopus nigricans",1,,4846
+PMC4065700,"Aspergillus niger",1,,5061
+PMC4065700,"Penicillium sp.",1,,5081
+PMC4065700,"Bacillus circulans",1,,1397
+PMC4065700,"chicken",1,,9031
+PMC4065700,"Lactococcus lactis subsp. lactis",1,,1360
+PMC4065700,"tomato",1,,4081
+PMC4065700,"oxide",1,,1350215
+PMC4065700,"soybean",1,,3847
+PMC4065700,"electron",1,,1118549
+PMC4065700,"fungi",1,,4751
+PMC4065700,"Acetobacter xylinum",1,,28448
+PMC4065700,"corn",1,,381124
+PMC4079982,"rats",52,,10116
+PMC4079982,"animals",25,,33208
+PMC4079982,"rodents",3,,9989
+PMC4079982,"Regina",1,,183601
+PMC4079982,"humans",1,,9606
+PMC4079982,"vanilla",1,,51238
+PMC4079982,"almond",1,,3755
+PMC4079982,"peppermint",1,,34256
+PMC4079982,"cotton",1,,3635
+PMC4097962,"Pseudomonas putida",14,,303
+PMC4097962,"Pseudomonas putida F1",13,,351746
+PMC4097962,"Bacteria",12,,2
+PMC4097962,"Rhodococcus erythropolis",12,,1833
+PMC4097962,"Pseudomonas",8,,286
+PMC4097962,"oxide",8,,1350215
+PMC4097962,"Pseudomonas citronellolis",8,,53408
+PMC4097962,"plants",6,,3193
+PMC4097962,"electron",6,,1118549
+PMC4097962,"Castellaniella defragrans 65Phen",6,,1437824
+PMC4097962,"Pseudomonas aeruginosa",5,,287
+PMC4097962,"fungi",5,,4751
+PMC4097962,"Castellaniella",3,,359336
+PMC4097962,"Thauera",3,,33057
+PMC4097962,"Pseudomonas fluorescens",3,,294
+PMC4097962,"Novosphingobium aromaticivorans",3,,48935
+PMC4097962,"Pseudomonas mendocina",3,,300
+PMC4097962,"Kosakonia cowanii",3,,208223
+PMC4097962,"nematodes",3,,6231
+PMC4097962,"Rhodococcus",2,,1827
+PMC4097962,"citrus",2,,2706
+PMC4097962,"Pseudomonas rhodesiae",2,,76760
+PMC4097962,"Citrobacter braakii",2,,57706
+PMC4097962,"Rhodococcus opacus",2,,37919
+PMC4097962,"Geobacillus stearothermophilus",2,,1422
+PMC4097962,"Bacillus",2,,1386
+PMC4097962,"conifers",2,,3312
+PMC4097962,"Pseudomonas sp.",2,,306
+PMC4097962,"P. gladioli",2,,28095
+PMC4097962,"Enterobacter agglomerans",2,,549
+PMC4097962,"Yu",2,,37334
+PMC4097962,"Stenotrophomonas",2,,40323
+PMC4097962,"pinewood nematode",2,,6326
+PMC4097962,"Achromobacter",2,,222
+PMC4097962,"Agrobacterium",2,,357
+PMC4097962,"Insam",1,,4054
+PMC4097962,"Nocardia sp.",1,,1821
+PMC4097962,"Bacillus pallidus",1,,33936
+PMC4097962,"Serratia marcescens",1,,615
+PMC4097962,"Novosphingobium",1,,165696
+PMC4097962,"Pseudomonas flava",1,,65657
+PMC4097962,"Bacillus cereus",1,,1396
+PMC4097962,"Rhodococcus sp.",1,,1831
+PMC4097962,"lemon",1,,2708
+PMC4097962,"E. coli",1,,562
+PMC4097962,"Castellaniella defragrans",1,,75697
+PMC4097962,"Thauera terpenica",1,,76113
+PMC4097962,"P. delhiensis",1,,366289
+PMC4097962,"T. linaloolentis 47Lol",1,,1123367
+PMC4097962,"Aspergillus niger",1,,5061
+PMC4097962,"Botrytis cinerea",1,,40559
+PMC4097962,"Diplodia gossypina",1,,45133
+PMC4097962,"Mucor circinelloides",1,,36080
+PMC4097962,"Penicillium italicum",1,,40296
+PMC4097962,"Penicillium digitatum",1,,36651
+PMC4097962,"Corynespora cassiicola",1,,59586
+PMC4097962,"Glomerella cingulata",1,,5457
+PMC4097962,"Grosmannia clavigera",1,,226899
+PMC4097962,"algae",1,,3041
+PMC4097962,"Actinobacteria",1,,1760
+PMC4097962,"Alphaproteobacteria",1,,28211
+PMC4097962,"Bacteroidetes",1,,200643
+PMC4097962,"insects",1,,6960
+PMC4097962,"beetles",1,,7041
+PMC4097962,"Rahnella",1,,34037
+PMC4097962,"Serratia",1,,613
+PMC4097962,"Cytophaga",1,,978
+PMC4097962,"Herbaspirillum",1,,963
+PMC4115348,"Dill",33,,40922
+PMC4115348,"rat",2,,10116
+PMC4115348,"Apiaceae",1,,4037
+PMC4115348,"thyme",1,,49992
+PMC4115348,"plants",1,,3193
+PMC4115348,"Anethum",1,,40921
+PMC4156257,"arenes",7,,529734
+PMC4156257,"electron",5,,1118549
+PMC4157029,"plants",3,,3193
+PMC4157029,"human",3,,9606
+PMC4157029,"insects",2,,6960
+PMC4157029,"Caraway",2,,48032
+PMC4157029,"Foeniculumvulgare",2,,48038
+PMC4157029,"Thymus vulgaris",2,,49992
+PMC4157029,"rodents",1,,9989
+PMC4157029,"Anethumgraveolens",1,,40922
+PMC4157029,"Cassia",1,,53851
+PMC4157029,"Menthaarvensis",1,,292239
+PMC4157029,"Menthalongifolia",1,,38859
+PMC4157029,"Eucalyptus globulus",1,,34317
+PMC4157029,"Saturejahortensis",1,,49987
+PMC4157029,"anise",1,,40880
+PMC4157029,"Passiflora",1,,3684
+PMC4157029,"electron",1,,1118549
+PMC4157029,"Radix",1,,55689
+PMC4161876,"human",63,,9606
+PMC4161876,"mouse",40,,10090
+PMC4161876,"mice",8,,10088
+PMC4161876,"Broccoli",3,,36774
+PMC4161876,"atlas",2,,557721
+PMC4161876,"spearmint",2,,29719
+PMC4161876,"caraway",1,,48032
+PMC4161876,"dill",1,,40922
+PMC4161876,"mammals",1,,40674
+PMC4161876,"Animals",1,,33208
+PMC4161876,"horseradish",1,,3704
+PMC4161876,"glycine",1,,1462605
+PMC4161876,"citronella",1,,159356
+PMC4202545,"Anethum Graveolens",26,,40922
+PMC4202545,"Mice",8,,10088
+PMC4202545,"Animals",8,,33208
+PMC4202545,"rat",3,,10116
+PMC4202545,"human",2,,9606
+PMC4202545,"plants",2,,3193
+PMC4202545,"Jana",2,,753354
+PMC4202545,"Roger",1,,1009818
+PMC4202545,"umbelliferae",1,,4037
+PMC4204956,"Lippia",21,,320344
+PMC4204956,"Chromobacterium violaceum",14,,536
+PMC4204956,"bacteria",11,,2
+PMC4204956,"S. aureus",9,,1280
+PMC4204956,"gram-positive bacteria",3,,1239
+PMC4204956,"human",3,,9606
+PMC4204956,"Pseudomonas aeruginosa",2,,287
+PMC4204956,"plants",2,,3193
+PMC4204956,"Burkholderia cepacia",1,,292
+PMC4204956,"Salmonella typhimurium",1,,90371
+PMC4204956,"Yersinia enterocolitica",1,,630
+PMC4204956,"Delisea pulchra",1,,40385
+PMC4204956,"garlic",1,,4682
+PMC4204956,"oxide",1,,1350215
+PMC4204956,"P. putida",1,,303
+PMC4204956,"E. coli",1,,562
+PMC4204956,"Lotus corniculatus",1,,47247
+PMC4204956,"Pisum sativum",1,,3888
+PMC4204956,"Conocarpus erectus",1,,134917
+PMC4204956,"Chamaesyce hypericifolia",1,,212834
+PMC4204956,"Callistemon viminalis",1,,73737
+PMC4204956,"Bucida buceras",1,,578533
+PMC4204956,"Acalypha alopecuroidea",1,,1123418
+PMC4204956,"geranium",1,,4028
+PMC4204956,"lavender",1,,39329
+PMC4204956,"rosemary",1,,39367
+PMC4204956,"Eucalyptus",1,,3932
+PMC4204956,"citrus",1,,2706
+PMC4204956,"vanilla",1,,51238
+PMC4204956,"Sio",1,,88715
+PMC4204956,"Candida albicans",1,,5476
+PMC4209970,"citrus",23,,2706
+PMC4209970,"Psyllidae",11,,30092
+PMC4209970,"plants",8,,3193
+PMC4209970,"Asian Citrus Psyllid",6,,121845
+PMC4209970,"human",4,,9606
+PMC4209970,"carrot",3,,4039
+PMC4209970,"insects",3,,6960
+PMC4209970,"electron",3,,1118549
+PMC4209970,"Liberibacter",2,,34019
+PMC4209970,"Hemiptera",2,,7524
+PMC4209970,"bacteria",2,,2
+PMC4209970,"viruses",1,,10239
+PMC4209970,"apple",1,,3750
+PMC4209970,"Trioza",1,,30093
+PMC4209970,"conifers",1,,3312
+PMC4209970,"Sternorrhyncha",1,,33373
+PMC4209970,"guava",1,,120290
+PMC4209970,"garlic",1,,4682
+PMC4209970,"cloves",1,,219868
+PMC4209970,"Drosophila melanogaster",1,,7227
+PMC4209970,"Anopheles gambiae",1,,7165
+PMC4209970,"Bergera",1,,43710
+PMC4209970,"Citrus volkameriana",1,,171254
+PMC4209970,"seal",1,,9709
+PMC4220615,"human",178,,9606
+PMC4220615,"colon",40,,1542223
+PMC4220615,"mouse",32,,10090
+PMC4220615,"rats",24,,10116
+PMC4220615,"mice",14,,10088
+PMC4220615,"murine",12,,39107
+PMC4220615,"Mentha",7,,21819
+PMC4220615,"bovine",3,,27592
+PMC4220615,"yeast",3,,4932
+PMC4220615,"Perilla",3,,1313341
+PMC4220615,"Myristica fragrans",2,,51089
+PMC4220615,"Morinda citrifolia",2,,43522
+PMC4220615,"Lippia",2,,320344
+PMC4220615,"Thymus serpyllum",2,,204219
+PMC4220615,"plants",2,,3193
+PMC4220615,"dogs",2,,9615
+PMC4220615,"Vepris",1,,430986
+PMC4220615,"T. vulgaris",1,,49992
+PMC4220615,"Satureja montana",1,,49988
+PMC4220615,"Origanum onites",1,,452416
+PMC4220615,"Salmonella typhimurium",1,,90371
+PMC4220615,"Majorana",1,,268883
+PMC4220615,"monkey",1,,9527
+PMC4220615,"citrus",1,,2706
+PMC4220615,"Usta",1,,469379
+PMC4220615,"Helichrysum",1,,59430
+PMC4220615,"P. falciparum",1,,5833
+PMC4220615,"Guinea pig",1,,10141
+PMC4224956,"rats",48,,10116
+PMC4224956,"spearmint",41,,29719
+PMC4224956,"animals",15,,33208
+PMC4224956,"Labiatae",2,,4136
+PMC4224956,"plants",1,,3193
+PMC4224956,"flowering plants",1,,3398
+PMC4224956,"Mentha",1,,21819
+PMC4224956,"Human",1,,9606
+PMC4224956,"Silveira",1,,279475
+PMC4232691,"Spearmint",43,,29719
+PMC4232691,"plants",17,,3193
+PMC4232691,"Peppermint",11,,34256
+PMC4232691,"Agrobacterium",10,,357
+PMC4232691,"MVA",9,,467144
+PMC4232691,"Arabidopsis",8,,3701
+PMC4232691,"N. benthamiana",7,,4100
+PMC4232691,"Artemisia annua",5,,35608
+PMC4232691,"Abies grandis",5,,46611
+PMC4232691,"Arabidopsis thaliana",4,,3702
+PMC4232691,"Mentha",3,,21819
+PMC4232691,"tobacco",3,,4097
+PMC4232691,"tomato",3,,4081
+PMC4232691,"Snapdragon",3,,4151
+PMC4232691,"oxide",3,,1350215
+PMC4232691,"Salvia officinalis",3,,38868
+PMC4232691,"Zea mays",2,,4577
+PMC4232691,"Oryza sativa",2,,4530
+PMC4232691,"Picea abies",2,,3329
+PMC4232691,"E.coli",2,,562
+PMC4232691,"Agrobacterium tumefaciens",2,,358
+PMC4232691,"Cucurbita maxima",2,,3661
+PMC4232691,"Solidago canadensis",2,,59297
+PMC4232691,"Stevia rebaudiana",2,,55670
+PMC4232691,"electron",1,,1118549
+PMC4232691,"Medicago truncatula",1,,3880
+PMC4232691,"Ginkgo biloba",1,,3311
+PMC4232691,"Pinus densiflora",1,,77912
+PMC4232691,"Vitis vinifera",1,,29760
+PMC4232691,"Perilla citriodora",1,,121094
+PMC4232691,"Perilla frutescens",1,,48386
+PMC4232691,"Citrus limon",1,,2708
+PMC4232691,"Cichorium intybus",1,,13427
+PMC4232691,"Lactuca sativa",1,,4236
+PMC4242925,"Trigonella",9,,78532
+PMC4242925,"Trifolieae",1,,163742
+PMC4242925,"Fabaceae",1,,3803
+PMC4242925,"plants",1,,3193
+PMC4242925,"Trigonella foenum-graecum L.",1,,78534
+PMC4242925,"oxide",1,,1350215
+PMC4293675,"Cunninghamella echinulata",6,,76405
+PMC4293675,"fungi",5,,4751
+PMC4293675,"Aspergillus niger",4,,5061
+PMC4293675,"Rhizopus arrhizus",3,,64495
+PMC4293675,"Streptomyces griseus",3,,1911
+PMC4293675,"ginseng",3,,4054
+PMC4293675,"plants",2,,3193
+PMC4293675,"yeast",1,,4932
+PMC4293675,"Pyrobaculum calidifontis VA1",1,,410359
+PMC4293675,"Glomerella cingulata",1,,5457
+PMC4293675,"Absidia glauca",1,,4829
+PMC4293675,"Didiscus oxeata",1,,177568
+PMC4293675,"Kluyveromyces marxianus",1,,4911
+PMC4293675,"Aspergillus alliaceus",1,,209559
+PMC4293675,"Rhodotorula",1,,200204
+PMC4293675,"Debaryomyces hansenii",1,,4959
+PMC4293675,"Mucor plumbeus",1,,97098
+PMC4293675,"Trichoderma",1,,5543
+PMC4293675,"Aspergillus ochraceus",1,,40380
+PMC4293675,"Coriolus versicolor",1,,5325
+PMC4293675,"Artemisia annua",1,,35608
+PMC4293675,"Penicillium chrysogenum",1,,5076
+PMC4293675,"Taxus brevifolia",1,,46220
+PMC4293675,"Streptomyces sp.",1,,1931
+PMC4293675,"Mucor spinosus",1,,562977
+PMC4293675,"Myrothecium verrucaria",1,,5532
+PMC4293675,"Fusarium proliferatum",1,,948311
+PMC4293675,"Absidia coerulea",1,,90261
+PMC4293675,"Absidia",1,,4828
+PMC4293675,"Cladosporium fulvum",1,,5499
+PMC4293675,"Pythium",1,,4797
+PMC4293675,"Microbacterium sp.",1,,51671
+PMC4293675,"Evodia rutaecarpa",1,,354523
+PMC4293675,"Penicillium janthinellum",1,,5079
+PMC4293675,"rats",1,,10116
+PMC4293675,"Mucor piriformis",1,,105697
+PMC4293675,"Streptomyces",1,,1883
+PMC4293675,"Cunninghamella",1,,4852
+PMC4293675,"Fusarium",1,,5506
+PMC4293675,"Alternaria",1,,5598
+PMC4293675,"A. alternata",1,,318205
+PMC4293675,"Pseudomonas aeruginosa",1,,287
+PMC4293675,"Mucor",1,,4830
+PMC4293675,"Nocardia sp.",1,,1821
+PMC4293675,"Cunninghamella elegans",1,,4853
+PMC4293675,"human",1,,9606
+PMC4309438,"electrons",10,,1118549
+PMC4309438,"Bacteria",2,,2
+PMC4309438,"insects",1,,6960
+PMC4309438,"bear",1,,9641
+PMC4309438,"goes",1,,376232
+PMC4309438,"bare",1,,1368948
+PMC4309438,"Escherichia coli",1,,562
+PMC4309438,"spearmint",1,,29719
+PMC4309438,"caraway",1,,48032
+PMC4309438,"human",1,,9606
+PMC4309438,"Polistes dominula",1,,743375
+PMC4311404,"electron",6,,1118549
+PMC4311404,"tetra",1,,1310384
+PMC4311404,"arenes",1,,529734
+PMC4311427,"Chrysomya megacephala",43,,115424
+PMC4311427,"humans",4,,9606
+PMC4311427,"flies",4,,7147
+PMC4311427,"insects",4,,6960
+PMC4311427,"Drosophila melanogaster",4,,7227
+PMC4311427,"blowfly",3,,7371
+PMC4311427,"Drosophila",3,,32281
+PMC4311427,"Calliphora stygia",3,,145453
+PMC4311427,"cafeterias",1,,33652
+PMC4311427,"mangos",1,,29780
+PMC4311427,"mates",1,,185542
+PMC4311427,"Delia antiqua",1,,265456
+PMC4311427,"fish",1,,7898
+PMC4311427,"whale",1,,9721
+PMC4319901,"animals",56,,33208
+PMC4319901,"mice",38,,10088
+PMC4319901,"rats",16,,10116
+PMC4319901,"Rodents",7,,9989
+PMC4319901,"Ginseng",2,,4054
+PMC4319901,"Kava",2,,130404
+PMC4319901,"Ginkgo biloba",2,,3311
+PMC4319901,"humans",2,,9606
+PMC4319901,"Safflower",1,,4222
+PMC4319901,"Turmeric",1,,136217
+PMC4319901,"Goldenseal",1,,13569
+PMC4319901,"Milk thistle",1,,92921
+PMC4319901,"Aloe vera",1,,34199
+PMC4319901,"mouse",1,,10090
+PMC4322175,"Anethum graveolens",46,,40922
+PMC4322175,"Rats",24,,10116
+PMC4322175,"animals",10,,33208
+PMC4322175,"corona",4,,859912
+PMC4322175,"umbelliferae",1,,4037
+PMC4322175,"Human",1,,9606
+PMC4322175,"Ulex europaeus",1,,3902
+PMC4322175,"peanut",1,,3818
+PMC4322175,"Dolichos biflorus",1,,271171
+PMC4322175,"oxide",1,,1350215
+PMC4322175,"electron",1,,1118549
+PMC4322175,"plants",1,,3193
+PMC4327056,"aromas",135,,354777
+PMC4327056,"apple",38,,3750
+PMC4327056,"peach",21,,3760
+PMC4327056,"Mango",13,,29780
+PMC4327056,"pineapple",13,,4615
+PMC4327056,"Apricot",12,,36596
+PMC4327056,"strawberry",11,,3747
+PMC4327056,"human",10,,9606
+PMC4327056,"pear",10,,23211
+PMC4327056,"Rosaceae",9,,3745
+PMC4327056,"tomato",9,,4081
+PMC4327056,"citrus",8,,2706
+PMC4327056,"Banana",7,,4641
+PMC4327056,"oxide",7,,1350215
+PMC4327056,"A. cepa",6,,4679
+PMC4327056,"Libra",6,,509413
+PMC4327056,"sapodilla",4,,3741
+PMC4327056,"loquats",4,,32224
+PMC4327056,"Solanaceae",4,,4070
+PMC4327056,"Rutaceae",4,,23513
+PMC4327056,"Vaccinium",3,,13749
+PMC4327056,"Vitis vinifera",3,,29760
+PMC4327056,"Fragaria",3,,3746
+PMC4327056,"muskmelon",3,,3656
+PMC4327056,"bilberry",3,,180763
+PMC4327056,"soursop",3,,13337
+PMC4327056,"Allium",3,,4678
+PMC4327056,"kiwifruit",2,,3627
+PMC4327056,"Rubus idaeus",2,,32247
+PMC4327056,"Cyrano",2,,1407307
+PMC4327056,"Pyrus",2,,3766
+PMC4327056,"Pyrus ussuriensis",2,,309349
+PMC4327056,"nectarines",2,,323851
+PMC4327056,"C. bergamia",2,,380129
+PMC4327056,"Rubus glaucus",2,,190226
+PMC4327056,"Vaccinium meridionale",2,,57538
+PMC4327056,"Salacca",2,,93315
+PMC4327056,"durian",2,,66656
+PMC4327056,"Durio",2,,66655
+PMC4327056,"Phoenix dactylifera",2,,42345
+PMC4327056,"Corylus avellana L.",2,,13451
+PMC4327056,"Diospyros kaki",2,,35925
+PMC4327056,"A. sativum",2,,4682
+PMC4327056,"A. ampeloprasum",2,,4681
+PMC4327056,"Piper nigrum L.",2,,13216
+PMC4327056,"cucumber",2,,869827
+PMC4327056,"Cucumis sativus",2,,3659
+PMC4327056,"Capsicum annuum",2,,4072
+PMC4327056,"Ericaceae",2,,4345
+PMC4327056,"Cucurbitaceae",2,,3650
+PMC4327056,"Arecaceae",2,,4710
+PMC4327056,"Liliaceae",2,,4677
+PMC4327056,"angiosperms",1,,3398
+PMC4327056,"seed plants",1,,58024
+PMC4327056,"MVA",1,,467144
+PMC4327056,"Pyrus pyrifolia",1,,3767
+PMC4327056,"highbush blueberry",1,,69266
+PMC4327056,"Cucumis",1,,3655
+PMC4327056,"Citrullus",1,,3653
+PMC4327056,"honeydew melons",1,,357961
+PMC4327056,"Actinidia",1,,3624
+PMC4327056,"C. reticulata Blanco",1,,85571
+PMC4327056,"C. sudachi",1,,558546
+PMC4327056,"C. sphaerocarpa Tanaka",1,,650012
+PMC4327056,"custard apple",1,,301693
+PMC4327056,"hazelnuts",1,,13450
+PMC4327056,"Ziziphus jujuba",1,,326968
+PMC4327056,"Caraway",1,,48032
+PMC4327056,"Plantain",1,,214693
+PMC4327056,"Musaceae",1,,4637
+PMC4327056,"Malvaceae",1,,3629
+PMC4327056,"Vitaceae",1,,3602
+PMC4327056,"Betulaceae",1,,3514
+PMC4327056,"Anacardiaceae",1,,4011
+PMC4327056,"shallot",1,,28911
+PMC4327056,"Piperaceae",1,,16739
+PMC4327056,"Ebenaceae",1,,19955
+PMC4327056,"Bromeliaceae",1,,4613
+PMC4327056,"Sapotaceae",1,,3737
+PMC4327056,"Annonaceae",1,,22140
+PMC4327056,"Cherry tomato",1,,195583
+PMC4327928,"electron",9,,1118549
+PMC4327928,"Saccharomyces pastorianus",2,,27292
+PMC4327928,"Candida antarctica",1,,34362
+PMC4327928,"Escherichia coli",1,,562
+PMC4339706,"Chrysanthemum boreale",75,,344871
+PMC4339706,"Streptococcus mutans",57,,1309
+PMC4339706,"bacteria",15,,2
+PMC4339706,"electron",2,,1118549
+PMC4339706,"Mentha longifolia",1,,38859
+PMC4339706,"Aralia continentalis",1,,287721
+PMC4339706,"Curcuma longa",1,,136217
+PMC4339706,"Asteraceae",1,,4210
+PMC4339706,"Chrysanthemum",1,,13422
+PMC4339706,"plants",1,,3193
+PMC4339706,"human",1,,9606
+PMC4339706,"C. coronarium",1,,99038
+PMC4339706,"C. indicum",1,,146995
+PMC4339706,"Mentha",1,,21819
+PMC4339706,"oxide",1,,1350215
+PMC4344607,"Laurencia dendroidea",47,,700169
+PMC4344607,"Laurencia",18,,99900
+PMC4344607,"MVA",15,,467144
+PMC4344607,"plants",10,,3193
+PMC4344607,"electron",8,,1118549
+PMC4344607,"Rhodophyta",5,,2763
+PMC4344607,"algae",4,,3041
+PMC4344607,"Chondrus crispus",3,,2769
+PMC4344607,"eukaryotes",3,,2759
+PMC4344607,"bacteria",3,,2
+PMC4344607,"potatoes",2,,4113
+PMC4344607,"Portieria hornemannii",2,,128534
+PMC4344607,"Arabidopsis thaliana",2,,3702
+PMC4344607,"microcladia",2,,326256
+PMC4344607,"vascular plants",2,,58023
+PMC4344607,"Florideophyceae",1,,2806
+PMC4344607,"Escherichia coli",1,,562
+PMC4344607,"Saccharomyces cerevisiae",1,,4932
+PMC4344607,"Cyanidium caldarium",1,,2771
+PMC4344607,"Galdieria sulphuraria",1,,130081
+PMC4344607,"Pyropia yezoensis",1,,2788
+PMC4344607,"Laurencia papillosa",1,,201070
+PMC4344607,"archaea",1,,2157
+PMC4344607,"Pisum sativum",1,,3888
+PMC4344607,"Nepeta cataria",1,,39347
+PMC4344607,"cyanobacteria",1,,1117
+PMC4344607,"rice",1,,4530
+PMC4344607,"Fucus vesiculosus",1,,49266
+PMC4344607,"Laurenciabrongniartii",1,,197325
+PMC4344607,"L. decumbens",1,,997938
+PMC4344607,"L. similis",1,,140586
+PMC4344607,"L. obtusa",1,,137763
+PMC4344607,"human",1,,9606
+PMC4344607,"L. filiformis",1,,110462
+PMC4344607,"cotton",1,,3635
+PMC4344607,"Streptococcus pneumoniae",1,,1313
+PMC4344607,"Ecklonia maxima",1,,428677
+PMC4344607,"Anchieta",1,,1548263
+PMC4346696,"Chicken",29,,9031
+PMC4346696,"Eimeria",27,,5800
+PMC4346696,"E. tenella",15,,5802
+PMC4346696,"birds",12,,8782
+PMC4346696,"E. acervulina",10,,5801
+PMC4346696,"plants",9,,3193
+PMC4346696,"E. maxima",9,,5804
+PMC4346696,"animals",6,,33208
+PMC4346696,"E. necatrix",5,,51315
+PMC4346696,"yeast",5,,4932
+PMC4346696,"Garlic",5,,4682
+PMC4346696,"humans",4,,9606
+PMC4346696,"E. mitis",4,,44415
+PMC4346696,"Curcuma longa",4,,136217
+PMC4346696,"cattle",3,,9913
+PMC4346696,"E. brunetti",3,,51314
+PMC4346696,"plum",3,,3758
+PMC4346696,"clove",3,,219868
+PMC4346696,"Ulmus macrocarpa",3,,1043716
+PMC4346696,"Pulsatilla koreana",3,,387930
+PMC4346696,"Sophora flavescens",3,,49840
+PMC4346696,"Artemisia sieberi",3,,72352
+PMC4346696,"Eclipta",3,,53718
+PMC4346696,"capsicum",3,,4071
+PMC4346696,"Toxoplasma",2,,5810
+PMC4346696,"E. mivati",2,,54117
+PMC4346696,"E. praecox",2,,51316
+PMC4346696,"fish",2,,7898
+PMC4346696,"Artemisia annua",2,,35608
+PMC4346696,"artemisia",2,,4219
+PMC4346696,"Sinomenium acutum",2,,152363
+PMC4346696,"bacteria",2,,2
+PMC4346696,"Mycobacterium phlei",2,,1771
+PMC4346696,"wheat",2,,4565
+PMC4346696,"fungi",2,,4751
+PMC4346696,"Lentinula edodes",2,,5353
+PMC4346696,"oxide",2,,1350215
+PMC4346696,"Eimeriidae",1,,5799
+PMC4346696,"Apicomplexa",1,,5794
+PMC4346696,"Plasmodium falciparum",1,,5833
+PMC4346696,"Babesia",1,,5864
+PMC4346696,"Theileria",1,,5873
+PMC4346696,"Cryptosporidium",1,,5806
+PMC4346696,"Sarcocystis",1,,5812
+PMC4346696,"vertebrates",1,,7742
+PMC4346696,"horses",1,,9796
+PMC4346696,"dogs",1,,9615
+PMC4346696,"cats",1,,9685
+PMC4346696,"rabbits",1,,9986
+PMC4346696,"sheep",1,,9940
+PMC4346696,"pigs",1,,9823
+PMC4346696,"turkeys",1,,9005
+PMC4346696,"coccidians",1,,5796
+PMC4346696,"Isospora",1,,56625
+PMC4346696,"electron",1,,1118549
+PMC4346696,"pomegranate",1,,22663
+PMC4346696,"bearberry",1,,84009
+PMC4346696,"rosemary",1,,39367
+PMC4346696,"oregano",1,,39352
+PMC4346696,"Tulbaghia violacea",1,,51492
+PMC4346696,"Vitis vinifera",1,,29760
+PMC4346696,"Artemisia afra",1,,72333
+PMC4346696,"thyme",1,,49992
+PMC4346696,"tea tree",1,,164405
+PMC4346696,"Torilis japonica",1,,49576
+PMC4346696,"Quisqualis indica",1,,3956
+PMC4346696,"Moringa oleifera",1,,3735
+PMC4346696,"Pediococcus acidilactici",1,,1254
+PMC4346696,"Saccharomyces",1,,4930
+PMC4346696,"Tremella",1,,105767
+PMC4346696,"Aegle marmelos",1,,68527
+PMC4346696,"Olea europaea",1,,4146
+PMC4346696,"Pinus radiata",1,,3347
+PMC4346696,"Echinacea purpurea",1,,53751
+PMC4346696,"Almeida",1,,706296
+PMC4346696,"Pichia guilliermondii",1,,4929
+PMC4346696,"caecum",1,,761541
+PMC4346696,"Ageratum conyzoides",1,,68299
+PMC4346696,"Emblica officinalis",1,,296036
+PMC4346696,"Musa paradisiaca",1,,89151
+PMC4346696,"Ganoderma lucidum",1,,5315
+PMC4346696,"Aloe vera",1,,34199
+PMC4346696,"Bocconia",1,,72181
+PMC4346696,"Apple",1,,3750
+PMC4346696,"grapefruit",1,,37656
+PMC4346696,"cinnamon",1,,128608
+PMC4346696,"Elephantopus scaber",1,,396369
+PMC4346696,"Valeriana",1,,19952
+PMC4353025,"mammals",1,,40674
+PMC4353025,"human",1,,9606
+PMC4353025,"cat",1,,9685
+PMC4355985,"electron",5,,1118549
+PMC4355985,"peppermint",2,,34256
+PMC4355985,"Alberta",1,,73950
+PMC4355985,"Sonia",1,,581530
+PMC4355985,"plants",1,,3193
+PMC4355985,"strawberry",1,,3747
+PMC4355985,"Mentha",1,,21819
+PMC4355985,"automate",1,,150701
+PMC4356138,"citrus",16,,2706
+PMC4356138,"sweet orange",11,,2711
+PMC4356138,"Vitis vinifera",9,,29760
+PMC4356138,"Ricinus communis",8,,3988
+PMC4356138,"aroma",7,,354777
+PMC4356138,"Glycine max",7,,3847
+PMC4356138,"Citrus unshiu",6,,55188
+PMC4356138,"Populus trichocarpa",6,,3694
+PMC4356138,"tomato",5,,4081
+PMC4356138,"Arabidopsis thaliana",5,,3702
+PMC4356138,"Citrus maxima",5,,37334
+PMC4356138,"tangerine",4,,85571
+PMC4356138,"MVA",4,,467144
+PMC4356138,"Zea mays",3,,4577
+PMC4356138,"Mentha",2,,21819
+PMC4356138,"Helianthus annuus",2,,4232
+PMC4356138,"Hevea brasiliensis",2,,3981
+PMC4356138,"Citrus limon",2,,2708
+PMC4356138,"Citrus clementina",2,,85681
+PMC4356138,"Solanum tuberosum",2,,4113
+PMC4356138,"plants",2,,3193
+PMC4356138,"human",1,,9606
+PMC4356138,"peach",1,,3760
+PMC4356138,"strawberry",1,,3747
+PMC4356138,"banana",1,,4641
+PMC4356138,"Roseiflexus castenholzii",1,,120962
+PMC4356138,"Medicago truncatula",1,,3880
+PMC4356138,"Oryza sativa Indica",1,,39946
+PMC4356138,"Chlamydomonas reinhardtii",1,,3055
+PMC4356138,"Poncirus trifoliata",1,,37690
+PMC4356138,"Fragaria",1,,3746
+PMC4356138,"Elaeis guineensis",1,,51953
+PMC4356138,"Dimocarpus longan",1,,128017
+PMC4356138,"Linum usitatissimum",1,,4006
+PMC4356138,"Brassica napus",1,,3708
+PMC4356138,"Lupinus albus",1,,3870
+PMC4356138,"Populus tremuloides",1,,3693
+PMC4356138,"Nicotiana tabacum",1,,4097
+PMC4356138,"Picea glauca",1,,3330
+PMC4356138,"Oryza sativa Japonica",1,,39947
+PMC4356138,"Clarkia breweri",1,,36903
+PMC4356138,"Gossypium hirsutum",1,,3635
+PMC4356138,"Cucumis melo",1,,3656
+PMC4356138,"Astragalus membranaceus",1,,649199
+PMC4356138,"watermelon",1,,260674
+PMC4356138,"Cleopatra mandarin",1,,171252
+PMC4356138,"Rye",1,,4550
+PMC4356138,"green plants",1,,33090
+PMC4359887,"Pistacia khinjuk",45,,434236
+PMC4359887,"Leishmania tropica",16,,5666
+PMC4359887,"mice",15,,10088
+PMC4359887,"L. major",10,,5664;55468;192173;225018;419269;488399;1030855;1297553;1429959
+PMC4359887,"P. vera",4,,55513
+PMC4359887,"plants",4,,3193
+PMC4359887,"animals",4,,33208
+PMC4359887,"Leishmania major",3,,5664
+PMC4359887,"Leishmania",3,,38568
+PMC4359887,"Pistacia",3,,55512
+PMC4359887,"Murine",3,,39107
+PMC4359887,"Oxide",3,,1350215
+PMC4359887,"Anacardiaceae",2,,4011
+PMC4359887,"P. atlantica",2,,434234
+PMC4359887,"L. donovani",2,,5661
+PMC4359887,"Plasmodium falciparum",2,,5833
+PMC4359887,"bovine",1,,27592
+PMC4371224,"Piper hispidum",34,,130401
+PMC4371224,"Otacanthus azureus",24,,303132
+PMC4371224,"Protium heptaphyllum",22,,246847
+PMC4371224,"Leishmania amazonensis",18,,5659
+PMC4371224,"Cymbopogon citratus",15,,66014
+PMC4371224,"mice",14,,10088
+PMC4371224,"plants",6,,3193
+PMC4371224,"Trichophyton mentagrophytes",6,,523103
+PMC4371224,"Microsporum gypseum",6,,63402
+PMC4371224,"Leishmania",5,,38568
+PMC4371224,"fungi",5,,4751
+PMC4371224,"Microsporum canis",4,,63405
+PMC4371224,"Mikania micrantha",4,,192012
+PMC4371224,"A. guianensis",3,,149689
+PMC4371224,"V. americana",3,,29649
+PMC4371224,"Achetaria",2,,255813
+PMC4371224,"Vouacapoua americana",2,,115636
+PMC4371224,"electron",2,,1118549
+PMC4371224,"Mouse",2,,10090
+PMC4371224,"Leishmania sp.",2,,28847
+PMC4371224,"dermatophytes",1,,34384
+PMC4371224,"insects",1,,6960
+PMC4371224,"Scrophulariaceae",1,,4149
+PMC4371224,"Poaceae",1,,4479
+PMC4371224,"Asteraceae",1,,4210
+PMC4371224,"Plantaginaceae",1,,156152
+PMC4371224,"Piperaceae",1,,16739
+PMC4371224,"Burseraceae",1,,4014
+PMC4371224,"Fabaceae",1,,3803
+PMC4371224,"Regina",1,,183601
+PMC4371224,"Trichophyton",1,,5550
+PMC4371224,"Microsporum",1,,34392
+PMC4371224,"potato",1,,4113
+PMC4371224,"bovine",1,,27592
+PMC4371224,"African Green Monkey",1,,9534
+PMC4371224,"human",1,,9606
+PMC4371224,"S. cerevisiae",1,,4932
+PMC4371224,"Rice",1,,4530
+PMC4372811,"mice",28,,10088
+PMC4372811,"animals",14,,33208
+PMC4372811,"rabbit",3,,9986
+PMC4372811,"mouse",3,,10090
+PMC4372811,"bovine",2,,27592
+PMC4372811,"Renilla",2,,6134
+PMC4372811,"SV40",2,,10633
+PMC4372811,"chimera",2,,7870
+PMC4372811,"Dolichos biflorus",2,,271171
+PMC4372811,"vanilline",1,,158369
+PMC4372811,"donkey",1,,9793
+PMC4372811,"goat",1,,9925
+PMC4372811,"rodents",1,,9989
+PMC4372811,"mate",1,,185542
+PMC4372811,"human",1,,9606
+PMC4372811,"mammals",1,,40674
+PMC4387231,"Nigella sativa",50,,555479
+PMC4387231,"rats",10,,10116
+PMC4387231,"Hepatitis C virus",9,,11103
+PMC4387231,"oxide",4,,1350215
+PMC4387231,"Ranunculaceae",2,,3440
+PMC4387231,"Plants",2,,3193
+PMC4387231,"scorpions",1,,6855
+PMC4387231,"Human",1,,9606
+PMC4389268,"mice",43,,10088
+PMC4389268,"animals",19,,33208
+PMC4389268,"mouse",13,,10090
+PMC4389268,"chocolate",4,,3641
+PMC4389268,"rats",2,,10116
+PMC4389268,"viruses",1,,10239
+PMC4389268,"mammals",1,,40674
+PMC4389268,"Silveira",1,,279475
+PMC4389268,"monkeys",1,,9527
+PMC4389268,"cats",1,,9685
+PMC4389268,"compacta",1,,581810
+PMC4389268,"Montana",1,,441235
+PMC4389412,"plants",5,,3193
+PMC4389412,"Mentha spicata",3,,29719
+PMC4389412,"bacteria",3,,2
+PMC4389412,"fungi",2,,4751
+PMC4389412,"Carum carvi",1,,48032
+PMC4395931,"Cyperus rotundus",58,,512623
+PMC4395931,"Aconitum heterophyllum",36,,279769
+PMC4395931,"C. scariosus",18,,1142013
+PMC4395931,"tubers",18,,36048
+PMC4395931,"Cryptocoryne spiralis",16,,1160303
+PMC4395931,"Aconitum",10,,49188
+PMC4395931,"Cyperus",8,,4610
+PMC4395931,"plants",8,,3193
+PMC4395931,"Cyperaceae",5,,4609
+PMC4395931,"Ranunculaceae",3,,3440
+PMC4395931,"A. ferox",3,,50866
+PMC4395931,"Pterocarpus santalinus",2,,1071199
+PMC4395931,"Vetiveria zizanioides",2,,167337
+PMC4395931,"Pitta",2,,9162
+PMC4395931,"Araceae",2,,4454
+PMC4395931,"oxide",2,,1350215
+PMC4395931,"aroma",2,,354777
+PMC4395931,"human",1,,9606
+PMC4395931,"Saussurea lappa",1,,324593
+PMC4395931,"Inula racemosa Hook.f.",1,,483693
+PMC4395931,"Asteraceae",1,,4210
+PMC4395931,"Nagara",1,,709261
+PMC4395931,"Aconitum carmichaeli",1,,85363
+PMC4395931,"A. napellus",1,,112591
+PMC4395931,"A. palmatum",1,,279772
+PMC4395931,"mice",1,,10088
+PMC4395931,"C. articulatus",1,,1352543
+PMC4395931,"Radix",1,,55689
+PMC4395931,"monocots",1,,4447
+PMC4398050,"flies",8,,7147
+PMC4398050,"Drosophila melanogaster",7,,7227
+PMC4398050,"humans",5,,9606
+PMC4398050,"Drosophila",5,,32281
+PMC4398050,"insects",2,,6960
+PMC4398050,"Wolbachia",2,,953
+PMC4398050,"vertebrates",1,,7742
+PMC4398050,"mice",1,,10088
+PMC4398050,"yeast",1,,4932
+PMC4398050,"cotton",1,,3635
+PMC4398050,"plants",1,,3193
+PMC4398050,"mammals",1,,40674
+PMC4405290,"Agaricus bisporus",16,,5341
+PMC4405290,"Lactarius deliciosus",5,,55514
+PMC4405290,"Tricholomopsis rutilans",4,,151294
+PMC4405290,"Clathrus ruber",4,,112986
+PMC4405290,"Omphalotus olearius",4,,72120
+PMC4405290,"Lactarius chrysorrheus Fr.",4,,111135
+PMC4405290,"Agaricus xanthodermus Genev.",3,,83518
+PMC4405290,"Cantharellus cibarius",3,,36066
+PMC4405290,"Ganoderma resinaceum",3,,34465
+PMC4405290,"human",2,,9606
+PMC4405290,"Agaricus",2,,5340
+PMC4405290,"Tuber",2,,36048
+PMC4405290,"Ganoderma lucidum",2,,5315
+PMC4405290,"Agrocybe aegerita",2,,5400
+PMC4405290,"Clitocybe odora",2,,181985
+PMC4405290,"Lentinus edodes",1,,5353
+PMC4405290,"A. placomyces",1,,182818
+PMC4405290,"A. pseudopratensis",1,,314554
+PMC4405290,"wheat",1,,4565
+PMC4405290,"carrot",1,,4039
+PMC4405290,"peach",1,,3760
+PMC4405290,"anise",1,,40880
+PMC4405290,"flies",1,,7147
+PMC4405290,"radish",1,,3726
+PMC4405290,"insects",1,,6960
+PMC4405290,"aegerita",1,,409239
+PMC4405290,"oxide",1,,1350215
+PMC4405290,"Mentha",1,,21819
+PMC4408633,"Plants",19,,3193
+PMC4408633,"Aedes aegypti",16,,7159
+PMC4408633,"Eugenia",6,,119950
+PMC4408633,"Psidium",6,,120289
+PMC4408633,"L. gracilis",5,,215424
+PMC4408633,"Myrcia",4,,375249
+PMC4408633,"Siparuna",4,,63803
+PMC4408633,"Lippia",4,,320344
+PMC4408633,"P. myrsinites",4,,123441
+PMC4408633,"S. camporum",4,,153526
+PMC4408633,"Diptera",3,,7147
+PMC4408633,"Culicidae",3,,7157
+PMC4408633,"Mesas",3,,59979
+PMC4408633,"Myrtaceae",2,,3931
+PMC4408633,"oxide",2,,1350215
+PMC4408633,"Aedes",1,,7158;149531
+PMC4408633,"Stegomyia",1,,53541
+PMC4408633,"viruses",1,,10239
+PMC4408633,"chikungunya virus",1,,37124
+PMC4408633,"Balsas",1,,214068
+PMC4408633,"human",1,,9606
+PMC4408633,"Psidium guajava L.",1,,120290
+PMC4408633,"M. ovata",1,,81526
+PMC4408633,"Siparunaceae",1,,104773
+PMC4408633,"Verbenaceae",1,,21910
+PMC4412152,"Human",14,,9606
+PMC4412152,"cinnamon",7,,128608
+PMC4412152,"spearmint",5,,29719
+PMC4412152,"coffee",3,,13443
+PMC4412152,"Carnivora",2,,33554
+PMC4412152,"mice",2,,10088
+PMC4412152,"Renilla",2,,6134
+PMC4412152,"Drosophila melanogaster",1,,7227
+PMC4412152,"mouse",1,,10090
+PMC4412152,"SV40",1,,10633
+PMC4412152,"banana",1,,4641
+PMC4412152,"nutmeg",1,,51089
+PMC4413252,"plants",41,,3193
+PMC4413252,"human",14,,9606
+PMC4413252,"Echinops",13,,32194
+PMC4413252,"Asteraceae",11,,4210
+PMC4413252,"Xylopia aethiopica",10,,1317910
+PMC4413252,"Piper capense",10,,247681
+PMC4413252,"Rutaceae",10,,23513
+PMC4413252,"Aframomum",7,,188478
+PMC4413252,"Imperata cylindrica",7,,80369
+PMC4413252,"Polyscias fulva",7,,150522
+PMC4413252,"Anonidium",6,,306991
+PMC4413252,"Uapaca",6,,283116
+PMC4413252,"Gladiolus",6,,49747
+PMC4413252,"colon",6,,1542223
+PMC4413252,"Euphorbiaceae",5,,3977
+PMC4413252,"Vepris soyauxii",5,,1317904
+PMC4413252,"Beilschmiedia acuta",5,,1317758
+PMC4413252,"Ferula hermonis",5,,662815
+PMC4413252,"Zingiberaceae",4,,4642
+PMC4413252,"Annonaceae",4,,22140
+PMC4413252,"Piperaceae",4,,16739
+PMC4413252,"Zingiber officinale",4,,94328
+PMC4413252,"Apiaceae",4,,4037
+PMC4413252,"Fabaceae",4,,3803
+PMC4413252,"Aframomum polyanthum",3,,637933
+PMC4413252,"Poaceae",3,,4479
+PMC4413252,"Dorstenia psilurus",3,,106723
+PMC4413252,"Moraceae",3,,3487
+PMC4413252,"Crinum",3,,16055
+PMC4413252,"Crataegus sinaica",3,,298646
+PMC4413252,"Carthamus tenuis",3,,123802
+PMC4413252,"Colo",3,,307630
+PMC4413252,"Erythrina",3,,3841
+PMC4413252,"Guttiferae",3,,55961
+PMC4413252,"Apocynaceae",2,,4056
+PMC4413252,"animals",2,,33208
+PMC4413252,"Madagascar periwinkle",2,,4058
+PMC4413252,"Olax",2,,50152
+PMC4413252,"Olacaceae",2,,3973
+PMC4413252,"Piper guineense",2,,511543
+PMC4413252,"Aframomum melegueta",2,,637930
+PMC4413252,"Iridaceae",2,,26339
+PMC4413252,"Araliaceae",2,,4050
+PMC4413252,"Lauraceae",2,,3433
+PMC4413252,"Amaryllidaceae",2,,4668
+PMC4413252,"Dioscorea bulbifera L.",2,,35874
+PMC4413252,"Dioscoreaceae",2,,4671
+PMC4413252,"Entada abyssinica",2,,204973
+PMC4413252,"Eremomastax speciosa",2,,37794
+PMC4413252,"Acanthaceae",2,,4185
+PMC4413252,"Piliostigma thonningii",2,,653098
+PMC4413252,"Bidens pilosa",2,,42337
+PMC4413252,"Carduncellus eriocephalus",2,,123808
+PMC4413252,"Verbesina",2,,41660
+PMC4413252,"Haplophyllum tuberculatum",2,,452784
+PMC4413252,"Foeniculum vulgare",2,,48038
+PMC4413252,"Vitis vinifera",2,,29760
+PMC4413252,"Albizia",2,,3812
+PMC4413252,"Elaeodendron",2,,123414
+PMC4413252,"Celastraceae",2,,4305
+PMC4413252,"Dorstenia",2,,106722
+PMC4413252,"Polygonum limbatum Meisn.",2,,488000
+PMC4413252,"Plumeria rubra",1,,62097
+PMC4413252,"Diospyros crassiflora",1,,570480
+PMC4413252,"Diospyros",1,,13492
+PMC4413252,"Ebenaceae",1,,19955
+PMC4413252,"fungi",1,,4751
+PMC4413252,"bacteria",1,,2
+PMC4413252,"birds",1,,8782
+PMC4413252,"mammals",1,,40674
+PMC4413252,"vertebrates",1,,7742
+PMC4413252,"Aframomum alboviolaceum",1,,637922
+PMC4413252,"E. giganteus",1,,129919
+PMC4413252,"Rosaceae",1,,3745
+PMC4413252,"Echinops spinosissimus",1,,143198
+PMC4413252,"Commiphora",1,,43868
+PMC4413252,"Burseraceae",1,,4014
+PMC4413252,"Cynara cornigera",1,,157702
+PMC4413252,"Cynara scolymus",1,,59895
+PMC4413252,"Camellia sinensis",1,,4442
+PMC4413252,"Theaceae",1,,27065
+PMC4413252,"Cichorium intybus",1,,13427
+PMC4413252,"Vitaceae",1,,3602
+PMC4413252,"Casearia",1,,112816
+PMC4413252,"Flacourtiaceae",1,,3688
+PMC4413252,"Croton",1,,100370
+PMC4413252,"Croton goudotii Baill.",1,,518856
+PMC4413252,"Omphalocarpum",1,,233725
+PMC4413252,"Sapotaceae",1,,3737
+PMC4413252,"sigmoidea",1,,234931
+PMC4413252,"Erythrina senegalensis DC.",1,,157649
+PMC4413252,"Garcinia",1,,58227
+PMC4413252,"Milicia excelsa",1,,58664
+PMC4413252,"Vismia",1,,198794
+PMC4413252,"Newbouldia laevis",1,,211924
+PMC4413252,"Bignoniaceae",1,,24079
+PMC4413252,"Hypericum",1,,55962
+PMC4413252,"Hypericaceae",1,,629714
+PMC4413252,"Garcinia punctata Oliv.",1,,469937
+PMC4413252,"Polygonaceae",1,,3615
+PMC4413252,"Guiera senegalensis",1,,578546
+PMC4413252,"Combretaceae",1,,3954
+PMC4413252,"Zanthoxylum leprieurii",1,,992815
+PMC4413252,"Zanthoxylum",1,,67937
+PMC4413252,"eukaryotes",1,,2759
+PMC4413252,"Acanthospermum hispidum",1,,182999
+PMC4413252,"Guinea worm",1,,318479
+PMC4413252,"smallpox",1,,10255
+PMC4413252,"kalopanax",1,,46398
+PMC4415343,"mice",82,,10088
+PMC4415343,"plants",19,,3193
+PMC4415343,"animals",15,,33208
+PMC4415343,"Canscora",15,,82702
+PMC4415343,"Acorus Calamus",12,,4465
+PMC4415343,"Cannabis Sativa",10,,3483
+PMC4415343,"Rauvolfia serpentina (L.) Benth. ex Kurz",8,,4060
+PMC4415343,"Phyllanthus Emblica",8,,296036
+PMC4415343,"Datura Stramonium",8,,4076
+PMC4415343,"Nardostachys",4,,59169
+PMC4415343,"mouse",4,,10090
+PMC4415343,"Nardostachys jatamansi",3,,59170
+PMC4415343,"morphine",3,,42282
+PMC4415343,"tetra",3,,1310384
+PMC4415343,"Rats",2,,10116
+PMC4415343,"oxide",2,,1350215
+PMC4415343,"rodents",2,,9989
+PMC4415343,"human",1,,9606
+PMC4415343,"pitta",1,,9162
+PMC4415343,"apple",1,,3750
+PMC4415343,"Indian hemp",1,,229543
+PMC4415343,"cylinders",1,,6490
+PMC4415343,"fungi",1,,4751
+PMC4415343,"dog",1,,9615
+PMC4415343,"glycine",1,,1462605
+PMC4415343,"bacteria",1,,2
+PMC4415343,"mentha",1,,21819
+PMC4415343,"cannabis",1,,3482
+PMC4415343,"staphylococcus aureus",1,,1280
+PMC4415343,"bryophyllum",1,,92858
+PMC4424236,"Origanum dictamnus",39,,497761
+PMC4424236,"Saccharomyces cerevisiae",11,,4932
+PMC4424236,"Staphylococcus aureus",8,,1280
+PMC4424236,"Aspergillus niger",7,,5061
+PMC4424236,"Listeria monocytogenes",6,,1639
+PMC4424236,"Escherichia coli",5,,562
+PMC4424236,"Salmonella typhimurium",5,,90371
+PMC4424236,"Staphylococcus epidermidis",4,,1282
+PMC4424236,"Salmonella Enteritidis",4,,149539
+PMC4424236,"bacteria",4,,2
+PMC4424236,"plants",2,,3193
+PMC4424236,"Salmonella enterica",2,,28901
+PMC4424236,"fungi",2,,4751
+PMC4424236,"E. coli ATCC 25922",2,,1322345
+PMC4424236,"electron",2,,1118549
+PMC4424236,"human",2,,9606
+PMC4424236,"Staphylococcus",1,,1279
+PMC4424236,"Lamiaceae",1,,4136
+PMC4424236,"Salmonella enterica subsp. enterica",1,,59201
+PMC4424236,"bovine",1,,27592
+PMC4424236,"oxide",1,,1350215
+PMC4424236,"mouse",1,,10090
+PMC4424236,"colon",1,,1542223
+PMC4427012,"Euphrasia rostkoviana Hayne",16,,461349
+PMC4427012,"bacteria",9,,2
+PMC4427012,"yeast",8,,4932
+PMC4427012,"Pseudomonas aeruginosa",6,,287
+PMC4427012,"Candida albicans",6,,5476
+PMC4427012,"Staphylococcus aureus",5,,1280
+PMC4427012,"Gram-positive bacteria",5,,1239
+PMC4427012,"Euphrasia",4,,46053
+PMC4427012,"Enterococcus faecalis",4,,1351
+PMC4427012,"Escherichia coli",4,,562
+PMC4427012,"Klebsiella pneumoniae",4,,573
+PMC4427012,"S. epidermidis",4,,1282
+PMC4427012,"Scrophulariaceae",2,,4149
+PMC4427012,"E. stricta",2,,374709
+PMC4427012,"cow",1,,9913
+PMC4427012,"E. officinalis",1,,290213
+PMC4427012,"electron",1,,1118549
+PMC4427012,"Enterococcus faecalis ATCC 29212",1,,1201292
+PMC4427012,"S. epidermidis ATCC 12228",1,,176280
+PMC4427012,"Escherichia coli ATCC 25922",1,,1322345
+PMC4427012,"Artemisia annua",1,,35608
+PMC4427012,"Eucalyptus globulus",1,,34317
+PMC4427012,"Mentha suaveolens",1,,38860
+PMC4427012,"Myrtus communis",1,,119949
+PMC4427012,"Ocimum basilicum",1,,39350
+PMC4427012,"Thymus vulgaris",1,,49992
+PMC4427012,"fungi",1,,4751
+PMC4427012,"oxide",1,,1350215
+PMC4427012,"Cumin",1,,52462
+PMC4446488,"oxide",33,,1350215
+PMC4446488,"Bahia",11,,41489
+PMC4446488,"plants",7,,3193
+PMC4446488,"Lippia",5,,320344
+PMC4446488,"Verbenaceae",1,,21910
+PMC4446488,"Lantana",1,,87005
+PMC4446488,"lemon",1,,2708
+PMC4446488,"cattle",1,,9913
+PMC4446488,"electron",1,,1118549
+PMC4446488,"Pogostemon",1,,21861
+PMC4446488,"Aragua",1,,1007401
+PMC4446488,"Planaltina",1,,930374
+PMC4448976,"aroma",59,,354777
+PMC4448976,"oxide",23,,1350215
+PMC4448976,"lavender",5,,39329
+PMC4448976,"Animals",3,,33208
+PMC4448976,"rat",3,,10116
+PMC4448976,"Almeida",2,,706296
+PMC4448976,"lemongrass",2,,66014
+PMC4448976,"mice",2,,10088
+PMC4448976,"red pepper",1,,40321
+PMC4448976,"peppermint",1,,34256
+PMC4448976,"cinnamon",1,,128608
+PMC4448976,"plants",1,,3193
+PMC4448976,"morphine",1,,42282
+PMC4448976,"Saga",1,,441239
+PMC4448976,"frogs",1,,8342
+PMC4448976,"Rana nigromaculata",1,,8409
+PMC4448976,"rosemary",1,,39367
+PMC4448976,"camphor tree",1,,13429
+PMC4448976,"geranium",1,,4028
+PMC4448976,"eucalyptus",1,,3932
+PMC4448976,"pimenta",1,,260138
+PMC4448976,"mouse",1,,10090
+PMC4464069,"Gibbon",5,,9581
+PMC4464069,"human",3,,9606
+PMC4464069,"cacosmia",2,,13376
+PMC4464069,"horse",1,,9796
+PMC4464069,"lemongrass",1,,66014
+PMC4464069,"clove",1,,219868
+PMC4464069,"vanilla",1,,51238
+PMC4468856,"Yeast",10,,4932
+PMC4468856,"Escherichia coli",9,,562
+PMC4468856,"bacteria",8,,2
+PMC4468856,"oregano",8,,39352
+PMC4468856,"Listeria Monocytogenes",7,,1639
+PMC4468856,"Staphylococcus aureus",6,,1280
+PMC4468856,"chicken",4,,9031
+PMC4468856,"Fish",4,,7898
+PMC4468856,"Clove",3,,219868
+PMC4468856,"Salmonella typhimurium",3,,90371
+PMC4468856,"pimento",3,,40321
+PMC4468856,"grapefruit",2,,37656
+PMC4468856,"Lactobacillus plantarum",2,,1590
+PMC4468856,"Fusarium oxysporum",2,,5507
+PMC4468856,"Enterococcus faecalis",2,,1351
+PMC4468856,"Bacillus cereus",2,,1396
+PMC4468856,"Coma",2,,873064
+PMC4468856,"Pseudomonas sp",2,,306
+PMC4468856,"E. coli O157",2,,1045010
+PMC4468856,"garlic",2,,4682
+PMC4468856,"Tilapia",1,,8126
+PMC4468856,"Brochothrix thermosphacta",1,,2756
+PMC4468856,"Strawberry",1,,3747
+PMC4468856,"Enterobacter",1,,547
+PMC4468856,"Serratia sp.",1,,616
+PMC4468856,"Horseradish",1,,3704
+PMC4468856,"citronella",1,,159356
+PMC4468856,"Aspergillus niger",1,,5061
+PMC4468856,"Bacillus Coagulans",1,,1398
+PMC4468856,"Klebsiella",1,,570
+PMC4468856,"chocolates",1,,3641
+PMC4468856,"Coffee",1,,13443
+PMC4468856,"potato",1,,4113
+PMC4468856,"corn",1,,381124
+PMC4468856,"Micrococcus flavus",1,,384602
+PMC4468856,"M. luteus",1,,1270
+PMC4468856,"microbiota",1,,13613
+PMC4468856,"Rhodotorula rubra",1,,5537
+PMC4468856,"Penicillium notatum",1,,5076
+PMC4468856,"Salmonella",1,,590
+PMC4468856,"goes",1,,376232
+PMC4468856,"humans",1,,9606
+PMC4468856,"oysters",1,,6563
+PMC4468856,"thyme",1,,49992
+PMC4468856,"aroma",1,,354777
+PMC4482474,"peppermint",38,,34256
+PMC4482474,"lemon",31,,2708
+PMC4482474,"oxide",20,,1350215
+PMC4482474,"Melissa officinalis",5,,39338
+PMC4482474,"Matricaria chamomilla",4,,98504
+PMC4482474,"plants",2,,3193
+PMC4482474,"human",1,,9606
+PMC4482474,"Matricaria recutita",1,,127986
+PMC4482474,"Argentine",1,,442169
+PMC4486248,"lemon",11,,2708
+PMC4486248,"Citrus",7,,2706
+PMC4486248,"tangerine",7,,85571
+PMC4486248,"sweet orange",6,,2711
+PMC4486248,"aroma",2,,354777
+PMC4486248,"Mentha",1,,21819
+PMC4489822,"Dill",73,,40922
+PMC4489822,"Sclerotinia sclerotiorum",47,,5180
+PMC4489822,"Brassica napus",12,,3708
+PMC4489822,"plants",6,,3193
+PMC4489822,"electron",3,,1118549
+PMC4489822,"fungi",3,,4751
+PMC4489822,"Sclerotinia",2,,5179
+PMC4489822,"potato",2,,4113
+PMC4489822,"oxide",2,,1350215
+PMC4489822,"Apiaceae",1,,4037
+PMC4489822,"aroma",1,,354777
+PMC4489822,"sclerotium",1,,109383
+PMC4489822,"human",1,,9606
+PMC4499417,"Escherichia coli",49,,562
+PMC4499417,"Staphylococcus aureus",46,,1280
+PMC4499417,"bacteria",19,,2
+PMC4499417,"Plants",7,,3193
+PMC4499417,"Zeta",7,,743421
+PMC4499417,"Gram-positive bacteria",4,,1239
+PMC4499417,"electron",4,,1118549
+PMC4499417,"Cymbopogon winterianus",3,,1414754
+PMC4499417,"Carum carvi",3,,48032
+PMC4499417,"human",1,,9606
+PMC4499417,"Eucalyptus citriodora",1,,34329
+PMC4499417,"Salmonella typhimurium",1,,90371
+PMC4499417,"Vibrio vulnificus",1,,672
+PMC4499417,"Listeria monocytogenes",1,,1639
+PMC4499417,"tea tree",1,,164405
+PMC4503548,"Thymbra capitata",11,,543980
+PMC4503548,"Thymus caespititius",10,,751871
+PMC4503548,"Thymbra",5,,306405
+PMC4503548,"Praia",4,,1385312
+PMC4503548,"oxide",4,,1350215
+PMC4503548,"electron",2,,1118549
+PMC4503548,"Ia",2,,360966
+PMC4503548,"human",2,,9606
+PMC4503548,"Thymus mastichina",2,,157259
+PMC4503548,"Thymus pulegioides",2,,751873
+PMC4503548,"plants",1,,3193
+PMC4503548,"bovine",1,,27592
+PMC4503548,"thyme",1,,49992
+PMC4503548,"Origanum onites",1,,452416
+PMC4503548,"rat",1,,10116
+PMC4503548,"Satureja sahendica",1,,1443264
+PMC4503548,"colon",1,,1542223
+PMC4503548,"monkey",1,,9527
+PMC4503548,"Vila",1,,127372
+PMC4503548,"Thuja",1,,3315
+PMC4503548,"Mentha",1,,21819
+PMC4517501,"Salvia miltiorrhiza",7,,226208
+PMC4517501,"Hypericum perforatum",7,,65561
+PMC4517501,"Panax ginseng",7,,4054
+PMC4517501,"Tripterygium wilfordii",6,,458696
+PMC4517501,"bacteria",3,,2
+PMC4517501,"fungi",3,,4751
+PMC4517501,"black tea",3,,4442
+PMC4517501,"Arizona",3,,94892
+PMC4517501,"Flaveria bidentis",3,,4224
+PMC4517501,"rice",3,,4530
+PMC4517501,"Andrographis paniculata",3,,175694
+PMC4517501,"Ginkgo biloba",3,,3311
+PMC4517501,"hawthorn",3,,23159
+PMC4517501,"Oplopanax horridus",3,,182917
+PMC4517501,"algae",2,,3041
+PMC4517501,"Glycyrrhiza glabra",2,,49827
+PMC4517501,"tomato",2,,4081
+PMC4517501,"Panax quinquefolium",2,,44588
+PMC4517501,"Belamcanda chinensis",2,,58944
+PMC4517501,"Anemarrhena asphodeloides",2,,59045
+PMC4517501,"Oroxylum indicum",2,,83951
+PMC4517501,"Humulus lupulus",2,,3486
+PMC4517501,"Magnolia officinalis",2,,85864
+PMC4517501,"Zanthoxylum bungeanum",2,,328401
+PMC4517501,"Selaginella tamariscina",2,,137178
+PMC4517501,"Curcuma longa",2,,136217
+PMC4517501,"Picrorhiza scrophulariiflora",2,,470706
+PMC4517501,"Aspalathus linearis",2,,155124
+PMC4517501,"Zingiber cassumunar",2,,336856
+PMC4517501,"Cimicifuga racemosa",2,,64040
+PMC4517501,"Piper longum",2,,49511
+PMC4517501,"Polygonum cuspidatum",2,,83819
+PMC4517501,"Dendrobium chrysotoxum",2,,161865
+PMC4517501,"Fusarium larvarum",2,,57146
+PMC4517501,"Evodia rutaecarpa",2,,354523
+PMC4517501,"Lichina pygmaea",2,,157483
+PMC4517501,"animals",2,,33208
+PMC4517501,"rat",1,,10116
+PMC4517501,"pig",1,,9823
+PMC4517501,"dinoflagellates",1,,2864
+PMC4517501,"cyanobacteria",1,,1117
+PMC4517501,"yeasts",1,,4932
+PMC4517501,"Lycium ruthenicum",1,,112879
+PMC4517501,"Suillus placidus",1,,48579
+PMC4517501,"Trichosanthes kirilowii",1,,3677
+PMC4517501,"human",1,,9606
+PMC4517501,"Streptomyces sp.",1,,1931
+PMC4517501,"Sinapis",1,,3727
+PMC4517501,"Rhodotorula rubra",1,,5537
+PMC4517501,"Trichilia",1,,43894
+PMC4517501,"Juniperus communis",1,,58039
+PMC4517501,"Pouteria obovata",1,,191075
+PMC4517501,"cylinder",1,,6490
+PMC4517501,"Vitex negundo",1,,361442
+PMC4517501,"Copaifera",1,,162716
+PMC4517501,"Curcuma wenyujin",1,,136221
+PMC4517501,"Amaranthus tricolor",1,,29722
+PMC4517501,"Pelvetia siliquosa",1,,93837
+PMC4517501,"Streptomyces griseus",1,,1911
+PMC4517501,"sea buckthorn",1,,193516
+PMC4517501,"Dioscorea nipponica",1,,64700
+PMC4517501,"Coptis chinensis",1,,261450
+PMC4517501,"coffee",1,,13443
+PMC4517501,"Micromonospora",1,,1873
+PMC4517501,"Streptomyces tsukubaensis",1,,83656
+PMC4517501,"Corydalis yanhusuo",1,,458692
+PMC4517501,"Stephania yunnanensis",1,,152371
+PMC4517501,"Carthamus tinctorius",1,,4222
+PMC4517501,"Hylocereus polyrhizus",1,,1195597
+PMC4517501,"Bougainvillea glabra",1,,3541
+PMC4517501,"white mustard",1,,3728
+PMC4517501,"Lonicera japonica",1,,105884
+PMC4517501,"Cephalotaxus fortunei",1,,66169
+PMC4517501,"Nelumbo nucifera",1,,4432
+PMC4517501,"Stephania cepharantha",1,,152367
+PMC4517501,"Cynanchum bungei",1,,698326
+PMC4517501,"Capsicum frutescens",1,,4073
+PMC4517501,"Millettia pachycarpa",1,,690557
+PMC4517501,"Swertia mussotii",1,,137888
+PMC4517501,"plants",1,,3193
+PMC4517501,"Crataegus laevigata",1,,298643
+PMC4517501,"Gossypium hirsutum",1,,3635
+PMC4517501,"Myrica rubra",1,,262757
+PMC4517501,"Citrus aurantium",1,,43166
+PMC4517501,"Gardenia jasminoides",1,,114476
+PMC4517501,"Panax notoginseng",1,,44586
+PMC4517501,"Cynanchum paniculatum",1,,228726
+PMC4517501,"Cassia obtusifolia",1,,346985
+PMC4517501,"Apocynum venetum",1,,377125
+PMC4517501,"Mucuna sempervirens",1,,690556
+PMC4517501,"Salvia",1,,21880
+PMC4517501,"Dysosma versipellis",1,,93611
+PMC4517501,"Corona",1,,859912
+PMC4517501,"Ficus microcarpa",1,,66385
+PMC4517501,"Cyclopia subternata",1,,155109
+PMC4517501,"Prunus cerasus",1,,140311
+PMC4517501,"Phytolacca americana",1,,3527
+PMC4517501,"Ligusticum",1,,49551
+PMC4517501,"Halimodendron halodendron",1,,47657
+PMC4517501,"Nigella",1,,3443
+PMC4517501,"Vitis thunbergii",1,,153476
+PMC4517501,"Cucurbita pepo",1,,3663
+PMC4517501,"Arctium lappa",1,,4217
+PMC4517501,"Morinda officinalis",1,,266091
+PMC4517501,"Sophora flavescens",1,,49840
+PMC4517501,"Ancistrocladus tectorius",1,,714108
+PMC4517501,"Zingiber officinale",1,,94328
+PMC4517501,"Lantana trifolia",1,,925354
+PMC4517501,"Karenia brevis",1,,156230
+PMC4517501,"Silybum marianum",1,,92921
+PMC4517501,"Gypsophila paniculata",1,,235358
+PMC4517501,"broccoli",1,,36774
+PMC4517501,"Derris ferruginea",1,,1225686
+PMC4517501,"Alkanna tinctoria",1,,543564
+PMC4517501,"Spiranthes australis",1,,207338
+PMC4517501,"rhubarb",1,,3621
+PMC4517501,"Vitis riparia",1,,96939
+PMC4517501,"Datura",1,,4074
+PMC4517501,"Eucalyptus citriodora",1,,34329
+PMC4517501,"Escherichia coli",1,,562
+PMC4517501,"Angelica sinensis",1,,165353
+PMC4517501,"Isodon eriocalyx",1,,662907
+PMC4517501,"Micromonospora purpurea",1,,1877
+PMC4517501,"Inonotus obliquus",1,,167356
+PMC4519343,"human",66,,9606
+PMC4519343,"mouse",64,,10090
+PMC4519343,"rat",4,,10116
+PMC4519343,"C. elegans",2,,6239
+PMC4519343,"insects",1,,6960
+PMC4519343,"primate",1,,9443
+PMC4519343,"Drosophila",1,,32281
+PMC4525464,"thyme",44,,49992
+PMC4525464,"Thymus serpyllum L.",38,,204219
+PMC4525464,"Thymus",9,,49990
+PMC4525464,"plants",4,,3193
+PMC4525464,"Staphylococcus aureus",3,,1280
+PMC4525464,"Escherichia coli",3,,562
+PMC4525464,"Mentha",3,,21819
+PMC4525464,"Coltsfoot",2,,118778
+PMC4525464,"Echinacea",2,,7674
+PMC4525464,"Thymus linearis",2,,487773
+PMC4525464,"Bacillus subtilis",2,,1423
+PMC4525464,"oregano",2,,39352
+PMC4525464,"oxide",2,,1350215
+PMC4525464,"Lamiaceae",1,,4136
+PMC4525464,"fish",1,,7898
+PMC4525464,"Marrubium vulgare",1,,41230
+PMC4525464,"Rubus fruticosus",1,,211815
+PMC4525464,"fungi",1,,4751
+PMC4525464,"bacteria",1,,2
+PMC4525464,"rats",1,,10116
+PMC4525464,"Pseudomonas aeruginosa",1,,287
+PMC4525464,"Origanum majorana",1,,268884
+PMC4525464,"Proteus mirabilis",1,,584
+PMC4525464,"Salmonella choleraesuis",1,,28901
+PMC4525464,"Enterococcus faecalis",1,,1351
+PMC4525464,"Salmonella Typhi",1,,90370
+PMC4525464,"Shigella",1,,620
+PMC4525464,"Bacillus megaterium",1,,1404
+PMC4525464,"Lactobacillus acidophilus",1,,1579
+PMC4525464,"Micrococcus luteus",1,,1270
+PMC4525464,"Staphylococcus",1,,1279
+PMC4525464,"Vibrio cholera",1,,666
+PMC4525464,"Aspergillus ochraceus",1,,40380
+PMC4525464,"A. carbonarius",1,,40993
+PMC4525464,"A. niger",1,,5061
+PMC4525464,"mice",1,,10088
+PMC4525464,"human",1,,9606
+PMC4525464,"Colon",1,,1542223
+PMC4541688,"rat",8,,10116
+PMC4541688,"Lippia",5,,320344
+PMC4541688,"Croton",3,,100370
+PMC4541688,"plants",2,,3193
+PMC4541688,"Animals",2,,33208
+PMC4541688,"Verbenaceae",1,,21910
+PMC4541688,"Sergio",1,,338213
+PMC4541688,"Alpinia zerumbet",1,,97723
+PMC4548039,"cinnamon",22,,128608
+PMC4548039,"cloves",22,,219868
+PMC4548039,"ginger",20,,94328
+PMC4548039,"cumin",18,,52462
+PMC4548039,"cardamom",16,,105181
+PMC4548039,"fenugreek",10,,78534
+PMC4548039,"Enterococcus faecalis",8,,1351
+PMC4548039,"E. faecium",8,,1352
+PMC4548039,"Enterococcus",5,,1350
+PMC4548039,"bacteria",4,,2
+PMC4548039,"Piper nigrum",2,,13216
+PMC4548039,"E. avium",2,,33945
+PMC4548039,"E. durans",2,,53345
+PMC4548039,"E. raffinosus",2,,71452
+PMC4548039,"human",1,,9606
+PMC4548039,"Streptococcus",1,,1301
+PMC4548039,"cotton",1,,3635
+PMC4548039,"E. casseliflavus",1,,37734
+PMC4548039,"E. gallinarum",1,,1353
+PMC4548039,"Helicobacter pylori",1,,210
+PMC4553199,"Mentha spicata",28,,29719
+PMC4553199,"Bacteria",16,,2
+PMC4553199,"Staphylococcus aureus",14,,1280
+PMC4553199,"Listeria monocytogenes",12,,1639
+PMC4553199,"Bacillus cereus",9,,1396
+PMC4553199,"Bacillus subtilis",7,,1423
+PMC4553199,"Salmonella typhimurium",7,,90371
+PMC4553199,"Escherichia coli",5,,562
+PMC4553199,"E. coli O157",5,,1045010
+PMC4553199,"Gram-positive bacteria",3,,1239
+PMC4553199,"plants",3,,3193
+PMC4553199,"Escherichia coli O157:H7",2,,83334
+PMC4553199,"Mentha",2,,21819
+PMC4553199,"electron",2,,1118549
+PMC4553199,"Bacillus",1,,1386
+PMC4553199,"Salmonella",1,,590
+PMC4553199,"Yersinia",1,,629
+PMC4553199,"Clostridium",1,,1485
+PMC4553199,"fish",1,,7898
+PMC4553199,"Lamiaceae",1,,4136
+PMC4553199,"chocolate",1,,3641
+PMC4553199,"garlic",1,,4682
+PMC4553199,"thyme",1,,49992
+PMC4553199,"clove",1,,219868
+PMC4553199,"cotton",1,,3635
+PMC4553199,"M. longifolia",1,,38859
+PMC4553199,"Turkey",1,,9103
+PMC4558530,"Fusarium graminearum",33,,5518
+PMC4558530,"Ocimum sanctum",13,,204149
+PMC4558530,"maize",13,,381124
+PMC4558530,"electron",10,,1118549
+PMC4558530,"humans",6,,9606
+PMC4558530,"Fungi",4,,4751
+PMC4558530,"animals",4,,33208
+PMC4558530,"plants",3,,3193
+PMC4558530,"Aspergillus flavus",3,,5059
+PMC4558530,"mice",2,,10090
+PMC4558530,"rat",2,,10116
+PMC4558530,"Penicillium",1,,5073
+PMC4558530,"Aspergillus",1,,5052
+PMC4558530,"Fusarium",1,,5506
+PMC4558530,"Botrytis cinerea",1,,40559
+PMC4558530,"Zingiber officinale",1,,94328
+PMC4558530,"F. verticillioides",1,,117187
+PMC4558530,"pyrethrum",1,,118510
+PMC4558530,"Salmonella typhimurium",1,,90371
+PMC4558530,"Rauvolfia serpentina",1,,4060
+PMC4558530,"Rhizoctonia solani",1,,456999
+PMC4558530,"Candida",1,,5475
+PMC4558530,"Rana",1,,121175
+PMC4558530,"cotton",1,,3635
+PMC4566093,"mice",100,,10088
+PMC4566093,"mouse",18,,10090
+PMC4566093,"human",16,,9606
+PMC4566093,"murine",7,,39107
+PMC4566093,"animals",5,,33208
+PMC4566093,"cotton",3,,3635
+PMC4566093,"insects",2,,6960
+PMC4566093,"vanilla",1,,51238
+PMC4566093,"cinnamon",1,,128608
+PMC4566093,"moths",1,,7088
+PMC4566093,"mammals",1,,40674
+PMC4566093,"rats",1,,10116
+PMC4567485,"mice",41,,10088
+PMC4567485,"animals",12,,33208
+PMC4567485,"mouse",7,,10090
+PMC4567485,"cannula",1,,322730
+PMC4579641,"Mycobacterium tuberculosis",25,,1773
+PMC4579641,"Mycobacterium bovis",22,,1765
+PMC4579641,"electron",7,,1118549
+PMC4579641,"mycobacteria",6,,85007
+PMC4579641,"Mycobacterium tuberculosis H37Rv",2,,83332
+PMC4579641,"plants",2,,3193
+PMC4579641,"cinnamon",2,,128608
+PMC4579641,"oregano",2,,39352
+PMC4579641,"bacteria",2,,2
+PMC4579641,"anise",1,,40880
+PMC4579641,"caraway",1,,48032
+PMC4579641,"citronella",1,,159356
+PMC4579641,"clove",1,,219868
+PMC4579641,"cumin",1,,52462
+PMC4579641,"eucalyptus",1,,3932
+PMC4579641,"geranium",1,,4028
+PMC4579641,"holly oak",1,,58334
+PMC4579641,"tarragon",1,,72341
+PMC4579641,"Pinaceae",1,,3318
+PMC4579641,"Lamiaceae",1,,4136
+PMC4579641,"mouse",1,,10090
+PMC4579641,"bovine",1,,27592
+PMC4579641,"S. aureus",1,,1280
+PMC4583814,"mice",18,,10088
+PMC4583814,"mouse",13,,10090
+PMC4583814,"animals",8,,33208
+PMC4583814,"humans",5,,9606
+PMC4583814,"mammals",2,,40674
+PMC4583814,"Renilla",2,,6134
+PMC4583814,"rabbit",2,,9986
+PMC4583814,"T4",1,,10665
+PMC4583814,"bovine",1,,27592
+PMC4583814,"SV40",1,,10633
+PMC4583814,"donkey",1,,9793
+PMC4583814,"horseradish",1,,3704
+PMC4588114,"Aranda",21,,29713
+PMC4588114,"human",9,,9606
+PMC4588114,"coffee",2,,13443
+PMC4588114,"anise",2,,40880
+PMC4588114,"animals",2,,33208
+PMC4588114,"rats",1,,10116
+PMC4588114,"Composite",1,,4210
+PMC4588114,"lemon",1,,2708
+PMC4588114,"peppermint",1,,34256
+PMC4628703,"Fenugreek",14,,78534
+PMC4628703,"human",9,,9606
+PMC4628703,"plants",5,,3193
+PMC4628703,"Trigonella",3,,78532
+PMC4628703,"colon",2,,1542223
+PMC4628703,"HBV",1,,10407
+PMC4628703,"HCV",1,,11103
+PMC4628703,"yeast",1,,4932
+PMC4628703,"archaea",1,,2157
+PMC4628703,"Bovine",1,,27592
+PMC4628703,"cat",1,,9685
+PMC4628703,"mouse",1,,10090
+PMC4628703,"horseradish",1,,3704
+PMC4628703,"aroma",1,,354777
+PMC4628703,"grapefruits",1,,37656
+PMC4628703,"citrus",1,,2706
+PMC4640387,"Lippia origanoides",33,,542673
+PMC4640387,"bacteria",8,,2
+PMC4640387,"Lippia",7,,320344
+PMC4640387,"human",5,,9606
+PMC4640387,"Bacillus cereus",5,,1396
+PMC4640387,"Pseudomonas aeruginosa",5,,287
+PMC4640387,"mice",4,,10088
+PMC4640387,"B. subtilis",4,,1423
+PMC4640387,"Salmonella typhimurium",4,,90371
+PMC4640387,"animals",4,,33208
+PMC4640387,"plants",3,,3193
+PMC4640387,"oregano",2,,39352
+PMC4640387,"electron",2,,1118549
+PMC4640387,"Lippia sidoides",2,,320357
+PMC4640387,"fungi",1,,4751
+PMC4640387,"Verbenaceae",1,,21910
+PMC4640387,"Bacillus",1,,1386
+PMC4640387,"Lippia glandulosa",1,,320350
+PMC4640387,"L. chevalieri",1,,477786
+PMC4640387,"L. multiflora",1,,178423
+PMC4640387,"L. javanica",1,,925357
+PMC4640387,"L. gracilis",1,,215424
+PMC4640387,"Satureja spicigera",1,,412922
+PMC4640387,"S. cuneifolia",1,,546409
+PMC4640387,"Bahia",1,,41489
+PMC4641935,"Nigella sativa",82,,555479
+PMC4641935,"rats",17,,10116
+PMC4641935,"animals",5,,33208
+PMC4641935,"mice",3,,10088
+PMC4641935,"glycine",2,,1462605
+PMC4641935,"Ranunculaceae",1,,3440
+PMC4641935,"guinea pigs",1,,10140
+PMC4641935,"compacta",1,,581810
+PMC4641935,"mouse",1,,10090
+PMC4641935,"pomegranate",1,,22663
+PMC4656844,"human",8,,9606
+PMC4656844,"cannula",2,,322730
+PMC4656844,"vanilla",2,,51238
+PMC4656844,"mates",1,,185542
+PMC4656844,"Churchill",1,,868862
+PMC4656844,"Isma",1,,1113443
+PMC4656844,"animals",1,,33208
+PMC4656844,"strawberry",1,,3747
+PMC4656844,"Lavender",1,,39329
+PMC4656844,"Magnolia",1,,3402
+PMC4656844,"Pineapple",1,,4615
+PMC4656844,"aromas",1,,354777
+PMC4656844,"Cardinal",1,,405018
+PMC4656844,"chocolate",1,,3641
+PMC4656844,"lily of the valley",1,,32189
+PMC4656844,"apple",1,,3750
+PMC4664613,"cocoa",7,,3641
+PMC4664613,"vanilla",5,,51238
+PMC4664613,"pineapple",2,,4615
+PMC4664613,"cinnamon",2,,128608
+PMC4664613,"Fish",1,,7898
+PMC4664613,"Lavender",1,,39329
+PMC4664613,"cloves",1,,219868
+PMC4670656,"Citrus paradisi",60,,37656
+PMC4670656,"Citrus grandis",56,,37334
+PMC4670656,"citrus",26,,2706
+PMC4670656,"Escherichia coli",6,,562
+PMC4670656,"Salmonella enterica",5,,28901
+PMC4670656,"Pseudomonas aeruginosa",4,,287
+PMC4670656,"Staphylococcus aureus",4,,1280
+PMC4670656,"bacteria",3,,2
+PMC4670656,"Gram-positive bacteria",3,,1239
+PMC4670656,"Streptococcus faecalis",3,,1351
+PMC4670656,"aromas",1,,354777
+PMC4670656,"plants",1,,3193
+PMC4670656,"sugarcane",1,,4547
+PMC4670656,"electrons",1,,1118549
+PMC4670656,"Lota",1,,69943
+PMC4672195,"bacteria",27,,2
+PMC4672195,"Staphylococcus aureus",21,,1280
+PMC4672195,"E. coli",20,,562
+PMC4672195,"oregano",11,,39352
+PMC4672195,"Tea tree",11,,164405
+PMC4672195,"Cinnamon",10,,128608
+PMC4672195,"Listeria innocua",8,,1642
+PMC4672195,"Pseudomonas aeruginosa",8,,287
+PMC4672195,"Listeria monocytogenes",7,,1639
+PMC4672195,"thyme",5,,49992
+PMC4672195,"Bacillus cereus",5,,1396
+PMC4672195,"Lactobacillus plantarum",5,,1590
+PMC4672195,"E. coli O157",5,,1045010
+PMC4672195,"Gram-positive bacteria",4,,1239
+PMC4672195,"Clove",4,,219868
+PMC4672195,"Spanish oregano",4,,543980
+PMC4672195,"Chinese cinnamon",4,,119260
+PMC4672195,"Enterococcus faecium",4,,1352
+PMC4672195,"Enterococcus faecalis",4,,1351
+PMC4672195,"plants",3,,3193
+PMC4672195,"animals",3,,33208
+PMC4672195,"birds",3,,8782
+PMC4672195,"rosemary",3,,39367
+PMC4672195,"Salmonella",3,,590
+PMC4672195,"Salmonella typhimurium",3,,90371
+PMC4672195,"Lavender",3,,39329
+PMC4672195,"electron",3,,1118549
+PMC4672195,"capsicum",2,,4071
+PMC4672195,"Geranium",2,,4028
+PMC4672195,"Cymbopogon citratus",2,,66014
+PMC4672195,"Ocimum gratissimum",2,,204144
+PMC4672195,"citrus",2,,2706
+PMC4672195,"plum",1,,3758
+PMC4672195,"colon",1,,1542223
+PMC4672195,"lemon",1,,2708
+PMC4672195,"Salmonella Heidelberg",1,,611
+PMC4672195,"Escherichia coli O157:H7",1,,83334
+PMC4672195,"sheep",1,,9940
+PMC4672195,"Ginkgo biloba",1,,3311
+PMC4672195,"Eleutherine",1,,58985
+PMC4672195,"Pseudomonas fluorescens",1,,294
+PMC4672195,"cumin",1,,52462
+PMC4672195,"sweet orange",1,,2711
+PMC4672195,"Lactobacillus sakei",1,,1599
+PMC4672195,"Chromobacterium violaceum",1,,536
+PMC4672195,"peppermint",1,,34256
+PMC4672195,"Eucalyptus",1,,3932
+PMC4672195,"yeast",1,,4932
+PMC4672195,"cucumber",1,,869827
+PMC4673553,"Lemon",4,,2708
+PMC4673553,"cotton",2,,3635
+PMC4673553,"strawberry",2,,3747
+PMC4673553,"Chocolate",1,,3641
+PMC4673553,"Human",1,,9606
+PMC4673553,"garlic",1,,4682
+PMC4673553,"cinnamon",1,,128608
+PMC4673553,"banana",1,,4641
+PMC4673553,"almond",1,,3755
+PMC4673553,"Zanna",1,,548218
+PMC4673882,"mice",62,,10088
+PMC4673882,"mouse",10,,10090
+PMC4673882,"Animals",10,,33208
+PMC4673882,"cat",10,,9685
+PMC4673882,"bovine",2,,27592
+PMC4673882,"goat",2,,9925
+PMC4673882,"alexa",2,,149625
+PMC4673882,"horseradish",2,,3704
+PMC4673882,"AAV2",1,,10804
+PMC4673882,"SV40",1,,10633
+PMC4673882,"cytomegalovirus",1,,10358
+PMC4673882,"chicken",1,,9031
+PMC4673882,"woodchuck",1,,9995
+PMC4673882,"fish",1,,7898
+PMC4673882,"rabbit",1,,9986
+PMC4684335,"Marijuana",138,,3483
+PMC4684335,"aroma",42,,354777
+PMC4684335,"human",16,,9606
+PMC4684335,"Dogs",10,,9615
+PMC4684335,"oxide",4,,1350215
+PMC4684335,"plants",3,,3193
+PMC4684335,"Rice",2,,4530
+PMC4684335,"tomato",2,,4081
+PMC4684335,"cannabis",1,,3482
+PMC4684335,"coffee",1,,13443
+PMC4684335,"electron",1,,1118549
+PMC4686661,"flies",34,,7147
+PMC4686661,"Drosophila",8,,32281
+PMC4686661,"mouse",6,,10090
+PMC4686661,"chicken",6,,9031
+PMC4686661,"Donkey",5,,9793
+PMC4686661,"chimera",3,,7870
+PMC4686661,"Calyx",3,,295246
+PMC4686661,"goat",3,,9925
+PMC4686661,"Caenorhabditis elegans",2,,6239
+PMC4686661,"rabbit",2,,9986
+PMC4686661,"electron",1,,1118549
+PMC4686661,"fruitfly",1,,7215
+PMC4686661,"animals",1,,33208
+PMC4686661,"caraway",1,,48032
+PMC4686661,"cat",1,,9685
+PMC4707358,"Nigella sativa",13,,555479
+PMC4707358,"Human",8,,9606
+PMC4707358,"bovine",2,,27592
+PMC4707358,"rat",2,,10116
+PMC4707358,"Acridine",1,,62764
+PMC4708660,"Citrus limon",61,,2708
+PMC4708660,"Citrus",10,,2706
+PMC4708660,"electron",3,,1118549
+PMC4708660,"limes",2,,159033
+PMC4708660,"Zataria multiflora",2,,751877
+PMC4708660,"Mango",2,,29780
+PMC4708660,"cardamom",2,,105181
+PMC4708660,"Black Zira",2,,377473
+PMC4708660,"caraway",2,,48032
+PMC4708660,"rosemary",2,,39367
+PMC4708660,"oxide",2,,1350215
+PMC4708660,"bitter orange",1,,43166
+PMC4708660,"Rutaceae",1,,23513
+PMC4708660,"Tangerines",1,,85571
+PMC4708660,"grapefruit",1,,37656
+PMC4708660,"pomelo",1,,37334
+PMC4708660,"man",1,,9606
+PMC4708660,"plants",1,,3193
+PMC4708660,"cumin",1,,52462
+PMC4708660,"anise",1,,40880
+PMC4708660,"Satureja hortensis",1,,49987
+PMC4708660,"oregano",1,,39352
+PMC4708660,"thyme",1,,49992
+PMC4708660,"bear",1,,9641
+PMC4708660,"Perilla",1,,1313341
+PMC4724840,"Bunium persicum",49,,377494
+PMC4724840,"Mice",46,,10088
+PMC4724840,"T. gondii",7,,5811
+PMC4724840,"animals",5,,33208
+PMC4724840,"plants",4,,3193
+PMC4724840,"human",2,,9606
+PMC4724840,"Mentha",2,,21819
+PMC4724840,"cat",1,,9685
+PMC4724840,"Apiaceae",1,,4037
+PMC4724840,"Toxoplasma",1,,5810
+PMC4730278,"mice",41,,10088
+PMC4730278,"animals",27,,33208
+PMC4730278,"human",2,,9606
+PMC4730278,"colon",2,,1542223
+PMC4730278,"plants",1,,3193
+PMC4749828,"Staphylococcus aureus",16,,1280
+PMC4749828,"bacteria",7,,2
+PMC4749828,"E. coli",5,,562
+PMC4749828,"Streptomyces platensis",3,,58346
+PMC4749828,"Streptococcus agalactiae",3,,1311
+PMC4749828,"Gram-positive bacteria",2,,1239
+PMC4749828,"Streptomyces",2,,1883
+PMC4749828,"B. subtilis",2,,1423
+PMC4749828,"Streptococcus",1,,1301
+PMC4749828,"Actinomyces",1,,1654
+PMC4749828,"oxide",1,,1350215
+PMC4749828,"tetra",1,,1310384
+PMC4749828,"plants",1,,3193
+PMC4749828,"mammals",1,,40674
+PMC4749828,"lactobacillales",1,,186826
+PMC4749828,"Human",1,,9606
+PMC4749828,"mice",1,,10088
+PMC4766438,"Drosophila",19,,32281
+PMC4766438,"Drosophila melanogaster",7,,7227
+PMC4766438,"animals",7,,33208
+PMC4766438,"humans",5,,9606
+PMC4766438,"flies",3,,7147
+PMC4766438,"atlas",2,,557721
+PMC4766438,"mammals",1,,40674
+PMC4766438,"insects",1,,6960
+PMC4766438,"dogs",1,,9615
+PMC4766438,"mice",1,,10088
+PMC4766438,"honeybees",1,,7460
+PMC4766438,"ants",1,,36668
+PMC4766438,"banana",1,,4641
+PMC4766438,"mouse",1,,10090
+PMC4766438,"yeast",1,,4932
+PMC4766438,"sugar beet",1,,3555
+PMC4766438,"Argon",1,,354775
+PMC4783362,"Lactuca sativa",79,,4236
+PMC4783362,"Carum carvi",53,,48032
+PMC4783362,"Eruca vesicaria",52,,180536
+PMC4783362,"human",3,,9606
+PMC4783362,"Asteraceae",1,,4210
+PMC4783362,"Brassicaceae",1,,3700
+PMC4783362,"Apiaceae",1,,4037
+PMC4783362,"Arugula",1,,29727
+PMC4783362,"diones",1,,33460
+PMC4783362,"animals",1,,33208
+PMC4786606,"Escherichia coli",22,,562
+PMC4786606,"yeast",19,,4932
+PMC4786606,"citrus",15,,2706
+PMC4786606,"plants",10,,3193
+PMC4786606,"Mentha spicata",6,,29719
+PMC4786606,"Abies grandis",5,,46611
+PMC4786606,"lemon",4,,2708
+PMC4786606,"mentha",4,,21819
+PMC4786606,"cyanobacteria",3,,1117
+PMC4786606,"Perilla frutescens",2,,48386
+PMC4786606,"tomato",2,,4081
+PMC4786606,"Staphylococcus aureus",2,,1280
+PMC4786606,"A. borkumensis",2,,59754
+PMC4786606,"Synechocystis sp.",2,,1143
+PMC4786606,"Streptomyces",2,,1883
+PMC4786606,"Lamiaceae",2,,4136
+PMC4786606,"Lavandula angustifolia",1,,39329
+PMC4786606,"Solanum habrochaites",1,,62890
+PMC4786606,"soybean",1,,3847
+PMC4786606,"Streptomyces sp.",1,,1931
+PMC4786606,"Synechocystis",1,,1142
+PMC4786606,"Schizonepeta tenuifolia",1,,135200
+PMC4786606,"Synechococcus sp.",1,,1131
+PMC4786606,"Saccharomyces",1,,4930
+PMC4786606,"Arabidopsis",1,,3701
+PMC4786606,"Abies",1,,3319
+PMC4786606,"peppermint",1,,34256
+PMC4786606,"Twister",1,,582525
+PMC4786606,"Pseudomonas",1,,286
+PMC4786606,"Pseudomonas putida",1,,303
+PMC4786606,"Grosmannia clavigera",1,,226899
+PMC4786606,"bacteria",1,,2
+PMC4786955,"electron",28,,1118549
+PMC4786955,"argon",2,,354775
+PMC4786955,"seal",2,,9709
+PMC4786955,"Enterobacter cloacae",1,,550
+PMC4786955,"Thermoanaerobacter pseudethanolicus",1,,496866
+PMC4786955,"oxide",1,,1350215
+PMC4786955,"Thermobifida fusca",1,,2021
+PMC4786955,"B. subtilis",1,,1423
+PMC4799292,"Metasequoia glyptostroboides",107,,3371
+PMC4799292,"Metasequoia",12,,3370
+PMC4799292,"bacteria",6,,2
+PMC4799292,"Sequoia",6,,25611
+PMC4799292,"Ida",5,,426865
+PMC4799292,"plants",4,,3193
+PMC4799292,"gram-positive bacteria",4,,1239
+PMC4799292,"conifers",3,,3312
+PMC4799292,"Cupressaceae",2,,3367
+PMC4799292,"viruses",2,,10239
+PMC4799292,"fungi",2,,4751
+PMC4799292,"Podocarpus",2,,3363
+PMC4799292,"human",2,,9606
+PMC4799292,"Perilla",1,,1313341
+PMC4799292,"japonica",1,,73258
+PMC4799292,"monocotyledons",1,,4447
+PMC4799292,"Liverworts",1,,3197
+PMC4799292,"algae",1,,3041
+PMC4799292,"redwood",1,,28980
+PMC4799292,"listeria",1,,1637
+PMC4799292,"Bacillus subtilis",1,,1423
+PMC4799292,"Escherichia coli",1,,562
+PMC4799292,"Botrytis cinerea",1,,40559
+PMC4799292,"Rhizoctonia solani",1,,456999
+PMC4799292,"Fusarium oxysporum",1,,5507
+PMC4799292,"Sclerotinia sclerotiorum",1,,5180
+PMC4799292,"Colletotrichum capsici",1,,5456
+PMC4799292,"Fusarium solani",1,,169388
+PMC4799292,"Phytophthora capsici",1,,4784
+PMC4799292,"Candida",1,,5475
+PMC4799292,"rats",1,,10116
+PMC4819710,"mouse",28,,10090
+PMC4819710,"mice",16,,10088
+PMC4819710,"donkey",5,,9793
+PMC4819710,"human",2,,9606
+PMC4819710,"Xenopus laevis",2,,8355
+PMC4819710,"chicken",2,,9031
+PMC4819710,"goat",2,,9925
+PMC4819710,"Xenopus",2,,262014
+PMC4819710,"chimeras",1,,7870
+PMC4819710,"animals",1,,33208
+PMC4819710,"rabbit",1,,9986
+PMC4819710,"vanilline",1,,158369
+PMC4822282,"plants",25,,3193
+PMC4822282,"bacteria",13,,2
+PMC4822282,"microbiota",7,,13613
+PMC4822282,"Sambucus nigra",6,,4202
+PMC4822282,"fungi",4,,4751
+PMC4822282,"insects",3,,6960
+PMC4822282,"human",1,,9606
+PMC4822282,"Methylobacterium extorquens",1,,408
+PMC4822282,"glycine",1,,1462605
+PMC4822282,"eukaryotes",1,,2759
+PMC4822282,"electrons",1,,1118549
+PMC4822282,"Aloe vera",1,,34199
+PMC4822282,"yeast",1,,4932
+PMC4822282,"Enterobacteriaceae",1,,543
+PMC4822282,"hoverflies",1,,34680
+PMC4822282,"cat",1,,9685
