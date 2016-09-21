@@ -72,6 +72,16 @@ getpapers -q zika -o zika -x -p
 https://rawgit.com/ContentMine/amidemos/master/zika/full.dataTables.html 
 
 
+### others
+Carvone ( a terpene in caraway )
+https://rawgit.com/ContentMine/amidemos/master/carvone/full.dataTables.html 
+
+## documentation
+
+Much of the procedure and vackground is given in presentations such as
+http://www.slideshare.net/petermurrayrust/high-throughput-mining-of-the-plantscience-literature
+which illustrates Carvone and describes the role of Wikidata.
+
 
 
 
