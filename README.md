@@ -69,7 +69,7 @@ We have done the same for "Zika" with a slightly different set of columns
 ```
 getpapers -q zika -o zika -x -p
 ```
-https://rawgit.com/ContentMine/amidemos/master/git/full.dataTables.html 
+https://rawgit.com/ContentMine/amidemos/master/zika/full.dataTables.html 
 
 
 
