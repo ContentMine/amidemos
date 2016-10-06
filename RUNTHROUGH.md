@@ -10,12 +10,14 @@ https://larsgw.github.io/contentmine-fellowship/html/card_c03-d.html
 (subject matter conifers)
 
 ## as data tables
-```
+
 https://github.com/ContentMine/amidemos
+
 https://rawgit.com/ContentMine/amidemos/master/aardvark/full.dataTables.html
+
 https://rawgit.com/ContentMine/amidemos/master/zika/full.dataTables.html
-```
-links to full text (left column) and Wikipedia (other columns)
+
+These link to full text (left column) and Wikipedia (other columns)
 
 ## anotation of fulltext 
 4:50 We also have a demo of ContentMine and Hypothes.is running togther (`amanuens.is`) at
@@ -34,4 +36,9 @@ You will also need Java 7 (installable from Oracle)
 
 ## alpha prototype of GUI (`getpapers`, `quickscrape`, `norma`, `ami`)
 https://github.com/ContentMine/contentmine-gui
+
+## slides
+http://www.slideshare.net/petermurrayrust/
+specifically:
+http://www.slideshare.net/petermurrayrust/high-throughput-mining-of-the-plantscience-literature
 
