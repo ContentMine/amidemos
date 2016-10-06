@@ -30,6 +30,11 @@ https://contentmine-demo.herokuapp.com/cooccurrences
 https://contentmine-demo.herokuapp.com/dictionaries
 https://contentmine-demo.herokuapp.com/factexplorer
 
+## dictionaries
+https://github.com/contentmine/dictionaries
+e.g.
+https://github.com/ContentMine/dictionaries/blob/master/json/disease.json
+
 ## running the software
 http://contentmine.org/installwhich tells you how to install `Node.js` on different platforms (W/Mac/Unix). 
 You will also need Java 7 (installable from Oracle)
