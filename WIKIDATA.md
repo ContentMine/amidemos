@@ -7,7 +7,8 @@ These are a few demos of how Wikidata can be used
 ### Cambridge University Library 
 
 
-[http://tools.wmflabs.org/reasonator/?q=Q1028334 Wikidata items based on CUL]
+[http://tools.wmflabs.org/reasonator/?q=Q1028334](Wikidata items based on CUL)
 
+[https://contentmine-demo.herokuapp.com/cooccurrences](Co-occurrences of diseases in Zika Corpus)
 
 
