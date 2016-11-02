@@ -1,7 +1,7 @@
 # SAMPLE demos of Wikidata and ContentMine
 ALL DATA, METADATA, ARE OPEN (CC-BY or equivalent). No copyrighted material is used without explicit permission
 
-Running text from Wikipedia or automatically assembled.
+Running text is from Wikipedia or automatically assembled from Wikidata.
 
 ## Wikdata demos
 These are a few demos of how Wikidata can be used. (from [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), [blog](http://magnusmanske.de/wordpress/)).
