@@ -7,7 +7,7 @@ These are a few demos of how Wikidata can be used
 ### Cambridge University Library 
 
 
-[Wikidata items based on CUL | http://tools.wmflabs.org/reasonator/?q=Q1028334]
+[Wikidata items based on CUL http://tools.wmflabs.org/reasonator/?q=Q1028334]
 
 
 
