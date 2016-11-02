@@ -15,7 +15,7 @@ Reasonator (aggregation of metadata into interactive page)
 [Wikidata items based on CUL](http://tools.wmflabs.org/reasonator/?q=Q1028334)
 
 ### Histropedia
-Timeline automatically assembled from Wikipedia entries
+Timeline automatically assembled by histropedia.com from Wikipedia entries.
 
 [Universities of the world](http://histropedia.com/timeline/z7kb59m2lz/Universities)
 
