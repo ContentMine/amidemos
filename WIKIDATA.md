@@ -8,7 +8,7 @@ These are a few demos of how Wikidata can be used. (from [Magnus Manske](https:/
 
 ### Wikidata and Cambridge Listed buildings
 Wikidata overlay tool:
-[Listed buildings in Cambridge](https://tools.wmflabs.org/wikishootme/#lat=52.204082366142&lng=0.11190176010131837&zoom=16&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP1435%20wd%3AQ15700834). tens through English Heritage
+[Listed buildings in Cambridge](https://tools.wmflabs.org/wikishootme/#lat=52.204082366142&lng=0.11190176010131837&zoom=16&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP1435%20wd%3AQ15700834). from English Heritage.
 
 ### Cambridge University Library 
 Reasonator (aggregation of metadata into interactive page)
@@ -20,7 +20,7 @@ Timeline automatically assembled from Wikipedia entries
 [Universities of the world](http://histropedia.com/timeline/z7kb59m2lz/Universities)
 
 ## ContentMine demos
-Corpus of 200 OPEN (CC-BY) articles in Europe PubMedCentral about Zika (2016-01). 
+Corpus of 200 OPEN (CC-BY) articles in [Europe PubMedCentral](http://europepmc.org/) about Zika (2016-01). 
 
 ### dataTables from contentMine/ami
 Extraction from corpus of {gene, drugs, disease, country, species, words ...} from  
