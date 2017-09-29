@@ -18,9 +18,11 @@ http://contentmine.github.io/ native installation instructions
 visit http://www.europepmc.org
 Type in any search query on a subject you might know something about. Are the results useful?
 
-
 ## running a scientific search using getpapers
 Do the same as above by this time insta
+
+## mining with chemical tagger
+http://chemicaltagger.cam.ac.uk
 
 ## clickable examples
 
